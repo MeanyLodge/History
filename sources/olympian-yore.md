@@ -120,17 +120,9 @@ Not only is Hillel a talented skier, he also wields a lot of power.
 
 At lunch time, it’s Hillel’s job to blow a shofar – traditionally an instrument made from a ram’s horn. The sound brings quiet to the lodge. Even the rope tows shut down for lunch.
 
-Meals are included with Meany lift tickets and the spread is laid out by volunteers.
+Meals are included with Meany lift tickets and the spread is laid out by volunteers. But before they eat, a volunteer wearing a “1988 King of Mardi Gras” sweatshirt had some announcements. Emilio Marasco explained that visitors must help clean the lodge before they leave. Also, they must wash their plate plus one pot.
 
-But before they eat, a volunteer wearing a “1988 King of Mardi Gras” sweatshirt had some announcements.
-
-Emilio Marasco explained that visitors must help clean the lodge before they leave. Also, they must wash their plate plus one pot.
-
-The scene is indicative of how Meany Lodge works.
-
-“You hear people around here say, ‘It takes a lodge,’ ” said Dan Nord, whose been visiting the lodge for a decade. “Everybody helps out.”
-
-That means the adults are attentive to all the kids, Nord said. Everybody helps with chores.
+The scene is indicative of how Meany Lodge works. “You hear people around here say, ‘It takes a lodge,’ ” said Dan Nord, whose been visiting the lodge for a decade. “Everybody helps out.” That means the adults are attentive to all the kids, Nord said. Everybody helps with chores.
 
 Trail grooming, rope tow maintenance, even major projects such as adding a fourth floor to the lodge is handled by a group called the “The Fossils.” These volunteers are typically retired from careers such as electrical and mechanical engineering. One is even a former race car mechanic.
 
