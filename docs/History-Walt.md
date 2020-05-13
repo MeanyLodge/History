@@ -414,7 +414,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 ## 1982
 
 - Hut: Convert ex-shop space in basement to First Aid and drying room
-- New concrete slab 16' X 20' to facilitate maintenance on [[Pack-Rat]]
+- New concrete slab 16' X 20' to facilitate maintenance on [Pack-Rat](Pack-Rat)
 - Access: Sno-Park ticket price now $7.50 per season
 - Mach
     - Realigned 4" X 4" steel track on front of tow hut

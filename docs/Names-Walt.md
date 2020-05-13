@@ -8,7 +8,7 @@ marked "Walt Little's Copy"
 
 Named in honor of Prof. Edmond S. Meany of U.W. who was Mountaineer President for 25 years; and who in 1927 bought the Meany property from the NPRR - 54 acres for $125 - and donated same to Mountaineers. He made only one stipulation; the property should not be used on Easter Sunday.
 
-### [[Hell's Half-acre]]
+### [Hell's Half-acre](Hell's-Half-acre)
 
 This patch of ground is north of the Lane and south of [Cognito Wood](Cognito-Wood). At the time of purchase of Meany, there was second growth brush and timber on it. All the timber had been logged in 1886 by the NPRR so as to clear the area for "Tunnel City", their campsite.
 
@@ -106,7 +106,7 @@ Bonneville Power thinks this is a transmission line tower, but Slobbovians know 
 
 High point just above the water supply dam. Bill Brockman came down the upper part of South Slobbovia too fast, attempted to stop on this knob - failed - and when last seen was trying to get his edges to bite on thin air.
 
-### [[9-G Pullout]]
+### [9-G Pullout](9-G-Pullout)
 
 This is a very steep slope from Brockman's Knob straight down to the water supply. When snow is deep, the trick is to run this absolutely straight, until at the last minute a turn is made down the canyon. The centrifugal acceleration force in this turn is estimated at 9-G's. Those who fail to turn make a tunnel into the opposite bank under North Slobbovia. 9 G's - 9 guys, this is, were required to extract tunnel builders.
 
@@ -228,7 +228,7 @@ Small shack built below RR track to store gasoline for the Tom Cat. Built in 196
 
 The Edifice Wreck has not been used since about 1979, when it became possible to run the Tom Cat over the BNRR to the Meany Hut.
 
-### [[Con-Rod Curve]]
+### [Con-Rod Curve](Con-Rod-Curve)
 
 This is on the Tom Cat road - FS. Road 54 - just east of the Yakima River bridge. It was here on a horrible Sunday night in 1976 that a connecting rod burst through the side of the Tom Cat engine block. It was about eight p.m., raining, dark, sleet crust all over, crying kids, mad parents, the works. Believe it or not, a new engine was in the tractor by Wednesday night, and the hut opened the next weekend as usual.
 

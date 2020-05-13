@@ -8,7 +8,7 @@ Page One - Rough Draft
 
 Named in honor of Prof. Edmond S. Meany of U.W. who was Mountaineer President for 25 years; and who in 1927 bought the Meany property from the NPRR - 54 acres for $125 - and donated same to Mountaineers. He made only one stipulation; the property should not be used on Easter Sunday.
 
-### [[Hell's Half-acre]]
+### [Hell's Half-acre](Hell's-Half-acre)
 
 This patch of ground is north of the Lane and south of Cognito Wood. At the time of purchase of Meany, there was second growth brush timber on it. All the timber had been logged in 1886 by the NPRR so as to clear the area for "Tunnel City", their campsite. In about 1930, Mountaineers cleared the brush and second growth in order to get some open skiing area near Meany Ski Hut. Because the work was done in some exceptionally hot weather, the area became known as "Hell's Half-acre." The area is again partially regrown, and the name has disappeared from present usage.
 
@@ -104,7 +104,7 @@ Bonneyville Power thinks this is a transmission line tower, but Slobbovians know
 
 High point just above the water supply dam. Bill Brockman came down the upper part of South Slobbovia too fast, attempted to stop on this knob - failed - and when last seen was trying to get his edges to bite on thin air.
 
-### [[9-G Pullout]]
+### [9-G Pullout](9-G-Pullout)
 
 This is a very steep slope from Brockman's Knob straight down to the water supply. When snow is deep, the trick is to run this absolutely straight, until at the last minute a turn is made down the canyon. The centrifugal acceleration force in this turn is estimated at 9-G's. Those who fail to turn make a tunnel into the opposite bank, under North Slobbovia.
 
@@ -216,7 +216,7 @@ About one-fourth mile west of the point where the Tom Cat road crosses the Milwa
 
 Small shack built below RR track to store gasoline for the Tom Cat. Built in 1960 by some students who at the time were working their way through the Greek classic tragedy "Oedipus Rex." Forgive them the pun - even a little humor is better than none...
 
-### [[Con-Rod Curve]]
+### [Con-Rod Curve](Con-Rod-Curve)
 
 This is on the Tom Cat road - 212 A to you - just east of the Yakima River bridge. It was here on a horrible Sunday night in 1976 that a connecting rod burst through the side of the Tom Cat engine block. It was about eight p.m., raining, dark, sleet crust all over, crying kids, mad parents, the works. Believe it or not, a new engine was in the tractor by Wednesday night, and the hut opened the next weekend as usual.
 

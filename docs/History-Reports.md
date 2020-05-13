@@ -3,7 +3,7 @@ From [Admin Reports](http://www.meanylodge.org/archives/admin_report.html) on me
 
 Authored by: likely [Idona Kellogg](Idona-Kellogg)
 
-Matt's Note: The reports thru 1983 are included in the [Mountaineer Annuals](Mountaineer-Annual). Some reports overlap with [[History-Walt]].
+Matt's Note: The reports thru 1983 are included in the [Mountaineer Annuals](Mountaineer-Annual). Some reports overlap with [History-Walt](History-Walt).
 
 ## 1978
 
@@ -21,7 +21,7 @@ In September, a gigantic Wolf gas kitchen range with two large ovens was somehow
 
 For the first time ever a marriage took place at Meany as Georgean and Dick Curran skied to their wedding at the top of "Kitchen Run". Following the ceremony the minister skied the hill with the rest of the wedding party. A huge seven-part cake made by Idona Kellogg was brought in sections and assembled at the lodge. The reception began with a march of the newly-weds through arched ski-poles.
 
-Record crowds were drawn this season by outstanding live music, vigorous folk dancing, home-made ice cream parties, fantastic skiing, terrific ski lessons by [[Patti Polinsky-Claar]], [Dave Claar](Dave-Claar) and Glen Polinsky, entertaining plays and programs, and world encompassing movies and slide shows.
+Record crowds were drawn this season by outstanding live music, vigorous folk dancing, home-made ice cream parties, fantastic skiing, terrific ski lessons by [Patti Polinsky-Claar](Patti-Polinsky-Claar), [Dave Claar](Dave-Claar) and Glen Polinsky, entertaining plays and programs, and world encompassing movies and slide shows.
 
 Special thanks go to musicians Richard Swensson, [Art Nation](Art-Nation), Lyle Schaefer, Frank Gilbert, Jim Noyes, Roy Wagner, Olemara Peters, and the Speldosan Group. Also "The Mountaineer Players" presented three delightful performances: The Story theatre, Who Murdered Who, and a musical review, F.M at P.M. Thanks also to Jack Reid and Michael Clarke who did great jobs with their slide shows of recent trips.
 
