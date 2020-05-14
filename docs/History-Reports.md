@@ -9,7 +9,7 @@ Matt's Note: The reports thru 1983 are included in the [Mountaineer Annuals](Mou
 
 It all began at Meany this season with preparation for its 50th Birthday Party, Sept. 23-24. This turned out to be an exceptionally well-organized spectacular event with 450 participants.
 
-A highlight of the ski season was the carnival weekend which featured many corny contests and crazy races, a clowns contest and a "European Feast" complete with German hot potato salad and homemade European pastries, pretzels and breadsticks. Many fancy relish trays with elaborate flowered vegetable "nibbles" and apple swans served from an outdoor snow table is an example of how embellished and painstaking the carnival events were. This fantastic weekend was masterminded by Patti Polinsky-Claar.
+A highlight of the ski season was the carnival weekend which featured many corny contests and crazy races, a clowns contest and a "European Feast" complete with German hot potato salad and homemade European pastries, pretzels and breadsticks. Many fancy relish trays with elaborate flowered vegetable "nibbles" and apple swans served from an outdoor snow table is an example of how embellished and painstaking the carnival events were. This fantastic weekend was masterminded by [Patti Polinsky](Patti-Polinsky).
 
 One extra special Saturday night program was the dedication banquet for "Walt's Woods" with Master of Ceremonies Lee Heiser cleverly spicing the evening and a film on Walter shown by [Bob Bentler](Bob-Bentler). A huge cake shaped like a bald head contained a hidden cavity which was opened to reveal Walter's thoughts in the form of sayings on heart-shaped candies.
 
@@ -21,7 +21,7 @@ In September, a gigantic Wolf gas kitchen range with two large ovens was somehow
 
 For the first time ever a marriage took place at Meany as Georgean and Dick Curran skied to their wedding at the top of "Kitchen Run". Following the ceremony the minister skied the hill with the rest of the wedding party. A huge seven-part cake made by Idona Kellogg was brought in sections and assembled at the lodge. The reception began with a march of the newly-weds through arched ski-poles.
 
-Record crowds were drawn this season by outstanding live music, vigorous folk dancing, home-made ice cream parties, fantastic skiing, terrific ski lessons by [Patti Polinsky-Claar](Patti-Polinsky-Claar), [Dave Claar](Dave-Claar) and Glen Polinsky, entertaining plays and programs, and world encompassing movies and slide shows.
+Record crowds were drawn this season by outstanding live music, vigorous folk dancing, home-made ice cream parties, fantastic skiing, terrific ski lessons by [Patti Polinsky](Patti-Polinsky), [Dave Claar](Dave-Claar) and Glen Polinsky, entertaining plays and programs, and world encompassing movies and slide shows.
 
 Special thanks go to musicians Richard Swensson, [Art Nation](Art-Nation), Lyle Schaefer, Frank Gilbert, Jim Noyes, Roy Wagner, Olemara Peters, and the Speldosan Group. Also "The Mountaineer Players" presented three delightful performances: The Story theatre, Who Murdered Who, and a musical review, F.M at P.M. Thanks also to Jack Reid and Michael Clarke who did great jobs with their slide shows of recent trips.
 
@@ -29,7 +29,7 @@ Alaska Weekend went over big with a greased pole contest, a gorp presentation, A
 
 Another notable weekend was the Leap Day Bonanza where Hildegarde Hamhocker of Tumbleweeds (played by [Bob Bentler](Bob-Bentler)) and Sadie Hawkins from Dogpatch (portrayed by [Norm Vigus](Norm-Vigus)) invaded to choose a mate from among the many Meany eligibles. Other skit characters were the minister ([Dave Claar](Dave-Claar)) and the victim (Charlie Vail). Walter B. Little walked away with the Bachelor of the Year Award with Norm Vigus as runner-up. Bob Bentler showed Super 8 movies of Walt and Norm to prove why they should be winners.
 
-The annual Carnivale di Meany was again a superb event as master-minded by Patti Polinsky-Claar. In addition to skiing events there were corny contests and crazy races, a clowns contest, and a "European Feast" complete with German hot potato salad and homemade European pastries, pretzels and breadsticks.
+The annual Carnivale di Meany was again a superb event as master-minded by [Patti Polinsky](Patti-Polinsky). In addition to skiing events there were corny contests and crazy races, a clowns contest, and a "European Feast" complete with German hot potato salad and homemade European pastries, pretzels and breadsticks.
 
 Fall work parties installed a second hot water tank, painted the "cats" and started the enormous task of cleaning "Walter's Woods" and "Henrietta's Meadow". In addition to the usual fall maintenance and upkeep. After long negotiations with the railroad, we gained final approval installed a gate below the railroad to help cut down on vandalism
 
@@ -69,7 +69,7 @@ Also during the Christmas week, an Indiana man, Tom McCart, won the "Uno Champio
 
 ## 1982
 
-Record crowds were drawn to Meany this season by plentiful snow, fantastic skiing, terrific ski lessons with capacity classes taught by Patti Polinsky, Dave Claar and Kim Nelson, vigorous folk dancing, extremely talented musicians and entertaining skits and programs.
+Record crowds were drawn to Meany this season by plentiful snow, fantastic skiing, terrific ski lessons with capacity classes taught by [Patti Polinsky](Patti-Polinsky), [Dave Claar](Dave-Claar) and Kim Nelson, vigorous folk dancing, extremely talented musicians and entertaining skits and programs.
 
 One of the biggest thrills was Dick Curran's 50 ft aerial ride which was the last leg of an obstacle course he set up for the Carnivale di Meany. The Spring Carnival has an Austrian flavor as Patti Polinsky masterminded "zillertal" activities. This enormous undertaking included a hill-wide scavenger hunt, snow golfing, bow and arrow rivalry, a been carry, slow slalom course, Frisbee toss, snake follow, inner-tube run, kids "costume" parade, an authentic Austrian dinner, a huge "Konditorei" pastry table, a lavish luncheon completer with fancy vegetable nibbles and homemade breadsticks and pretzels and a "lively" folk dance stimulated by Meany's gifted Musicians.
 
@@ -194,7 +194,7 @@ Meany Advertising Committee continued to make presentations to community groups,
 ## 1989
 
 - 67 people completed the Alpine and Cross-Country Ski Courses. The following is a summary of the Meany 1989 Ski Courses. The enrichment add-ons are also listed.
-- Two four-week sessions of PSIA-NW recognized Ski School under direction of Patti Polinsky, certified Ski instructor.
+- Two four-week sessions of PSIA-NW recognized Ski School under direction of [Patti Polinsky](Patti-Polinsky), certified Ski instructor.
 - One three week Cross-country Ski Course was held in February.
 - A Telemark Class was added to Cross-country offerings.
 - In February, a Weekend clinic on gates and ski-racing was taught.
