@@ -1,3 +1,7 @@
+---
+title: Meany Names
+category: Document
+---
 # Meany Names
 
 by Walt Little, 1978, Revised 1984

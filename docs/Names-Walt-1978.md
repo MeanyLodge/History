@@ -1,3 +1,7 @@
+---
+title: Meany Names 1978
+category: Document
+---
 # Meany Names
 
 by Walter B. Little

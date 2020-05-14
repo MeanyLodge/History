@@ -1,3 +1,7 @@
+---
+title: Mountaineer Annul
+category: Document
+---
 [Mountaineer Annuals Index](https://www.mountaineers.org/about/history/the-mountaineer-annuals)
 
 ## [1935](https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1935)
@@ -854,7 +858,7 @@ It all began at Meany Ski Hut this season with preparation for the Meany 50th Bi
 
 A highlight of the ski season was the carnival weekend which featured many corny contests and crazy races, a clowns contest, and a "European Feast" complete with German hot potato salad and homemade European pastries, pretzels, and breadsticks. Many fancy relish trays with elaborate flowered vegetable "nibblies" and apple swans served from an outdoor snow table is an example of how embellished and painstaking the carnival events were. This fantastic weekend was masterminded by [Patti Polinsky](Patty-Polinsky).
 
-One extra special Saturday night program was the dedication banquet for [Walter's Woods](Walter's-Woods) with Master of Ceremonies Lee Helser cleverly spicing the evening and a film on Walter shown by Bob Bentler. A huge cake shaped like a bald head contained a hidden cavity which was opened to reveal Walter's thoughts in the form of sayings on heart-shaped candies.
+One extra special Saturday night program was the dedication banquet for [Walter's Woods](Walter's-Woods) with Master of Ceremonies [Lee Helser](Lee-Helser) cleverly spicing the evening and a film on Walter shown by Bob Bentler. A huge cake shaped like a bald head contained a hidden cavity which was opened to reveal Walter's thoughts in the form of sayings on heart-shaped candies.
 
 A very important change to the Meany vicinity was made in the summer of 1978 when the Forest Service logged Section 34 which included "Henrietta's Woods" and "No-Name-Woods." These areas are now known as "Henrietta's Meadow" and "Walter's Woods." The gulley between the two has been christened "RBCSA Gulch" and the cross-country ski trail labeled "Al's Fringe." (RBCSA means Retroactive Birth Control Society of America.)
 

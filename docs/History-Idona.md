@@ -1,4 +1,7 @@
-
+---
+title: Chronological History of Meany Lodge
+category: Document
+---
 from [CHRONOLOGICAL HISTORY OF MEANY LODGE](https://www.mountaineers.org/locations-lodges/meany-lodge/history/archive-pages/chronological-history-of-meany-lodge)
 
 author: [Idona Kellogg](Idona-Kellogg)

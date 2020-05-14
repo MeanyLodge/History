@@ -1,5 +1,8 @@
-
-Meany History
+---
+title: Meany History
+category: Document
+---
+# Meany History
 
 Compiled by Walt Little, addressed to [Ray Nelson](Ray-Nelson) and [Dave Claar](Dave-Claar)
 
@@ -7,17 +10,17 @@ Cover page:
     1. Herewith Meany outline history. It consolidates all my old notes, and I've added some from memory. Probably there are mistakes.
     2. Also, herewith is a revised property map.
 
-## 1927
+### 1927
 
 Mountaineer Skiers determined that another ski hut, additional to Snoqualmie Lodge, was needed. The background of this was to establish a string of mountain huts, similar to the Alps. The choices in 1927, had to be limited to areas served by railroads, There being no winter highways. A scouting committee traveled on the NorthernPacific Railroad (NPRR now BNSF), stayed overnight in a box car at the western end of the Stampede Pass tunnel, skied across Stampede Pass, and found a site on the East end of the tunnel. The site chosen was later found to be the location of the 1886-88 construction camp used for tunnel construction. It was called "Tunnel City"; later the name was changed to "Martin" when the NPRR established an operating base at the eastern portal of the tunnel.
 
-## 1928
+### 1928
 
-### SUMMER
+#### SUMMER
 
 University of Washington Professor, Edmond S. Meany, was president of the Mountaineers' for 25 years. He was not a skier, however he purchased the land for the new cabin, 54 acres for $125 and donated it to the Mountaineers. Consequently the new cabin was named "Meany Ski Hut".
 
-### AUTUMN
+#### AUTUMN
 
 - Wood Cabin constructed, 20' X 50', with main floor and attic floors for dormitories
 - Kitchen at the east end, heating stove at west
@@ -30,28 +33,28 @@ University of Washington Professor, Edmond S. Meany, was president of the Mounta
 
 Dedicated in Edmond Meany's honor on November 11th.
 
-## 1929
+### 1929
 
 - First ski season (Dec 28 - Apr 29) - Touring skiing
 - Access via NPRR passenger train - $2 per round trip
 
-## 1930
+### 1930
 
 - Added pantry to West end - 8'X20', one story, lean-to roof.
 - Cleared 2nd growth and brush from [Hells Half Acre](Hells-Half-Acre), a patch to north of the [Lane](Lane) and at the bottom of slope.
 
-## 1931
+### 1931
 
 - Two loggers hired with funds donated.
 - Loggers cleared the [Lane](Lane), but left 3'-4' high stumps, and left downed trees all criss-crossed. Unsatisfactory performance.
 
-## 1932
+### 1932
 
 - Continue to straighten up mess left by loggers last year.
 - Logs from downed trees laid parallel on fall line of slope
 - Stumps still 3'-4' high.
 
-## 1938
+### 1938
 
 - Constructed rope tow
 - Powered by gasoline Fordson tractor
@@ -62,12 +65,12 @@ Dedicated in Edmond Meany's honor on November 11th.
 - Vertical about 280'
 - No safety gate
 
-## 1939
+### 1939
 
 - Dec 38 - Apr 39.
 - First season with rope tow. Pattern of skiing changed from 100% touring to mostly tow hill skiing. Patronage of Meany approximately doubled.
 
-### Summer 1939
+#### Summer 1939
 
 - Constructed 25'X 30' addition on east end of ski hut
 - 4 stories, basement, main floor, 2 dormitories floors in attic.
@@ -83,27 +86,27 @@ Dedicated in Edmond Meany's honor on November 11th.
 
 Access to hut continues to be local NPRR passenger trains on NPRR. Some park at Rustic Inn, on Snoqualmie highway, and ski 3 miles to hut.
 
-## 1943
+### 1943
 
 - Low snow year, 36" max.
 - [Lane](Lane) skiing poor because of logs and high stumps
 - Extended [Mach](Mach) tow to new head pole at top of the "Lane". Vertical drop now ~340.
 - Install safety gate
 
-## 1944
+### 1944
 
 - Another low snow year, 30" max.
 - Summer - began program to remove all logs from "Lane" and sawed stumps down flush with ground
 - Construct additional drying room space in basement 10' X 10', (by digging under original building)
 
-## 1945
+### 1945
 
 - Continue program to remove logs & stumps from [Lane](Lane)
 - Install headpole on [Mach](Mach) at the top of lane.
 - Vertical now ~380
 - Install safety gate
 
-## 1946
+### 1946
 
 - Rebuilt mach tow
 - Replace Fordson tractor driving system with chev engine
@@ -111,42 +114,42 @@ Access to hut continues to be local NPRR passenger trains on NPRR. Some park at 
 - BRRH 87b, gear ratio 6:7
 - For drive wheels used wood rims originally mounted on Fordson tractor drive wheels
 
-## 1948
+### 1948
 
 - Construct generator hut
 - Move motor generator from pantry to generator hut
 - Hut is 6' X 10' one story about 50' west of the lodge
 
-## 1949
+### 1949
 
 - Install new kitchen range, propane fueled
 
-## 1952
+### 1952
 
 February 13 - Easement granted to Bonneville Power Administration (BPA) for electric power transmission line across Meany property for $800. See Map for location.
 
-## 1953
+### 1953
 
 BPA logs off transmission line right-of-way, part on Meany property, part on adjacent USFS property.
 
-## 1954
+### 1954
 
 - BPA constructed transmission line, 287 KV
 - cleared area added much variety to Meany skiing
 - Area christened [Lower Slobbovia](Lower-Slobbovia) because it resembled the mythical country in Al Capp's cartoon strip "L'll Abner"
 
-## 1955
+### 1955
 
 - Reconstruct water supply dam
 - The power line contractor had destroyed the original dam and rebuilt it very poorly.
 - Contractor paid the Meany volunteers to rebuild it properly
 
-## 1956
+### 1956
 
 - Begin work to relocate and rebuild Mach Tow
 - Purpose to gain better access to [Lower Slobbovia](Lower-Slobbovia) and a better loading area at bottom of [Lane](Lane)
 
-## 1957
+### 1957
 
 - Complete relocation of "Mach" Tow
 - New head pole moved 200' south and 30' higher
@@ -156,14 +159,14 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 - Chev. engine moved from previous tow hut
 - Safety gate wiring improved
 
-## 1960
+### 1960
 
 - April: Northern Pacific RR discontinued Passenger Train service
 - thus terminate access to Meany
 - Bombardier snow tractor rented from Symington with option to purchase - $460/mo.
 - If tractor not adequate Meany discontinues
 
-## 1961
+### 1961
 
 - Access to Meany is by automobile to highway highway overpass near Rustic Inn, exit 62.
 - Cars park on overpass ramps
@@ -173,7 +176,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 - Feb 16th, purchased snow tractor - $5,448
 - Construct [Edifus Wreck](Edifus-Wreck) below RR track to Serve as gas station for snow tractor
 
-## 1962
+### 1962
 
 - Lower [Lane](Lane) bulldozed to improve approach to [Mach](Mach) tow
 - Puget Power constructed power line up [North Slobbovia](North-Slobbovia), under impression  they were on BPA easement, actually they trespassed on Meany property
@@ -181,7 +184,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 - Flood and mud slide wipe out USFS bridge over Stampede Pass.
 - Log bridge, suitable for Meany winter use, built by volunteers in a sunny weekend in fresh powder.
 
-## 1963
+### 1963
 
 - Constructed power line from Martin Station to Meany (600')
 - 2400v 60hz, single phase, to bring power to Meany
@@ -189,7 +192,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 - All Martin RR buildings now removed (Martin made automatic)
 - Improved ski return trail from [Lower Slobbovia](Lower-Slobbovia) to [Mach](Mach)
 
-## 1964
+### 1964
 
 - Mach Tow: new rope installed - $400
 - Snow Tractor ([Tom Cat](Tom-Cat)) - New tracks - $1400.
@@ -197,13 +200,13 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 - endless belts composite of steel, cotton fabric and rubber.
 - Original tracks used 1961-64, 4 seasons. In 1964 much belt breakage and patching.
 
-## 1965
+### 1965
 
 - [Mach](Mach) Tow - Installed new higher head pole
 - Changed driver hub to truck type tapered nuts
 - Vertical on tow still 430'
 
-## 1966
+### 1966
 
 - Hut - replaced original cedar shingles with corrugated galvanized iron roofing
 - Changed propane tanks from 400# to 200# size.
@@ -213,21 +216,21 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 - Access - State highway dept (WaDOT) posted signs prohibiting parking on ramps of overpass, exit 62.
 - Ox - purchased 1954 Dodge Power Wagon, 4X4 - $200, for use on property. Welded broken frame and ground valves.
 
-## 1967
+### 1967
 
 - Hut - Added East end fire escape and fire warning system.
 - Access - state hiway dept. plowed parking space on road from exit 62 overpass toward Lake Kachees
 - [Mach](Mach) - Replaced engine with 1964 Chev truck, 6 cyl, 230 ci
 - Also replaced transmission with 4 speed B1180 13GM-T-3761930 with gear ratios 7.06, 3.58, 1.71, 0.00, Reverse 6.78
 
-## 1968
+### 1968
 
 - Access: Dickinson starts snowmobile rental operation near Milwaukee RR Crossing
 - Plows access road to his operation
 - Plows parking for Meany near Milwaukee tracks - $200
 - State Highway plows parking area in new area on SE corner of overpass, exit 62
 
-## 1969
+### 1969
 
 - Dickinson ceases operation
 - State highway parking in SE corner of exit 62 overpass
@@ -238,7 +241,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 - New design belts made by Meany made of conveyor rubber belting.
 - Bastron Std. 315 Dacron 3 ply synthetic rubber.
 
-## 1970
+### 1970
 
 - Access - State Highway discontinued snow removal from parking area
 - Meany eked out by using road to Lake Kachess, with help from Rustic Inn.
@@ -249,7 +252,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 - New idler in main drive, now 4 groves in driver an 5 in idler.
 - [Ox](Ox) - New and larger bed
 
-## 1971
+### 1971
 
 - Hut
     - Dig out additional drying room in basement 10' x 10'
@@ -273,7 +276,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
     - engine bearings not designed for this and failed
     - Reinstalled old Chrysler 252 engine and stick shift transmission for 1971 season.
 
-## 1972
+### 1972
 
 - Hut
     - Removed original drying room
@@ -286,7 +289,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 - Access: State highway plowed parking on SE corner lot; money from State Parks
 - Railroad: NPRR and Burlington merge; Stampede route is now BNRR
 
-## 1973
+### 1973
 
 - Hut: new sink, cold water only in basement
 - Mach Tow: added air actuated brake on idler pulley in main drive to ensure stoppage of tow rope when safety gate opened
@@ -296,7 +299,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 - Electric motor + spare parts cost ~ $300
 - Snow tractor: overhauled [Tom Cat](Tom-Cat)'s running gear, tires and bearings.
 
-## 1974
+### 1974
 
 - Hut
     - Rebuilt water supply dam in [Tombstone Creek](Tombstone-Creek)
@@ -311,7 +314,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
     - Complete overhaul of tracks and bearings
     - New tires on rear wheels
 
-## 1975
+### 1975
 
 - Hut
     - New sinks and water in dorms
@@ -332,7 +335,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
     - new muffler
     - Jan 20 On Sunday evening outward trip at Yakima River bridge, broke con-rod in engine. Bad snow contributed. Broken con-rod breached pan dumping engine oil. By bandaging pan, tying rope to restrain flailing con-rod, using 5 cylinders and 16 quarts of oil, managed to run tractor out to overpass. In ensuing 3 days, volunteers assembled a replacement engine and installed in tractor - no loss of weekend time.
 
-## 1976
+### 1976
 
 - Hut
     - Grooming all around Lodge, particular the [Industrial Area](Industrial-Area)
@@ -349,7 +352,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
     - Replace all halyards
     - Improve safety gate at top
 
-## 1977
+### 1977
 
 - Access
     - Sno-Park continues on SE corner of exit 62 overpass
@@ -367,7 +370,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
     - Installed governor on engine, Ford Industrial 170ci, 4 cyl
     - Construct roller of galvanized corrugated iron, 30" diameter x 10'
 
-## 1978
+### 1978
 
 - Hut
     - Improved plumbing and shut-off valves where supply line enters basement under hatch in men's toilet
@@ -376,7 +379,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 - [Tom Cat](Tom-Cat)
     - Jan 23-24 Bolt on forward left-hand bogie set failed. Replaced overnight with new and stronger bolt
 
-## 1979
+### 1979
 
 - Hut
     - Add electric water heater: existing propane fueled water heater insufficient capacity
@@ -386,7 +389,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
     - New motor on compressor for air brake.
     - New rings and grind valves in tow engine
 
-## 1980
+### 1980
 
 - Hut
     - Power connection to BNRR interrupted by falling tree. Connection restored temporarily, but BNRR advises their power line over Stampede Pass is to be abandoned
@@ -402,7 +405,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 - Pack Rat
     - Replace rubber track belts
 
-## 1981
+### 1981
 
 - Hut opened only 3 weekends during ski season, snow deficient
 - Constructed power transmisison to connect Meany system to Puget Sound Power Line on South side of Meany property. ~500 ft
@@ -411,7 +414,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 - BNRR revised trackage at east end of tunnel to substitute one track for three and lengthen radius of curvate
 - Mach Tow: New mounting for lower pulley at [Tow Hut](Tow-Hut) to control rope twist
 
-## 1982
+### 1982
 
 - Hut: Convert ex-shop space in basement to First Aid and drying room
 - New concrete slab 16' X 20' to facilitate maintenance on [Pack-Rat](Pack-Rat)
@@ -427,14 +430,14 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
     - Repair running gear, particularly front bogies
 - [Pack Rat](Pack-Rat): Remove and service differential and rear axles
 
-## 1983
+### 1983
 
 - Graded area on north side of hut to get more flat area
 - New picnic area
 - Mach: revise interior of [Tow Hut](Tow-Hut)
 - [Pack Rat](Pack-Rat): install new radiator
 
-## 1984
+### 1984
 
 - Woodshed added to North side of basement 8' X 24'
 - Men's dorm improved rebuilt bunks
@@ -447,7 +450,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
     - Meany provided steel gate, Sons of Norway did needed grading
     - Snow removal by hired bulldozer. Cost for same divided
 
-## 1985
+### 1985
 
 - Access: Sons of Norway improved grading at parking lot entrance
 - Rewire all basement electric circuits all of which were overloaded
@@ -462,7 +465,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
     - Pile line over Stampede Pass deteriorated; therefore abandoned
     - construct new line through stampede tunnel to a connection with telephone company at West end of tunnel
 
-## 1986
+### 1986
 
 - Hut
     - Fire prevention sprinklers installed in kitchen and near chimney
@@ -475,7 +478,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 - Turtle Tow
     - Short, slow tow planned for beginners. Clearning and grading of site just east of Mach
 
-## 1987
+### 1987
 
 - Revise kitchen
 - Added fire prevention sheeting
@@ -494,7 +497,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
     - Vertical 30', length 190'
     - speed: very slow
 
-## 1988
+### 1988
 
 - Access: clear for winter road to bypass bridge site on Mosquito Creek
 - Railroad
@@ -508,7 +511,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 - Ox
     - Replaced frame with frame from wrecked truck in Othello, plus much maintenance
 
-## 1989
+### 1989
 
 - Hut
     - Construct new 4000 gallon septic and 400' of drain pipe
