@@ -2,6 +2,7 @@
 title: History Reports
 category: Document
 ---
+# History Reports
 From [Admin Reports](http://www.meanylodge.org/archives/admin_report.html) on meanylodge.org
 
 Authored by: likely [Idona Kellogg](Idona-Kellogg)

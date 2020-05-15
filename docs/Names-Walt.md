@@ -262,11 +262,11 @@ A small building appeared as if my magic at south side of industrial area in abo
 Hand Written Addendum to Walt's list, perhaps by Dave Claar
 
 * Cross Country trail crossing creek by Tunnel and following old railroad grade.
-* Nikki's Trail
+* [Nikki's Trail](Nikki's-Trail)
 * Phil's cutoff
 * Return road from Walt's Woods
 * S. Slobbovia turn pike
-* Tow Operators Hut
+* [Tow Operators Hut](Tow-Hut)
 * Bill Depository
 * New rope tow
 * The Gopher

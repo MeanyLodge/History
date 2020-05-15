@@ -879,7 +879,7 @@ Record crowds were drawn to Meany this season by outstanding live music, vigorou
 
 Special thanks go to musicians Richard Swensson, [Art Nation](Art-Nation), Lyle Schaefer, Frank Gilbert, Jim Noyes, Roy Wagner, Olemara Peters, and the Speldosan Group. Also the Mountaineer Players presented three delightful performances: The Story Theatre, Who Murdered Who, and a musical review, F.M. at P.M. Thanks also to Jack Reid and Michael Clarke who did great jobs with their slide shows of recent trips.
 
-Alaska Weekend went over big with a greased pole contest, a gorp presentation, Alaska slides by Paul Bergman and movies by Bob Bentler, a reading by Royce Natoli of Robert Service's','Iceworm Cocktail," and refreshments of ice worms and Ghosttown Sourdough Cookies. That's enough to turn anybody into a "blooming bonafide sourdough."
+Alaska Weekend went over big with a greased pole contest, a gorp presentation, Alaska slides by [Paul Bergman](Paul-Bergman) and movies by [Bob Bentler](Bob-Bentler), a reading by Royce Natoli of Robert Service's <i>Iceworm Cocktail</i>, and refreshments of ice worms and Ghosttown Sourdough Cookies. That's enough to turn anybody into a "blooming bonafide sourdough."
 
 Another notable weekend was the Leap Day Bonanza where Hilde garde Hamhocker of Tumbleweeds (played by Bob Bentler) and Sadie Hawkins from Dogpatch (portrayed by [Norm Vigus](Norm-Vigus)) invaded Meany to choose a mate from among the many Meany eligibles. Other skit characters were the minister ([Dave Claar](Dave-Claar)) and the victim (Charlie Vail). [Walter Little](Walter-Little) walked away with the Bachelor of the Year Award with Norm Vigus as runner-up. Bob Bentler showed Super 8 movies of Walt and Norm to prove why they should be the winners.
 
@@ -958,7 +958,7 @@ by Margaret Weiland
 
 Meany Ski Lodge continues to operate their downhill rope tows, and in fact, has added a beginner tow. Here too, more and more downhill skiers are sharing the slopes with the cross-country skiers heading out on tours in the backcountry or practicing their telemarks.
 
-Meany still runs a very busy downhill ski school through January and February and has added a cross country session as well. In addi­tion, they offer clinics for telemarking as often as possible during the season.
+Meany still runs a very busy downhill ski school through January and February and has added a cross country session as well. In addition, they offer clinics for telemarking as often as possible during the season.
 
 Another innovation at Meany has been the introduction of MOFA classes. The entire MOFA course, practical exam and CPR are offered during two very full weekends at the lodge. Students have given the class rave reviews and seem to appreciate the chance to have their practicals in such a remote and realistic location.
 
@@ -981,4 +981,4 @@ The major project completed was the excavation of about a fourth of the basement
 
 p. 144
 
-The Singles Committee initi­ated a number of new activities in 1993 and 1994. These included horseback riding, a sleigh ride, bik­ing in the San Juans, and regular pot luck evenings. Games night, volleyball, tennis and slide shows continued co be very popular. An­other Mystery Weekend at Meany Lodge took place, in expanded form.
+The Singles Committee initiated a number of new activities in 1993 and 1994. These included horseback riding, a sleigh ride, biking in the San Juans, and regular pot luck evenings. Games night, volleyball, tennis and slide shows continued co be very popular. Another Mystery Weekend at Meany Lodge took place, in expanded form.

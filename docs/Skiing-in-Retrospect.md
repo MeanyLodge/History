@@ -2,6 +2,7 @@
 title: Skiing In Retrospect
 category: Document
 ---
+# Skiing In Retrospect
 by Andrew W. Anderson
 
 <img src="img/1928%20Meany%20Ski%20Hut.png" width="350px" alt="MEANY SKI HUT NEARS COMPLETION - PHOTO by C. A. Hultin" align="right">
