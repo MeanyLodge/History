@@ -782,7 +782,7 @@ The season at Meany Ski Hut started with a washout. The floods before Christmas 
 
 Despite the relatively light snow pack, the skiing was excellent, with only one weekend marred by rain. Every weekend saw capacity crowds, and we welcomed many new skiers to the lodge.
 
-In addition to the excellent skiing and "to the door" service, several other factors helped to bring the crowds and hold them. The new hill packer, christened [Pack Rat](Pack-Rat), turned [Kirkland Park](Kirkland-Park) into a very enjoyable run. The very popular lessons taught by [Patti Polinsky](Patty-Polinsky) and [Dave Claar](Dave-Claar) improved the techniques of beginners and advanced skiers alike. Lessons and "Family Weekend" brought many future juniors. Cross country skiing and snowshoeing were also much in evidence.
+In addition to the excellent skiing and "to the door" service, several other factors helped to bring the crowds and hold them. The new hill packer, christened [Pack Rat](Pack-Rat), turned [Kirkland Park](Kirkland-Park) into a very enjoyable run. The very popular lessons taught by [Patti Polinsky](Patti-Polinsky) and [Dave Claar](Dave-Claar) improved the techniques of beginners and advanced skiers alike. Lessons and "Family Weekend" brought many future juniors. Cross country skiing and snowshoeing were also much in evidence.
 
 A highlight of the season was the Carnival weekend, which featured a "European Feast" complete with bratwurst, German hot potato salad, European pastries and homemade pretzels, in addition to the skiing events-all masterminded by Patti Polinsky. That was the weekend which saw record crowds.
 
@@ -813,7 +813,7 @@ That's what it has taken to bring Meany through 50 highly successful years!!!
 
 On September 23-24, 1978 eight of the original Meany crew and 450 other Mountaineers and guests invaded Meany for a gigantic birthday party to cheer Meany into its next fifty years. The eight early Meanyites were: Gus Hudson, Harriet Taylor Tiedt, Opal Maxwell, Andy and Kay Anderson, Herb and Eugenia Strandberg, and [Fred Ball](Fred-Ball). Highlights of the weekend were the Sunday dedication program and the huge salmon dinner.
 
-Bob Cram masterfully and humorously emceed the dedication program. Royce and Rhea Natoli organized the program agenda, contacted the participants, and arranged for this variety show. Virginia Reid did a tremendous job as overall chairperson for the entire birthday weekend. [Patti Polinsky](Patty-Polinsky) took charge of the elaborate, perfectly-prepared, and very efficiently served salmon dinner.
+Bob Cram masterfully and humorously emceed the dedication program. Royce and Rhea Natoli organized the program agenda, contacted the participants, and arranged for this variety show. Virginia Reid did a tremendous job as overall chairperson for the entire birthday weekend. [Patti Polinsky](Patti-Polinsky) took charge of the elaborate, perfectly-prepared, and very efficiently served salmon dinner.
 
 Wanda Van DeVanter, who supervised registration, reported that Dawn Steere, former Meany woman patrol racer in the 1930's, now living in Orange, California, and Nancy and Trevor Dick and family from Lethbridge, Alberta, Canada, probably came from farthest away.
 
@@ -856,7 +856,7 @@ p. 173
 
 It all began at Meany Ski Hut this season with preparation for the Meany 50th Birthday Party, Sept. 23-24. This turned out to be an exceptionally well-organized spectacular event with 450 participants.
 
-A highlight of the ski season was the carnival weekend which featured many corny contests and crazy races, a clowns contest, and a "European Feast" complete with German hot potato salad and homemade European pastries, pretzels, and breadsticks. Many fancy relish trays with elaborate flowered vegetable "nibblies" and apple swans served from an outdoor snow table is an example of how embellished and painstaking the carnival events were. This fantastic weekend was masterminded by [Patti Polinsky](Patty-Polinsky).
+A highlight of the ski season was the carnival weekend which featured many corny contests and crazy races, a clowns contest, and a "European Feast" complete with German hot potato salad and homemade European pastries, pretzels, and breadsticks. Many fancy relish trays with elaborate flowered vegetable "nibblies" and apple swans served from an outdoor snow table is an example of how embellished and painstaking the carnival events were. This fantastic weekend was masterminded by [Patti Polinsky](Patti-Polinsky).
 
 One extra special Saturday night program was the dedication banquet for [Walter's Woods](Walter's-Woods) with Master of Ceremonies [Lee Helser](Lee-Helser) cleverly spicing the evening and a film on Walter shown by Bob Bentler. A huge cake shaped like a bald head contained a hidden cavity which was opened to reveal Walter's thoughts in the form of sayings on heart-shaped candies.
 
@@ -883,7 +883,7 @@ Alaska Weekend went over big with a greased pole contest, a gorp presentation, A
 
 Another notable weekend was the Leap Day Bonanza where Hilde garde Hamhocker of Tumbleweeds (played by Bob Bentler) and Sadie Hawkins from Dogpatch (portrayed by [Norm Vigus](Norm-Vigus)) invaded Meany to choose a mate from among the many Meany eligibles. Other skit characters were the minister ([Dave Claar](Dave-Claar)) and the victim (Charlie Vail). [Walter Little](Walter-Little) walked away with the Bachelor of the Year Award with Norm Vigus as runner-up. Bob Bentler showed Super 8 movies of Walt and Norm to prove why they should be the winners.
 
-The Annual Spring Carnival was again a superb event as master minded by [Patti Polinsky](Patty-Polinsky). In addition to skiing events there were corny contests and crazy races, a clowns contest, and a "European Feast" complete with German hot potato salad and homemade European pastries, pretzels, and breadsticks.
+The Annual Spring Carnival was again a superb event as master minded by [Patti Polinsky](Patti-Polinsky). In addition to skiing events there were corny contests and crazy races, a clowns contest, and a "European Feast" complete with German hot potato salad and homemade European pastries, pretzels, and breadsticks.
 
 Meany work parties installed a second hot water tank, painted the "cats," and started the enormous task of clearing [Walter's Woods](Walter's-Woods) and [Henrietta's Meadow](Henrietta's-Meadow), in addition to the usual fall maintenance and upkeep.
 
@@ -937,7 +937,7 @@ Other 1981 newsworthy events:
 
 p. 136
 
-Record crowds were drawn to Meany Ski Hut this season by plentiful snow, fantastic skiing, terrific ski lessons with capacity classes taught by [Patti Polinsky](Patty-Polinsky), Dave Claar and Kim Nelson, vigorous folk dancing, extremely talented musicians, and entertaining skits and programs.
+Record crowds were drawn to Meany Ski Hut this season by plentiful snow, fantastic skiing, terrific ski lessons with capacity classes taught by [Patti Polinsky](Patti-Polinsky), Dave Claar and Kim Nelson, vigorous folk dancing, extremely talented musicians, and entertaining skits and programs.
 
 One of the biggest 1982 thrills was Dick Curran's 50 ft. aerial ride which was the last leg of an obstacle course he set up for the Spring Carnival. The Spring Carnival had an Austrian flavor as Patti Claar masterminded "zillertal" activities. This enormous undertaking included a hill-wide scavenger hunt, snow golfing, bow and arrow rivalry, a bean carry, slow slalom course, frisbee toss, snake follow, inner tube run, kids' costume parade, an authentic Austrian dinner, a huge "Konditorei" pastry table, a lavish luncheon complete with fancy vegetable nibblies and homemade breadsticks and pretzels, and a "lively" folkdance stimulated by Meany's gifted musicians.
 
