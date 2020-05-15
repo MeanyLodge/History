@@ -1,5 +1,5 @@
-
-remote_theme: ronv/ultra
+theme: jekyll-theme-dinky
+# okay, nice and clean, but superscript doesn't
 
 livereload: true
 baseurl: /History
@@ -8,7 +8,7 @@ defaults:
   - scope:
       path: "" # an empty string means all files
     values:
-      layout: "default"
+      layout: "dinky"
 
   - scope:
       path: "img"

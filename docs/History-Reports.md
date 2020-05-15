@@ -12,7 +12,7 @@ Matt's Note: The reports thru 1983 are included in the [Mountaineer Annuals](Mou
 
 It all began at Meany this season with preparation for its 50th Birthday Party, Sept. 23-24. This turned out to be an exceptionally well-organized spectacular event with 450 participants.
 
-A highlight of the ski season was the carnival weekend which featured many corny contests and crazy races, a clowns contest and a "European Feast" complete with German hot potato salad and homemade European pastries, pretzels and breadsticks. Many fancy relish trays with elaborate flowered vegetable "nibbles" and apple swans served from an outdoor snow table is an example of how embellished and painstaking the carnival events were. This fantastic weekend was masterminded by [Patti Polinsky](Patti-Polinsky).
+A highlight of the ski season was the [carnival](Carnival) weekend which featured many corny contests and crazy races, a clowns contest and a "European Feast" complete with German hot potato salad and homemade European pastries, pretzels and breadsticks. Many fancy relish trays with elaborate flowered vegetable "nibbles" and apple swans served from an outdoor snow table is an example of how embellished and painstaking the carnival events were. This fantastic weekend was masterminded by [Patti Polinsky](Patti-Polinsky).
 
 One extra special Saturday night program was the dedication banquet for "Walt's Woods" with Master of Ceremonies Lee Heiser cleverly spicing the evening and a film on Walter shown by [Bob Bentler](Bob-Bentler). A huge cake shaped like a bald head contained a hidden cavity which was opened to reveal Walter's thoughts in the form of sayings on heart-shaped candies.
 
@@ -32,7 +32,7 @@ Alaska Weekend went over big with a greased pole contest, a gorp presentation, A
 
 Another notable weekend was the Leap Day Bonanza where Hildegarde Hamhocker of Tumbleweeds (played by [Bob Bentler](Bob-Bentler)) and Sadie Hawkins from Dogpatch (portrayed by [Norm Vigus](Norm-Vigus)) invaded to choose a mate from among the many Meany eligibles. Other skit characters were the minister ([Dave Claar](Dave-Claar)) and the victim (Charlie Vail). Walter B. Little walked away with the Bachelor of the Year Award with Norm Vigus as runner-up. Bob Bentler showed Super 8 movies of Walt and Norm to prove why they should be winners.
 
-The annual Carnivale di Meany was again a superb event as master-minded by [Patti Polinsky](Patti-Polinsky). In addition to skiing events there were corny contests and crazy races, a clowns contest, and a "European Feast" complete with German hot potato salad and homemade European pastries, pretzels and breadsticks.
+The annual [Carnivale di Meany](Carnival) was again a superb event as master-minded by [Patti Polinsky](Patti-Polinsky). In addition to skiing events there were corny contests and crazy races, a clowns contest, and a "European Feast" complete with German hot potato salad and homemade European pastries, pretzels and breadsticks.
 
 Fall work parties installed a second hot water tank, painted the "cats" and started the enormous task of cleaning "Walter's Woods" and "Henrietta's Meadow". In addition to the usual fall maintenance and upkeep. After long negotiations with the railroad, we gained final approval installed a gate below the railroad to help cut down on vandalism
 
@@ -74,7 +74,7 @@ Also during the Christmas week, an Indiana man, Tom McCart, won the "Uno Champio
 
 Record crowds were drawn to Meany this season by plentiful snow, fantastic skiing, terrific ski lessons with capacity classes taught by [Patti Polinsky](Patti-Polinsky), [Dave Claar](Dave-Claar) and Kim Nelson, vigorous folk dancing, extremely talented musicians and entertaining skits and programs.
 
-One of the biggest thrills was Dick Curran's 50 ft aerial ride which was the last leg of an obstacle course he set up for the Carnivale di Meany. The Spring Carnival has an Austrian flavor as Patti Polinsky masterminded "zillertal" activities. This enormous undertaking included a hill-wide scavenger hunt, snow golfing, bow and arrow rivalry, a been carry, slow slalom course, Frisbee toss, snake follow, inner-tube run, kids "costume" parade, an authentic Austrian dinner, a huge "Konditorei" pastry table, a lavish luncheon completer with fancy vegetable nibbles and homemade breadsticks and pretzels and a "lively" folk dance stimulated by Meany's gifted Musicians.
+One of the biggest thrills was Dick Curran's 50 ft aerial ride which was the last leg of an obstacle course he set up for the [Carnivale di Meany](Carnival). The Spring Carnival has an Austrian flavor as Patti Polinsky masterminded "zillertal" activities. This enormous undertaking included a hill-wide scavenger hunt, snow golfing, bow and arrow rivalry, a been carry, slow slalom course, Frisbee toss, snake follow, inner-tube run, kids "costume" parade, an authentic Austrian dinner, a huge "Konditorei" pastry table, a lavish luncheon completer with fancy vegetable nibbles and homemade breadsticks and pretzels and a "lively" folk dance stimulated by Meany's gifted Musicians.
 
 The proportion of cross-country skiers using Meany Lodge continues to increase. Al Alleman graciously donates the time and expertise to show people the fabulous ski trails in Meany vicinity. During work party season Al's crew labors to improve these trails.
 
@@ -86,18 +86,18 @@ A cross-country ski bridge was built built by the railroad tunnel. The Cat road 
 
 ## 1983
 
-Winter-Spring saw capacity crowds the entire season. Super snow and a large ski school gave Meany a full house and a waiting list every weekend.
-Meany had super work party turnouts with 50,60, 60, 80, and 90 for each of the 5 weekends.
-Because of sufficient snow, Meany was able to open the first week in December.
-During the spring Carnival, the Average Race was both new and unusual. Everyone went through the race course and got a time. the average was figured and the person closets to the average won the race.
-Meany began using new radio equipment for internal communications and backcountry rescue.
-Phone Company went beyond the call-of-duty to check equipment and wires so that Meany has Telephone service again.
-An improved crossing was built at "Tombstone Canyon."
-Cat road from railroad to lodge was widened, straightened, and graded.
-A special hill brushing work party cleared tombstone canyon of brush. This had not been done for many years.
-Tow engine rebuilt.
-Crews remodeled inside of [Tow Hut](Tow-Hut).
-A snowmobile is been made available for cross-country ski rescue.
+- Winter-Spring saw capacity crowds the entire season. Super snow and a large ski school gave Meany a full house and a waiting list every weekend.
+- Meany had super work party turnouts with 50,60, 60, 80, and 90 for each of the 5 weekends.
+- Because of sufficient snow, Meany was able to open the first week in December.
+- During the spring [Carnival](Carnival), the Average Race was both new and unusual. Everyone went through the race course and got a time. the average was figured and the person closets to the average won the race.
+- Meany began using new radio equipment for internal communications and backcountry rescue.
+- Phone Company went beyond the call-of-duty to check equipment and wires so that Meany has Telephone service again.
+- An improved crossing was built at "Tombstone Canyon."
+- Cat road from railroad to lodge was widened, straightened, and graded.
+- A special hill brushing work party cleared tombstone canyon of brush. This had not been done for many years.
+- Tow engine rebuilt.
+- Crews remodeled inside of [Tow Hut](Tow-Hut).
+- A snowmobile is been made available for cross-country ski rescue.
 
 ## 1984
 
@@ -206,9 +206,9 @@ Meany Advertising Committee continued to make presentations to community groups,
 - The 1989 season contained an unusually large number of good snow days making excellent skiing on ungroomed hills. However, February temperatures were very cold.
 - Two aesthetically attractive concrete block houses were built to encase gas tanks above ground as the risk of rupture of underground tanks was considered too great.
 - A septic system was installed; 4,000 gallon tank and accompanying drain field.
-Modifications were made to the Super Worm Tow.
-Meany's new third rope tow received lots of use.
-Meany's remodeled kitchen was given a workout and many accolades.
-To expand the use of Meany Hut a once-a-month Friday night opening was tried.
-Outstanding Saturday evening presentations and folkdancing with live music entertained crowds. Bridge games enticed some people.
-Meany Advertising Committee continued to make presentations to community groups, at Mountaineer orientation meetings, and at ski shows.
+- Modifications were made to the Super Worm Tow.
+- Meany's new third rope tow received lots of use.
+- Meany's remodeled kitchen was given a workout and many accolades.
+- To expand the use of Meany Hut a once-a-month Friday night opening was tried.
+- Outstanding Saturday evening presentations and folkdancing with live music entertained crowds. Bridge games enticed some people.
+- Meany Advertising Committee continued to make presentations to community groups, at Mountaineer orientation meetings, and at ski shows.

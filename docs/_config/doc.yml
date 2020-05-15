@@ -1,5 +1,4 @@
-
-remote_theme: ronv/ultra
+remote_theme: aksakalli/jekyll-doc-theme@gh-pages
 
 livereload: true
 baseurl: /History
@@ -8,7 +7,10 @@ defaults:
   - scope:
       path: "" # an empty string means all files
     values:
-      layout: "default"
+      layout: "docs"
+    sectionid: docs
+    seo:
+      type: "WebPage"
 
   - scope:
       path: "img"
@@ -18,3 +20,8 @@ defaults:
 exclude:
   - Gemfile
   - Gemfile.lock
+
+collections:
+  docs:
+    permalink: /:collection/:path/
+    output: true
