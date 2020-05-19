@@ -970,7 +970,7 @@ Meany Ski Hut, built on land donated by President Meany at Martin, was dedicated
 
 p. 125
 
-The most isolated of the properties, Meany Lodge increased its service to The Mountaineers by hosting Murder Mystery Weekends (including one for our singles which filled up all 65 of its slots within two hours), MOFA weekend training sessions, Mountain Bike Workshops, [Rail Road Buff](Railroad-Buffs) gatherings, and the ever-popular Wild Mushroom Hunt. Of course, the Ski School and our telemark weekends are as popular as ever.
+The most isolated of the properties, Meany Lodge increased its service to The Mountaineers by hosting Murder Mystery Weekends (including one for our singles which filled up all 65 of its slots within two hours), [MOFA](MOFA) weekend training sessions, [Mountain Bike Workshops](Mountain-Bike-Workshops), [Rail Road Buff](Railroad-Buffs) gatherings, and the ever-popular [Wild Mushroom Hunt](Mushroom-Weekend). Of course, the [Ski School](Ski-School) and our telemark weekends are as popular as ever.
 
 The major project completed was the excavation of about a fourth of the basement and the construction of a new classroom in its place.
 
