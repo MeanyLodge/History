@@ -11,10 +11,224 @@ category: Event
 ---
 
 ## 75th
-- 2003
+Held in 2003
+
+#### Meany's Tom-Cat
+
+(to the tune of "Oh My Darling Clementine"). Words by Charlotte Green
+
+````
+In the mountains, on the hillsides
+    Where the snow is deep and fine
+Their you'll find Tom Van DeVander
+    Towing skiers in a line.
+
+REFRAIN: Here's to Com-Cat, Meany's Tom-Cat
+Braving blizzards, slush and rain
+Bringing Mountaineers to Meany
+And back to their cars again
+
+From the highway to the ski lodge
+    80 skiers brave and bold
+Tomcat tows them up the mountain
+    Through the mornings snowy cold.
+
+Repeat REFRAIN
+````
+
+#### Cheer the Start of Meany's Season
+
+to the tune of "Deck the Halls". Words by Charlotte Green
+
+````
+Cheer the start of Meany's season
+    We want lots of snow-ow, we want snow
+We want snow, not rain that's freezin
+    We want lots of snow-ow, we want snow
+We want snow that's thickly falling
+    We want snow, we want snow, we want snow
+We can hear the ski slopes calling
+    We want lots of snow-ow, we want snow
+
+Meet the famous Meany tow rope
+    We want lots of snow-ow, we want snow
+Flipping skiers off the snow slope
+    We want lots of snow-ow, we want snow
+Roaring ripe bites smoking ski glove
+    We want snow, we want snow, we want snow
+Reaching speeds we can't conceive of
+    We want lots of snow-ow, we want snow
+
+We can't ski on mud and gravel
+    We want lots of snow-ow, we want snow
+We need snow to really travel
+    We want lots of snow-ow, we want snow
+Down the Lane with edges blazing
+    We want snow, we want snow, we want snow
+Meany's skiing's quite amazing
+    We want lots of snow-ow, we want snow
+
+````
 
 
-#### 
+#### Meany Ski Lodge
+
+- to the tune of "Oh Suzanna". Words by Charlotte Green
+- written for Ray Nelson's retirement celebration 3/2/1990
+
+````
+1. In '28, near Stampede Pass,
+    A group of Mountaineers
+Began to build the Meany Lodge --
+    A paradise for skiers
+
+Chorus:
+    Meany skiers,
+        We ski the unpacked snow.
+    The rope tow whisks us to the ridge
+        And down the Lane we go!
+
+2. Each season at the Meany Lodge
+    Brings its own crisis new.
+And every time, with grit and pluck
+    The Meanyites come through.
+
+3. When Ray came on as Meany's "boss"
+    Way back in sixty-six,
+He set the mood for Meany Lodge,
+    "Ain't nothin' we can't fix!"
+
+4. Ray's been our boss for 20 years,
+    Ain't nothing we can't do.
+We've built the worm- and turtle tows,
+    Rebuilt the kitchen, too.
+
+Chorus: Dug more basement,
+    Put in a concrete floor,
+Built a new Fourth People's Dorm,
+    A fire alarm and more.
+
+5. But our best times at Meany Lodge
+    Come when the work is done.
+When Meany skiers hit those hills
+    Aint no one has more fun!
+
+Chorus: Meany skiers,
+    We love to ski the Lane,
+then North and South Slobbovia,
+    Then down the Lane again!
+
+Dedication Chorus:
+Thanks Ray Nelson
+    Your work as "boss" is done;
+But your good work at Meany Lodge
+    Gives everyone more fun!
+````
+
+#### Wild Bill Maxwell
+
+to the tune of "Casey Jones"
+
+````
+Come on you skiers if you want to hear
+The story of a brave mountaineer
+Wild Bill Maxwell was the skiers name
+At the ski hut at Martin he won his fame
+He started on his journey at a quarter to four,
+His comrades had been waiting since the night before,
+He mounted to his boiler with an ax in his hand,
+And started on the journey to the promised land.
+
+Wild Bill Maxwell mounted to his boiler,
+Wild Bill Maxwell an ax in his hand,
+Wild Bill Maxwell mounted to his boiler,
+And started on his journey to the promised land.
+
+He looked at the gas and the gas was low,
+Checked up the speed and the speed was slow,
+He turned to his passengers, said "boys you'd better push"
+Or we'll never get to Martin in time for mush.
+Grind up your axes and make them sharp,
+You're not going to work with no dog-gone harp,
+We are going to have skiing at Martin yet!
+
+Wild Bill Maxwell gonna cut some trees,
+Wild Bill Maxwell work all day you bet,
+Wild Bill Maxwell gonna cut some trees
+For we're gonna have skiing at Martin yet
+
+The snow came down and covered the ground,
+Shouts of joy made the hills resound,
+The skiers made merry on Meany Hill,
+As they coasted down the lane cleaned off by Bill.
+Wild Bill Maxwell met the evening train,
+And said he thought it was going to rain,
+"You should have come up sooner – why'd you stay away,
+For we had good skiing on Saturday."
+
+Wild Bill Maxwell, should have come up sooner,
+Wild Bill Maxwell, why'd you stay away,
+Wild Bill Maxwell, should have come up sooner,
+For we had good skiing on Saturday.
+
+Maxwell gave a cup for a downhill race,
+And he himself tried hard to set the pace,
+He led the rest down Meany hill,
+'Til he hit a bump and took an awful spill.
+He finished at the hut a very poor last,
+Staggered to the judges and said with a gasp,
+"I stopped on purpose and gave it up,
+'Cause I didn't want to win my own darn cup."
+
+Wild Bill Maxwell stopped on purpose,
+Wild Bill Maxwell had to give it up,
+Wild Bill Maxwell stopped on purpose,
+Because he didn't want to win his own darn cup.
+````
+
+#### [Innovative Programs are found at Meany Lodge](Innovative-Programs-are-found-at-Meany-Lodge)
+
+#### [Milestones from 75 years at Meany Lodge](Milestones-from-75-years-at-Meany-Lodge)
+
+#### Two Boards
+
+
+````
+The years may have more than one season
+But I can remember just one,
+The time when the rivers are freezin?
+And the mountains with whiteness are spun,
+The snowflakes are falling so fast,
+And winter has come now at last.
+
+1st CHORUS
+Two boards upon cold powder snow, Yo-ho!
+What else does a man need to know?
+Two boards upon cold powder snow, Yo-ho!
+That's all that a man needs to know.
+
+The hiss of your skis is a passion;
+You cannot imagine a spill!
+When, Bang! – there's a godawful gash in
+The smooth shining track on the hill.
+What's happened you can't understand;
+There's two splintered skis in your hand.
+
+2nd CHORUS
+Two boards and some snow down your neck, Oh heck!
+Your skis are a hell of a wreck.
+Two boards and some snow down your neck, Oh heck!
+Your skis are a hell of a wreck.
+
+I care not if government taxes
+Take everything else that I own;
+Two hickory boards and some waxes
+And I'm free in the mountains alone.
+If death finally finds me in Spring,
+Inscribe on my tomb what I sing:
+
+1st chorus
+````
 
 #### Zoo
 
