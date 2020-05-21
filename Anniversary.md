@@ -6,7 +6,7 @@ category: Event
 ## 50th
 - 1978, see [Mountaineer Annual 1978](Mountaineer-Annual#1978)
 
-<img src="img/1978%20Meany%20B-day.png" alt="Meany Birthday Party Banner">
+<img src="img/1978-Meany-B-day.png" alt="Meany Birthday Party Banner">
 
 ---
 

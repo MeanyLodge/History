@@ -3,16 +3,18 @@ title: Tom Cat
 category: Machine
 categories: Machine, Tractor
 ---
+<img src="img/2020-TomCat-Front-Kate.jpeg" align="right" style="width: 51%;">
+<img src="img/2020-TomCat-Rear-Kate.jpeg" align="right" style="width: 51%;">
 # Tom Cat
-### Name
-
-In 1960 when this Bombardier Snow Tractor was acquired, this machine was referred to as the Snow Tractor.
-
-When [Pack Rat](Pack-Rat) was acquired in 1977, there were two snow tractors. This one was named "Tom Cat" after [Tom Van Devanter](Tom-Van-Devanter) who had driven it since the beginning.
+### Names
+- Snow Tractor <sup>[60](#1960)</sup>
+- Snow Cat
+- Cat
+- Tom Cat <sup>[77](#1977)</sup>
 
 ### Purpose
 
-Used to haul people, gear, and supplies ~3 miles from the Crystal Springs Sno-Park to Meany. Bought in 1960 after the NPRR discontinued passenger train service to Martin.
+Haul people, gear, and supplies ~3 miles back and forth from the Crystal Springs Sno-Park to Meany. Bought in 1960 after the NPRR discontinued passenger train service to Martin.
 
 ### Specifications
 - Model: Bombardier 6-cylinder
@@ -20,8 +22,12 @@ Used to haul people, gear, and supplies ~3 miles from the Crystal Springs Sno-Pa
 - Fuel: gasoline
 - Capacity: ~100 persons (think: very long top rope)
 
-### History
+### Mechanics
 
+Tom Cat requires a lot of care, therefore it has many mechanics. Rest assured that if a [Mechanic](Mechanic) at Meany works on any machine, they also work on Tom Cat. We also have a long standing tradition that in order to [drive](Driver) Tom Cat, you have to wrench on Tom Cat.
+
+---
+### History
 #### 1960
 
 In April 1960, the Northern Pacific Railroad removed its trains No. 5 and No. 6, making Meany Ski Lodge accessible only over three miles of snow. The Meany Committee was authorized to negotiate a lease for the use of a snow tractor during the 1960-61 ski season.<sup>[ma60][]</sup>
