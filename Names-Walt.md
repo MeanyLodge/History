@@ -204,7 +204,7 @@ A four-wheel drive Dodge truck used for summer work. Unlike most oxen, it hibern
 
 ### [Tom Cat](Tom-Cat)
 
-The Bombardier Snow Tractor used to haul everything three miles from I-90 to Meany. Bought in 1960, when the NPRR discontinued passenger train service. [Tom Van Devanter](Tom-Van-Devanter) has driven it since the beginning; hence the name "Tom Cat."
+The Bombardier Snow Tractor used to haul everything three miles from I-90 to Meany. Bought in 1960, when the NPRR discontinued passenger train service. [Tom Van DeVanter](Tom-Van-DeVanter) has driven it since the beginning; hence the name "Tom Cat."
 
 ### [Pack Rat](Pack-Rat)
 

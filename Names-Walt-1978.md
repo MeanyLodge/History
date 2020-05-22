@@ -84,7 +84,7 @@ named after General Bullmoose of USA, who always got the worst of his business d
 
 named after the Lower Slobbovian diet. Since there was nothing to eat, Lower Slobbovians always said, "I druther eat this; I druther eat that." This is the short gully between South Slobbovia and Bullmoose Ridge.
 
-### [Phogbound](Phogbound)
+### [Phogbound Gulch](Phogbound-Gulch)
 
 named in honor of Senator Jack S. Phogbound; Lower Slobbovia's representative to the Senate of the Hew Hess hay. This is the long narrow gully on the south side of South Slobbovia.
 
