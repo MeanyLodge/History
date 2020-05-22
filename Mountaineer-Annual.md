@@ -123,7 +123,7 @@ The Mountaineer ski school conducted on the Meany Ski Hill was highly successful
 May our future seasons prove as much fun as this one!
 
 ### MEANY SKI HUT
-by [Joe Buswell](Joe-Buswell)
+by Joe Buswell
 
 The season started with the usual hilarious New Year's Party, and though there was a serious lack of snow everyone seemed to have a fine time. After two years of unusual snowfall it should get back to normal this year. (That is what we said last year.)
 
@@ -144,7 +144,7 @@ Everything is ready for the coming season and if all of you will pray to Saint P
 
 p. 26
 
-MEANY SKI HUT: After many months of hoping by Chairman [Joe Buswell](Joe-Buswell), there was finally enough snow at Meany to satisfy the most ardent ski enthusiasts. Four work parties really barbered the lane; the old ski-tow rope remains in good condition and so if train transportation is available we will be looking forward to another "super" New Year's party.
+MEANY SKI HUT: After many months of hoping by Chairman Joe Buswell, there was finally enough snow at Meany to satisfy the most ardent ski enthusiasts. Four work parties really barbered the lane; the old ski-tow rope remains in good condition and so if train transportation is available we will be looking forward to another "super" New Year's party.
 
 
 ## [1943](https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1943)
@@ -307,7 +307,7 @@ p. 54
 Meany Ski Hut
 Jo Anne Feringer
 
-Last winter there were many who came to Meany, skiing in the three miles from the highway or driving to Kanasket and connecting with the train to Martin. Dale Turner proved an able hut chairman, and it was a good year. More people found that touring proved the best antidote for too concentrated "tow skiing", and found deep snow skiing a new challenge. A full day took them to Baldy; the Stampede weather station made an easy half-day trip; less than an hour found them at Meany woods for a thrilling series of sweeping turns into the bowl, a bit of traversing, and the final run down the gully and along the ridge to the top of the tow. There the anticipation of a dinner prepared by chef and gourmet supreme, Mrs. [Harry Iverson](Harry-Iverson), made short work of the run down to the Hut. If they could still muster the energy after dinner, [Art Nation](Art-Nation) would be ready with his fine collection of folk dance records and a helping hand for the novices.
+Last winter there were many who came to Meany, skiing in the three miles from the highway or driving to Kanasket and connecting with the train to Martin. Dale Turner proved an able hut chairman, and it was a good year. More people found that touring proved the best antidote for too concentrated "tow skiing", and found deep snow skiing a new challenge. A full day took them to Baldy; the Stampede weather station made an easy half-day trip; less than an hour found them at Meany woods for a thrilling series of sweeping turns into the bowl, a bit of traversing, and the final run down the gully and along the ridge to the top of the tow. There the anticipation of a dinner prepared by chef and gourmet supreme, Mrs. [Harry Iverson](Annie-Iverson), made short work of the run down to the Hut. If they could still muster the energy after dinner, [Art Nation](Art-Nation) would be ready with his fine collection of folk dance records and a helping hand for the novices.
 
 [Bill Brockman](Bill-Brockman), assisted by Dick Feringer, has taken over the chairmanship for the coming season, and if the work parties are any criteria, it should be an enthusiastic one. With the combination of ideal weather and large groups of eager workers each weekend, a surprising amount has been accomplished. Members will first notice the kitchen (and shed a sentimental tear for the old coal range). Mr. Morris of the gas company still wonders how, in a few hours of apparently complete disorganization, the new stove and heater were carried in; cylinders brought up and installed; everything put in working order; and his tools all returned to the box. That intangible Mountaineer spirit must be potent! Next will be noticed the work of skilled laborers (those who proved they could hit a nail oftener than their fingers) in the building of the fire wall and doors in the stairway; and that other fire preventative measures have been taken with extra hoses and kick-out doors, and emergency exits and lamps.
 
@@ -495,7 +495,7 @@ At first the lower lane was used as a practice slope, the remainder being only a
 
 p. 56
 
-The downhill races started at the edge of the timber near the top of [Meany Hill](Meany-Hill), each man choosing his own course to the finish at the bottom of the lane. Always some tried to "run it straight" and some spectacular eggbeaters resulted but strangely enough there were never any serious injuries. As a deterrent to such folly the overhead beam in [The Hut](The-Hut) had an array of broken skis mounted on it and over them the warning: "THEY TOOK IT STRAIGHT."
+The downhill races started at the edge of the timber near the top of [Meany Hill](Meany-Hill), each man choosing his own course to the finish at the bottom of the lane. Always some tried to "run it straight" and some spectacular eggbeaters resulted but strangely enough there were never any serious injuries. As a deterrent to such folly the overhead beam in [The Hut](Lodge) had an array of broken skis mounted on it and over them the warning: "THEY TOOK IT STRAIGHT."
 
 A mysterious schism among the skiers developed with the advent of the ski hut. [Snoqualmie Lodge](Snoqualmie-Lodge) was a place of gaiety and entertainment as well as skiing, with its huge fireplace, phonograph and space enough for dancing. Meany Hut, however, was conceived and approved as strictly a shelter for skiers, with no fireplace or extra space. There was plenty of gaiety and fun but of a different kind and apparently this difference caused some to prefer one place to the other. Thus, while there were those who alternated, the skiers in general were identified as either "Lodge hounds" or "Meanyites."
 

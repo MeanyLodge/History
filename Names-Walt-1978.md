@@ -48,7 +48,7 @@ a lump of earth, part of a former low ridge, which by design or error, will proj
 
 steep short pitch just before the Kitchen Jump. Early on it was enough steeper and narrower than presently that it deserved the name.
 
-### [Cognito Woods](Cognito-Woods)
+### [Cognito Woods](Cognito-Wood)
 
 Lies between Lane and Kitchen Run. Has been considerably thinned and trimmed. Still, when you are in there you are well concealed from identification and are therefore In-Cognito.
 
