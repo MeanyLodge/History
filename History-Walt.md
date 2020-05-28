@@ -195,7 +195,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 ### 1964
 
 - Mach Tow: new rope installed - $400
-- Snow Tractor ([Tom Cat](Tom-Cat)) - New tracks - $1400.
+- Snow Tractor ([Tomcat](Tomcat)) - New tracks - $1400.
 - New type grousers
 - endless belts composite of steel, cotton fabric and rubber.
 - Original tracks used 1961-64, 4 seasons. In 1964 much belt breakage and patching.
@@ -264,7 +264,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
     - Plymouth II rope proved defective.
     - Installed new rope. American mfg Co. SS-R-200 poly dacron
     - Negotiations with Plymouth for settlement for defective rope failed, and Mountaineers filed lawsuit, settled out-of-court for $320
-- Snow Tractor ([Tom Cat](Tom-Cat))
+- Snow Tractor ([Tom Cat](Tomcat))
     - taken to Seattle for rebuild
     - Install rebuilt Chev 6, 292ci
     - convert to 12v system
@@ -297,7 +297,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 - Worm: new rope tow to a point about halfway up lane. Vertical about 160', length about 450'
 - very slow for beginners
 - Electric motor + spare parts cost ~ $300
-- Snow tractor: overhauled [Tom Cat](Tom-Cat)'s running gear, tires and bearings.
+- Snow tractor: overhauled [Tom Cat](Tomcat)'s running gear, tires and bearings.
 
 ### 1974
 
@@ -376,7 +376,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
     - Improved plumbing and shut-off valves where supply line enters basement under hatch in men's toilet
 - Access
     - Sno-park continues at SE corner of exit 62 overpass
-- [Tom Cat](Tom-Cat)
+- [Tom Cat](Tomcat)
     - Jan 23-24 Bolt on forward left-hand bogie set failed. Replaced overnight with new and stronger bolt
 
 ### 1979
@@ -424,7 +424,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
     - Added 7' X 8' lean-to on North corner of tow hut for gas pump station and line hardware storage
     - Construct wheelways in basement of [Tow Hut](Tow-Hut) for winter storage of [Ox](Ox)
 - [Ox](Ox): Repaired brakes
-- [Tom Cat](Tom-Cat)
+- [Tom Cat](Tomcat)
     - Overhaul engine
     - Replace track bolts
     - Repair running gear, particularly front bogies

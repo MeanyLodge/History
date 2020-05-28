@@ -196,7 +196,7 @@ This was the old Fordsen tractor that powered the Mach Tow when first built in 1
 
 A four-wheel drive Dodge truck used for summer work. Unlike most oxen, it hibernates all winter under the Mach Tow Hut.
 
-### [Tom Cat](Tom-Cat)
+### [Tom Cat](Tomcat)
 
 The Bombadier Snow Tractor used to haul everything three miles from I-90 to Meany. Bought in 1960, when the NPRR discontinued passenger train service. Ton Van Devanter has driven it since the beginning; hence the name "Tom Cat."
 

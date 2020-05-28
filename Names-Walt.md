@@ -202,7 +202,7 @@ This was the old Fordsen tractor that powered the Mach Tow when first built in 1
 
 A four-wheel drive Dodge truck used for summer work. Unlike most oxen, it hibernates all winter under the Mach [Tow Hut](Tow-Hut).
 
-### [Tom Cat](Tom-Cat)
+### [Tom Cat](Tomcat)
 
 The Bombardier Snow Tractor used to haul everything three miles from I-90 to Meany. Bought in 1960, when the NPRR discontinued passenger train service. [Tom Van DeVanter](Tom-Van-DeVanter) has driven it since the beginning; hence the name "Tom Cat."
 
@@ -224,7 +224,7 @@ Forest Service road 420, on which the Tom Cat tracks its way back and forth, cro
 
 ### [Mosquito Creek](Mosquito-Creek)
 
-About one-fourth mile west of the point where the [Tom Cat](Tom-Cat) road crosses the Milwaukee RR. Two heavy concrete culvert pipes take the creek under the road. Location of frequent floodings. Sometimes known as "two pipe" creek.
+About one-fourth mile west of the point where the [Tom Cat](Tomcat) road crosses the Milwaukee RR. Two heavy concrete culvert pipes take the creek under the road. Location of frequent floodings. Sometimes known as "two pipe" creek.
 
 ### [Edifice Wreck](Edifice-Wreck)
 

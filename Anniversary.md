@@ -248,7 +248,7 @@ A four wheel drive, post WW II design 3/4 ton Dodge weapons carrier is used for 
 
 #### Pack Rat
 
-This Thiokol snow tractor was scrounged up cheaply from BPA in 1977 for hill packing. It his now used as auxiliary transportation when [Tom Cat](Tom-Cat) is ailing or its load is too much. On ski lesson days it becomes "Munchkin Express" hauling kids up to their ski classes. A roller can be mounted on the rear for hill grooming.
+This Thiokol snow tractor was scrounged up cheaply from BPA in 1977 for hill packing. It his now used as auxiliary transportation when [Tom Cat](Tomcat) is ailing or its load is too much. On ski lesson days it becomes "Munchkin Express" hauling kids up to their ski classes. A roller can be mounted on the rear for hill grooming.
 
 #### Dozer
 
