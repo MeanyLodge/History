@@ -9,7 +9,7 @@ category: Event
 <img src="img/1978-Meany-B-day.png" alt="Meany Birthday Party Banner">
 
 ---
-
+<img src="img/2003-75th-Parking.png" alt="Meany 75th parking" align="right" style="width: 50%;">
 ## 75th
 Held in 2003
 
