@@ -85,4 +85,4 @@ Meany has been one of the better patronized of all Mountaineer activities; one o
 MEANY SKI HUT COMMITTEE
 Harvey Mahalko, Chairman
 
-[Original document](reference/1960%20History,%20Harvey.pdf)
+[Original document](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/1960%20History%2C%20Harvey.pdf)
