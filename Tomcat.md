@@ -32,7 +32,7 @@ Tomcat requires a lot of care, therefore it has many mechanics. If a [Mechanic](
 ### History
 #### 1960
 
-In April 1960, the Northern Pacific Railroad removed its trains No. 5 and No. 6, making Meany Ski Lodge accessible only over three miles of snow. The Meany Committee was authorized to negotiate a lease for the use of a snow tractor during the 1960-61 ski season. <sup>[ma60][]</sup>
+In April 1960, the Northern Pacific Railroad removed its trains No. 5 and No. 6, making Meany Ski Lodge accessible only over three miles of snow. The Meany Committee was authorized to negotiate a lease for the use of a snow tractor during the 1960-61 ski season. <sup>[ma60][], [hh][]</sup>
 
 April: NPRR discontinued local passenger train service. After 31 years of access by train, Meany must now find another way. Will Meany Survive? October: Rental agreement with Symington for use of Bombardier Sno Tractor to haul skiers from Snoqualmie Pass Highway across valley to Meany-3 miles. <sup>[ma78][]</sup>
 
@@ -144,6 +144,7 @@ In January, at a special mid-week work party, the following persons trekked up t
 
 [75th]: Anniversary#75th
 [htt]: Skiers-Hit-The-Trail
+[hh]: History-Harvey
 [hr]: History-Reports "Meany History Reports, by Idona Kellogg"
 [hw]: History-Walt "Meany History, by Walt Little"
 [ma60]: Mountaineer-Annual#1960
