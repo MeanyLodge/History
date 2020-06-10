@@ -23,6 +23,8 @@ Haul people, gear, and supplies ~3 miles back and forth from the Crystal Springs
 - Engine: Chevrolet 292ci 6-cylinder
 - Fuel: gasoline
 - Capacity: ~100 persons (think: very long top rope)
+- Acquired: 1961
+- Cost: $4,800
 
 ### Mechanics
 
