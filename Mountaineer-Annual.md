@@ -123,7 +123,7 @@ The Mountaineer ski school conducted on the Meany Ski Hill was highly successful
 May our future seasons prove as much fun as this one!
 
 ### MEANY SKI HUT
-by [Joe Buswell](Joe-Buswell)
+by Joe Buswell
 
 The season started with the usual hilarious New Year's Party, and though there was a serious lack of snow everyone seemed to have a fine time. After two years of unusual snowfall it should get back to normal this year. (That is what we said last year.)
 
@@ -144,7 +144,7 @@ Everything is ready for the coming season and if all of you will pray to Saint P
 
 p. 26
 
-MEANY SKI HUT: After many months of hoping by Chairman [Joe Buswell](Joe-Buswell), there was finally enough snow at Meany to satisfy the most ardent ski enthusiasts. Four work parties really barbered the lane; the old ski-tow rope remains in good condition and so if train transportation is available we will be looking forward to another "super" New Year's party.
+MEANY SKI HUT: After many months of hoping by Chairman Joe Buswell, there was finally enough snow at Meany to satisfy the most ardent ski enthusiasts. Four work parties really barbered the lane; the old ski-tow rope remains in good condition and so if train transportation is available we will be looking forward to another "super" New Year's party.
 
 
 ## [1943](https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1943)
@@ -307,9 +307,9 @@ p. 54
 Meany Ski Hut
 Jo Anne Feringer
 
-Last winter there were many who came to Meany, skiing in the three miles from the highway or driving to Kanasket and connecting with the train to Martin. Dale Turner proved an able hut chairman, and it was a good year. More people found that touring proved the best antidote for too concentrated "tow skiing", and found deep snow skiing a new challenge. A full day took them to Baldy; the Stampede weather station made an easy half-day trip; less than an hour found them at Meany woods for a thrilling series of sweeping turns into the bowl, a bit of traversing, and the final run down the gully and along the ridge to the top of the tow. There the anticipation of a dinner prepared by chef and gourmet supreme, Mrs. [Harry Iverson](Harry-Iverson), made short work of the run down to the Hut. If they could still muster the energy after dinner, [Art Nation](Art-Nation) would be ready with his fine collection of folk dance records and a helping hand for the novices.
+Last winter there were many who came to Meany, skiing in the three miles from the highway or driving to Kanasket and connecting with the train to Martin. Dale Turner proved an able hut chairman, and it was a good year. More people found that touring proved the best antidote for too concentrated "tow skiing", and found deep snow skiing a new challenge. A full day took them to Baldy; the Stampede weather station made an easy half-day trip; less than an hour found them at Meany woods for a thrilling series of sweeping turns into the bowl, a bit of traversing, and the final run down the gully and along the ridge to the top of the tow. There the anticipation of a dinner prepared by chef and gourmet supreme, Mrs. [Harry Iverson](Annie-Iverson), made short work of the run down to the Hut. If they could still muster the energy after dinner, [Art Nation](Art-Nation) would be ready with his fine collection of folk dance records and a helping hand for the novices.
 
-[Bill Brockman](Bill-Brockman), assisted by [Dick Feringer](Dick-Feringer), has taken over the chairmanship for the coming season, and if the work parties are any criteria, it should be an enthusiastic one. With the combination of ideal weather and large groups of eager workers each weekend, a surprising amount has been accomplished. Members will first notice the kitchen (and shed a sentimental tear for the old coal range). Mr. Morris of the gas company still wonders how, in a few hours of apparently complete disorganization, the new stove and heater were carried in; cylinders brought up and installed; everything put in working order; and his tools all returned to the box. That intangible Mountaineer spirit must be potent! Next will be noticed the work of skilled laborers (those who proved they could hit a nail oftener than their fingers) in the building of the fire wall and doors in the stairway; and that other fire preventative measures have been taken with extra hoses and kick-out doors, and emergency exits and lamps.
+[Bill Brockman](Bill-Brockman), assisted by Dick Feringer, has taken over the chairmanship for the coming season, and if the work parties are any criteria, it should be an enthusiastic one. With the combination of ideal weather and large groups of eager workers each weekend, a surprising amount has been accomplished. Members will first notice the kitchen (and shed a sentimental tear for the old coal range). Mr. Morris of the gas company still wonders how, in a few hours of apparently complete disorganization, the new stove and heater were carried in; cylinders brought up and installed; everything put in working order; and his tools all returned to the box. That intangible Mountaineer spirit must be potent! Next will be noticed the work of skilled laborers (those who proved they could hit a nail oftener than their fingers) in the building of the fire wall and doors in the stairway; and that other fire preventative measures have been taken with extra hoses and kick-out doors, and emergency exits and lamps.
 
 Out on the Hill skiers will find that the brushing gang has given the Lane a crew cut, and that two days with a chain saw provided a basement full of wood. They will tighten their ski bindings in anticipation when they see the new terrain which has been opened up by the running of the new Bonneville power line parallel to the Lane; a wide lane having been cleared to feed into the bottom of the tow.
 
@@ -321,7 +321,7 @@ A special award of merit has been awarded to the tractor which had been retired 
 p. 55
 
 Meany Ski Hut
-[Dick Feringer](Dick-Feringer), Chairman
+Dick Feringer, Chairman
 
 I remember the first time I came to Meany-passing the familiar scenery over Snoqualmie Pass, turning off by Rustic Inn, winding over the narrow dirt road to Martin, and hiking up the short path to the lodge. Disappointment descended on me like the misty rain clouds which hung in the valley. This brown barnlike building seemed very colorless on this grey day. I remembered the tales told of this place, and at this moment couldn't share such enthusiasm.
 
@@ -489,13 +489,13 @@ These winters also saw the beginning of ski races at Meany. The cross-country ra
 
 This pattern of activity continued for the next several years, the tours expanding until trips from the Lodge to Meany or vice versa became almost commonplace, a party of public-spirited members having marked the route by orange-colored tin shingles high on trees and placed so that one was always in sight ahead.
 
-The intervening summers were spent in clearing [Hell's Half Acre](Hell's-Half-Acre), laying and relaying water lines and other necessary work. In 1931 two loggers from Easton contracted to fall the trees from the cornice down to the clearing for $100 and so the lane was created. Unfortunately the loggers were careless, or the trees perverse, for they fell in a jumble, requiring an outlay of another $100 the following summer to clean up the slash and reduce the fire hazard, which also improved the skiability.
+The intervening summers were spent in clearing [Hell's Half-acre](Hell's-Half-acre), laying and relaying water lines and other necessary work. In 1931 two loggers from Easton contracted to fall the trees from the cornice down to the clearing for $100 and so the lane was created. Unfortunately the loggers were careless, or the trees perverse, for they fell in a jumble, requiring an outlay of another $100 the following summer to clean up the slash and reduce the fire hazard, which also improved the skiability.
 
 At first the lower lane was used as a practice slope, the remainder being only a convenient means of going to and from the upper slopes of [Meany Hill](Meany-Hill). The more expert used its entire length to some extent but three or four climbs and descents were enough for even the strongest on any one day.
 
 p. 56
 
-The downhill races started at the edge of the timber near the top of [Meany Hill](Meany-Hill), each man choosing his own course to the finish at the bottom of the lane. Always some tried to "run it straight" and some spectacular eggbeaters resulted but strangely enough there were never any serious injuries. As a deterrent to such folly the overhead beam in [The Hut](The-Hut) had an array of broken skis mounted on it and over them the warning: "THEY TOOK IT STRAIGHT."
+The downhill races started at the edge of the timber near the top of [Meany Hill](Meany-Hill), each man choosing his own course to the finish at the bottom of the lane. Always some tried to "run it straight" and some spectacular eggbeaters resulted but strangely enough there were never any serious injuries. As a deterrent to such folly the overhead beam in [The Hut](Lodge) had an array of broken skis mounted on it and over them the warning: "THEY TOOK IT STRAIGHT."
 
 A mysterious schism among the skiers developed with the advent of the ski hut. [Snoqualmie Lodge](Snoqualmie-Lodge) was a place of gaiety and entertainment as well as skiing, with its huge fireplace, phonograph and space enough for dancing. Meany Hut, however, was conceived and approved as strictly a shelter for skiers, with no fireplace or extra space. There was plenty of gaiety and fun but of a different kind and apparently this difference caused some to prefer one place to the other. Thus, while there were those who alternated, the skiers in general were identified as either "Lodge hounds" or "Meanyites."
 
@@ -503,7 +503,7 @@ Almost imperceptibly through these years changes were developing in the pattern 
 
 Also the original conception of the hut as merely a shelter no longer met the popular demand. More active indoor entertainment required more space and so the second major change was made--the hut had its face lifted. In 1939 another concerted effort resulted in a 24x30-foot, three story addition with a basement containing a furnace, drying room, waxing room, washroom, and - at last! - inside plumbing.
 
-<img src="img/1945%20Meany%20Ski%20Hut.png" style="width: 450px;" align="right" alt="Meany Ski Hut, 1945">
+<img src="img/1945-Meany-Ski-Hut.png" style="width: 40%;" align="right" alt="Meany Ski Hut, 1945">
 
 The main floor comprised a recreation room, with a ping-pong table, a phonograph and space for dancing or games. The second floor became sleeping quarters for men, the third floor comprising another innovation-married quarters. The addition increased the hut capacity to 75 people. A light plant had previously been installed and so life at Meany had indeed changed considerably.
 
@@ -524,9 +524,9 @@ by Mrs Harry K. (Nashie) Iverson
 I REMEMBER the first time I came to Meany - for the New Year's celebration of 1934-5. Never in all my life had I met such a queer lot of people was my first impression. Their garb surely set them apart as being out of the ordinary.
 It didn't take long to figure out that outdoor sports were not their only interest; they had an interest in everything! After my day's work, it was interesting for me to sit in the shadows and see the romantic intrigue among the bachelors and spinsters, for there was plenty of it. No one paid much attention to the fact that they were being spied upon. My favorite vantage point was sitting underneath the dripping socks that were hung over the old coal stove which in those days provided the only drying facilities.
 
-There was never a dull moment and times haven't changed a bit. Come 11 o'clock, games and merriment of the evening were over and time to bed down. In the women's dorm we were nightly entertained by Sally's ballet dance costumed in fancy scanties. After breakfast some of the hardier skiers packed a lunch and took off for Mount Baldi which was an all day trip. The party consisted of Norm Engle, Herman Wunderling and Paul and Gertrude Shorrock. The less eager played around [Hell's Half Acre](Hell's-Half-Acre) climbing up under their own steam.
+There was never a dull moment and times haven't changed a bit. Come 11 o'clock, games and merriment of the evening were over and time to bed down. In the women's dorm we were nightly entertained by Sally's ballet dance costumed in fancy scanties. After breakfast some of the hardier skiers packed a lunch and took off for Mount Baldi which was an all day trip. The party consisted of Norm Engle, Herman Wunderling and Paul and Gertrude Shorrock. The less eager played around [Hell's Half-acre](Hell's-Half-acre) climbing up under their own steam.
 
-On Washington's birthday, a three-day holiday, the hut was filled to capacity with 60 people. The rain came down in torrents keeping everyone inside, except a few who now and then would venture out for a breath of air and return soaking wet. Even so the roof billowed with hilarity, and chairman [Jack Hassock](Jack-Hassock) said: "Nashie, I bet you have never been housed with so many 'nuts' before!" He was right, but I will say this: they were and still are the greatest in the land.
+On Washington's birthday, a three-day holiday, the hut was filled to capacity with 60 people. The rain came down in torrents keeping everyone inside, except a few who now and then would venture out for a breath of air and return soaking wet. Even so the roof billowed with hilarity, and chairman [Jack Hassock](Jack-Hossack) said: "Nashie, I bet you have never been housed with so many 'nuts' before!" He was right, but I will say this: they were and still are the greatest in the land.
 
 In 1937 the Juniors began entering the club and life took on added color, which on occasion turned to a dull gray. The Seniors found the Juniors taking over the place. To many of them this meant doom, but surprisingly enough the Juniors became rapidly adjusted and did themselves proud by assuming the necessary responsibilities and adding new and novel entertainment.
 
@@ -575,7 +575,7 @@ p. 19
 
 MOUNTAINEER SKIING by [Fred Ball](Fred-Ball)
 
-I came to Seattle in November, 1927...During these years members branched out from the Lodge and Meany more and more when snow conditions were good as their proficiency increased. The Rock Slide and [Hell's Half Acre](Hell's-Half-Acre) always had their quota of people practicing turns; but trips to Olallie Meadows, Silver Peak, Mirror Lake, Divide and Surveyors Lakes from the Lodge and to Baldy, Stampede Pass, the Power Line Cabin, and Meany Woods from Martin were frequently made by large and small groups. Also during this time the route from the Lodge to Meany was pioneered and then marked by orange tin shingles high on trees. This became a popular, if rugged, trip for the more hardy skiers.
+I came to Seattle in November, 1927...During these years members branched out from the Lodge and Meany more and more when snow conditions were good as their proficiency increased. The Rock Slide and [Hell's Half-acre](Hell's-Half-acre) always had their quota of people practicing turns; but trips to Olallie Meadows, Silver Peak, Mirror Lake, Divide and Surveyors Lakes from the Lodge and to Baldy, Stampede Pass, the Power Line Cabin, and Meany Woods from Martin were frequently made by large and small groups. Also during this time the route from the Lodge to Meany was pioneered and then marked by orange tin shingles high on trees. This became a popular, if rugged, trip for the more hardy skiers.
 
 Ski Races, 1929-1933
 
@@ -656,7 +656,7 @@ p. 84
 
 Happiness is Skiing at Meany-Or Where Else Can You Find a 2-1/2 Mile Long Rope Tow?
 
-It's 7:30 as we leave Seattle. It's cold and crisp with the morning sun shining on new snow in the Cascades. It looks like a great day for the Meanyites as we pass an endless succession of ski-school busses by count, 160, twice the number of people ever seen on [Meany hill](Meany-hill). With Snoqualmie Pass behind us, it is 12 miles to the Stampede Pass exit road. To the left up Gold Creek are Huckleberry and Chikamin Peaks covered with a dusting of new powder snow.
+It's 7:30 as we leave Seattle. It's cold and crisp with the morning sun shining on new snow in the Cascades. It looks like a great day for the Meanyites as we pass an endless succession of ski-school busses by count, 160, twice the number of people ever seen on [Meany hill](Meany-Hill). With Snoqualmie Pass behind us, it is 12 miles to the Stampede Pass exit road. To the left up Gold Creek are Huckleberry and Chikamin Peaks covered with a dusting of new powder snow.
 
 Ten past nine and we pull into the parking area, unload gear and put on skis for the 2-1/2 mile long "ropetow" to the lodge. But where is this rope tow? There is a dog sled with an eager team of white Alaska Huskies ready to take an exercise run up the road, but can they pull 40 skiers? Suddenly an apparition appears around the corner. An immense flat-roofed version of Snoopy's "Sopwith Camel" (doghouse version), gaily painted with alpine flowers and fantastic creatures moves into view. Could that be Snoopy himself in the cockpit in his World War I flying helmet chasing the Red Baron? On closer scrutiny it turns out to be our driver, Tom Van Devanter. He roars on by as two long ropes are unhooked from the tractor and thrown out onto the road behind. Beginning skiers climb aboard the tractor while the old pros shoulder their packs and take a loop in one of the two ropes. Nine-thirty has arrived, and the driver is champing at his microphone to get going. Tail-end Charley radios all clear to start, and with a roar we take off down the road, scattering teenagers into the snow banks like scared chickens.
 

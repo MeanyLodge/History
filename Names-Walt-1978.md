@@ -48,7 +48,7 @@ a lump of earth, part of a former low ridge, which by design or error, will proj
 
 steep short pitch just before the Kitchen Jump. Early on it was enough steeper and narrower than presently that it deserved the name.
 
-### [Cognito Woods](Cognito-Woods)
+### [Cognito Woods](Cognito-Wood)
 
 Lies between Lane and Kitchen Run. Has been considerably thinned and trimmed. Still, when you are in there you are well concealed from identification and are therefore In-Cognito.
 
@@ -84,7 +84,7 @@ named after General Bullmoose of USA, who always got the worst of his business d
 
 named after the Lower Slobbovian diet. Since there was nothing to eat, Lower Slobbovians always said, "I druther eat this; I druther eat that." This is the short gully between South Slobbovia and Bullmoose Ridge.
 
-### [Phogbound](Phogbound)
+### [Phogbound Gulch](Phogbound-Gulch)
 
 named in honor of Senator Jack S. Phogbound; Lower Slobbovia's representative to the Senate of the Hew Hess hay. This is the long narrow gully on the south side of South Slobbovia.
 
@@ -196,7 +196,7 @@ This was the old Fordsen tractor that powered the Mach Tow when first built in 1
 
 A four-wheel drive Dodge truck used for summer work. Unlike most oxen, it hibernates all winter under the Mach Tow Hut.
 
-### [Tom Cat](Tom-Cat)
+### [Tom Cat](Tomcat)
 
 The Bombadier Snow Tractor used to haul everything three miles from I-90 to Meany. Bought in 1960, when the NPRR discontinued passenger train service. Ton Van Devanter has driven it since the beginning; hence the name "Tom Cat."
 
