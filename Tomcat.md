@@ -7,8 +7,8 @@ categories: Machine, Tractor
 <img src="img/2020-TomCat-Rear-Kate.jpeg" align="right" style="width: 51%;">
 # Tomcat
 ### Names
-- Snow Tractor <sup>[60](#1960)</sup>
-- Snow Cat
+- Snow Tractor <sup>[ma60][]</sup>
+- Snow Cat <sup>[tp][]</sup>
 - Snocat
 - Cat
 - Tom Cat <sup>[77](#1977)</sup>
@@ -32,7 +32,7 @@ Tomcat requires a lot of care, therefore it has many mechanics. If a [Mechanic](
 ### History
 #### 1960
 
-In April 1960, the Northern Pacific Railroad removed its trains No. 5 and No. 6, making Meany Ski Lodge accessible only over three miles of snow. The Meany Committee was authorized to negotiate a lease for the use of a snow tractor during the 1960-61 ski season. <sup>[ma60][], [hh][]</sup>
+In April 1960, the Northern Pacific Railroad removed its trains No. 5 and No. 6, making Meany Ski Lodge accessible only over three miles of snow. The Meany Committee was authorized to negotiate a lease for the use of a snow tractor during the 1960-61 ski season. <sup>[ma60][], [tp][]</sup>
 
 April: NPRR discontinued local passenger train service. After 31 years of access by train, Meany must now find another way. Will Meany Survive? October: Rental agreement with Symington for use of Bombardier Sno Tractor to haul skiers from Snoqualmie Pass Highway across valley to Meany-3 miles. <sup>[ma78][]</sup>
 
@@ -93,13 +93,13 @@ overhauled running gear, tires and bearings. New tires on rear wheels. <sup>[hw]
 
 #### 1975
 
-new roof, new driving axles, new muffler<sup>[hw][]</sup>
+new roof, new driving axles, new muffler <sup>[hw][]</sup>
 
 #### 1976
 
 Installed bearings on exterior ends of driving sprocket axles to save wear on spline on interior ends. <sup>[hw][]</sup>
 
-Connecting rod broke thru block on Bombardier sno cat on Sunday evening trip out to road. What a day-Sleet crust 3/4" thick; rain; late start. Finally got everybody to road and started home by 8:30 pm. Motor replaced in 3 days!!!<sup>[ma78][]</sup>
+Connecting rod broke thru block on Bombardier sno cat on Sunday evening trip out to road. What a day-Sleet crust 3/4" thick; rain; late start. Finally got everybody to road and started home by 8:30 pm. Motor replaced in 3 days!!! <sup>[ma78][]</sup>
 
 #### 1977
 
@@ -141,10 +141,11 @@ When it arrives, two long ropes are tossed off the back of the covered tractor w
 
 In January, at a special mid-week work party, the following persons trekked up to Meany Lodge to put new tracks on Tomcat: [Chuck Welter](Chuck-Welter), [Matt Simerson](Matt-Simerson), [Dan Nord](Dan-Nord), [James Kotlik](James-Kotlik), [Norm Vigus](Norm-Vigus), [Michael Froebe](Michael-Froebe), [Rick Ingham](Rick-Ingham)
 
+In May, [Alex de Klerk](Alex-de-Klerk) shipped the old differential to Minnesota Outdoors to get rebuilt.
 
 [75th]: Anniversary#75th
 [htt]: Skiers-Hit-The-Trail
-[hh]: History-Harvey
+[tp]: Tomcat-Petition "Petition to Get a Snow Cat"
 [hr]: History-Reports "Meany History Reports, by Idona Kellogg"
 [hw]: History-Walt "Meany History, by Walt Little"
 [ma60]: Mountaineer-Annual#1960
