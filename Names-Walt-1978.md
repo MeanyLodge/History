@@ -210,7 +210,7 @@ A way bulldozed up through Cognito Wood in 1978 to allow the Pack Rat to achieve
 
 ### [Weasel Creek](Weasel-Creek)
 
-Road 212 A, on which the Tom Cat tracks its way back and forth, crosses this side creek at about 0.8 miles from Meany. So named because the U.W. "Weasel" fell into it one Sunday night, and the efforts of all the University kids never did extract it. Some did not get home ‘til 6A.M. Monday. The "Weasel" served the UW ski area - long since discontinued.
+Road [212 A](420), on which the Tom Cat tracks its way back and forth, crosses this side creek at about 0.8 miles from Meany. So named because the U.W. "Weasel" fell into it one Sunday night, and the efforts of all the University kids never did extract it. Some did not get home ‘til 6A.M. Monday. The "Weasel" served the UW ski area - long since discontinued.
 
 ### [Two Pipe Creek](Two-Pipe-Creek)
 
