@@ -25,6 +25,7 @@ Haul people, gear, and supplies ~3 miles back and forth from the Crystal Springs
 - Capacity: ~100 persons (think: very long tow rope)
 - Acquired: 1961
 - Cost: $4,800
+- Manual: [Tomcat/Manual.pdf]
 
 ### Mechanics
 
