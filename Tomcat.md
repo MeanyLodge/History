@@ -20,7 +20,7 @@ Haul people, gear, and supplies ~3 miles back and forth from the Crystal Springs
 
 ### Specifications
 - Model: 1956 Bombardier Muskeg
-- Engine: Chevrolet 292ci 6-cylinder
+- Engine: Chevrolet 292ci 6-cylinder, 147 HP
 - Fuel: gasoline
 - Capacity: ~100 persons (think: very long tow rope)
 - Acquired: 1961
