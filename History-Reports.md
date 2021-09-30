@@ -15,9 +15,9 @@ It all began at Meany this season with preparation for its 50th Birthday Party, 
 
 A highlight of the ski season was the [carnival](Carnival) weekend which featured many corny contests and crazy races, a clowns contest and a "European Feast" complete with German hot potato salad and homemade European pastries, pretzels and breadsticks. Many fancy relish trays with elaborate flowered vegetable "nibbles" and apple swans served from an outdoor snow table is an example of how embellished and painstaking the carnival events were. This fantastic weekend was masterminded by [Patti Polinsky](Patti-Polinsky).
 
-One extra special Saturday night program was the dedication banquet for "Walt's Woods" with Master of Ceremonies Lee Heiser cleverly spicing the evening and a film on Walter shown by [Bob Bentler](Bob-Bentler). A huge cake shaped like a bald head contained a hidden cavity which was opened to reveal Walter's thoughts in the form of sayings on heart-shaped candies.
+One extra special Saturday night program was the dedication banquet for [Walt's Woods](Walter's-Woods) with Master of Ceremonies [Lee Helser](Lee-Helser) cleverly spicing the evening and a film on Walter shown by [Bob Bentler](Bob-Bentler). A huge cake shaped like a bald head contained a hidden cavity which was opened to reveal Walter's thoughts in the form of sayings on heart-shaped candies.
 
-A very important change to the Meany vicinity was made in the summer when the US Forest service logged Section 34, which included "Henrietta's Woods" and "No-Name-Woods." These areas are now known as "Henrietta's Meadow and "Walter's Woods." The gulley between the two has been christened "RBCSA (Retroactive Birth Control Society of America) GULCH" and the cross-country ski trail labeled "Al's Fringe".
+A very important change to the Meany vicinity was made in the summer when the US Forest service logged Section 34, which included [Henrietta's Woods](Henrietta's-Woods) and "No-Name-Woods." These areas are now known as "Henrietta's Meadow and [Walter's Woods](Walter's-Woods). The gulley between the two has been christened [RBCSA (Retroactive Birth Control Society of America) GULCH](RBCSA-Gulch) and the cross-country ski trail labeled [Al's Fringe](Al\'s-Fringe).
 
 In September, a gigantic Wolf gas kitchen range with two large ovens was somehow hauled into Meany's kitchen.
 
