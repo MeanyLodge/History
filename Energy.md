@@ -164,21 +164,45 @@ Replaced all florescent (tubes and A19) bulbs in the Lodge, Tow Hut, Cat House, 
 
 #### 2020
 
-##### Gas purchases:
+Matt replaced the (8) halogen lamps in the Zoo with LEDs. The lumen ratings are
+the same but the new lights come on instantly and are much brighter.
+
+Gas Tank Readings
+---
+Diesel tank: 17.5” of 46”, gage reads 3/8 = 347 gallons
+Gas tank: 23” of 46” = 250 gallons
+Gas tank: 25.5 of 46” = 270 gallons
+
+#### 2021
+
+Gas Tank Readings
+---
+Diesel Hut - diesel - 9 in = 130 gallons
+Gas Hut - gasoline - 29 in = 340 gallons
+Tow Hut - gasoline - 8 in = 61 gallons
+
+#### Gas purchase History:
+
+(from Midstate Coop Tankwagon)
+
 - 2016-10-12: 700 gallons diesel: $1,454
 - 2016-10-12: 200 gallons gasoline: $587
 - 2016-10-12: 500 gallons gasoline: 1,464
 - 2017-11-15: diesel & gasoline: $2,288
 - 2018-10-25: gasoline $2,298
 - 2019-10-23: gasoline $2,368
+- 2020-10-07: gasoline 200 gallons, diesel: 0 gallons
+- 2021-10-20: gasoline abt. 200 gallons, diesel: 250 gallons
 
-##### Propane purchases:
+#### Propane Purchase History:
 - 2015-11-12: $400
 - 2017-10-19: $986
 - 2018-08-09: $726
 - 2018-09-29: $104
 - 2019-05-29: $1,224
 - 2019-09-30: $108
+- 2020-??-??: 
+- 2021-
 
 
 [75th]: Anniversary#75th
