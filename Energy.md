@@ -1,13 +1,14 @@
 ---
 title: Energy
 category: Document
+categories: Energy
 ---
 # Energy
 Meany has electricity service through Puget Sound Energy. We have gas, diesel, and propane tanks that are filled seasonally.
 
 ## Vendors
 
-- Electricity: Puget Sound Energy
+- [Electricity](Electricity): Puget Sound Energy
 - Propane: Amerigas
 - Diesel: 
 - Gasoline:
@@ -26,11 +27,7 @@ Meany has electricity service through Puget Sound Energy. We have gas, diesel, a
 
 ## Infrastructure
 
-- Power Poles: 
-- Transformers
-    - Tow Hut: 50 KVA
-    - Lodge: ?? KVA
-    - Zoo: ?? KVA
+- See [Electricity](Electricity)
 - Fuel Tanks
     - gasoline
         - 500 gallons ([Diesel Hut](Diesel-Hut))
@@ -58,7 +55,7 @@ A small water power lighting plant was developed by [Willard Johnston](Willard-J
 
 #### 1939
 
-Added gasonline motor-generator set for electric lights. Added wiring for electric lights in hut, replacing gasoline lanterns. <sup>[ma78][]</sup>
+Added gasoline motor-generator set for electric lights. Added wiring for electric lights in hut, replacing gasoline lanterns. <sup>[ma78][]</sup>
 
 a basement with furnace in place of the former pot-bellied stove in the middle of the living room. The furnace burns both wood and coal. <sup>[hw][], [ma91][]</sup>
 
@@ -122,7 +119,7 @@ Power connection to BNRR interrupted by falling tree. Connection restored tempor
 
 #### 1981
 
-Constructed power transmisison to connect Meany system to Puget Sound Power Line on South side of Meany property. ~500 ft. Transformers to convert supply at 7000v to 2400v. Meter at point of tie to supply line. <sup>[hw][]</sup>
+Constructed power transmisison to connect Meany system to Puget Sound Power Line on South side of Meany property. \~500 ft. Transformers to convert supply at 7000v to 240v. Meter at point of tie to supply line. <sup>[hw][]</sup>
 
 [continued from 1980] This (the 1980 power outage) resulted in converting our electrical load to PSE in the summer of 1981 by building a power line from the BPA transmission line right of way to the Lodge. PSE had a 7200-volt line on the BPA R/W. A primary meter (7200 Volt) was needed because of the distance to the lodge and the distributed loads that we had.<sup>[rn19][]</sup>
 
