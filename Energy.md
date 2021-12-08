@@ -159,6 +159,7 @@ Approximately 2017: replaced 500 gallon propane tank with 1000 gallon.
 
 Replaced all florescent (tubes and A19) bulbs in the Lodge, Tow Hut, Cat House, and Zoo with LED bulbs. Should materially reduce electric consumption.
 
+
 #### 2020
 
 Matt replaced the (8) halogen lamps in the Zoo with LEDs. The lumen ratings are
@@ -169,6 +170,7 @@ Gas Tank Readings
 Diesel tank: 17.5” of 46”, gage reads 3/8 = 347 gallons
 Gas tank: 23” of 46” = 250 gallons
 Gas tank: 25.5 of 46” = 270 gallons
+
 
 #### 2021
 
