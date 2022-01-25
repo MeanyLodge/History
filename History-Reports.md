@@ -184,9 +184,9 @@ Final adjustments were made to the Turtle and Worm Tows.
 Much of the fire escape was replaced due to rotting wood.
 A frame protector was formed around the Bombardier (TomCat) lights.
 The Thiokol (Pack Rat) transmission was rebuilt.
-Crews redid the water bars on the road 1eading to Meany.
+Crews redid the water bars on the road leading to Meany.
 Maintenance was done on the creek beds. The creek ford was restructured.
-Helpers dug out and recovered the drainage on the main ski hi11.
+Helpers dug out and recovered the drainage on the main ski hill.
 Because the Stampede Pass train tunnel burned on July 4th, Meany phone lines running through the tunnel had to be restrung or reburied.
 Remodeling and painting the kitchen was completed.
 A long cooler- box and fresh food shelf was constructed in the pantry.
