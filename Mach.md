@@ -204,6 +204,10 @@ The current motor systems on the small and medium tows were installed several ye
 
 <img src="img/2020-Mach-Cert.jpeg" style="width: 50%;">
 
+#### 2021
+
+Replaced the Mach rope. Rope is <a href="https://www.samsonrope.com/product/ssr-1200-3">Samson SSR-1200-3</a> 1". It's a Polyolefin - Polyester Blend, 3 strand class I rope with 1.2 Specific Gravity and average strength of 25,400 pounds. 
+
 
 [75th]: Anniversary#75th
 [dc87]: Dave-Claar#1987
