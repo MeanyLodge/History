@@ -5,6 +5,73 @@ category: Building
 # Snoqualmie Lodge
 <img src="img/1929-Snoqualmie-Lodge.png" style="width: 100%;">
 
+## 1914
+
+p. 90
+
+<img src="img/1916-ma-lodge-living-room.png">
+
+"May wood-fire glow And perfect peace abide." -- C. M. Bixby
+
+````
+OUR LODGE IN THE HILLS
+
+Small toll we ask. 0 forest,
+Who love thy smallest flower,
+Who plan no sordid plunder,
+Nor flaunt an iron power;
+   On Shelter Crest
+   This mythic nest–
+Our home for joy-filled hour!
+
+When unchained wheels of winter
+Through yonder canyon ride
+And whirl their crystalled burden
+Where terraced gardens hide,
+    'Neath billowed snow
+    May wood-fires glow
+And perfect peace abide!
+
+This mountain mothered refuge
+Our love of earth fulfils–
+Who seeks will here find shelter,
+A balm for storm-born ills.
+    O may respect
+    For thee protect
+Our lodge, Eternal Hills!
+
+by EDMOND S. MEANY
+````
+
+Dedicated to The Mountaineers, 21 June, 1914.
+
+p. 93
+
+THE LODGE
+
+by CLAYTON CRAWFORD
+
+As a week end or vacation home for members and their guests, winter or summer, and as a base for climbing trips of large and small parties of Mountaineers, the Lodge is fulfilling the expectations of those who dreamed of it and worked so long and faithfully to make the dream come true. Quiet visitors can loaf about the building or find inspiration and refreshment in the beauties of the park and lakes close by, while the more active can begin the day with an exhilirating swim in Big Lake and try their climbing ability on any of the splendid peaks visible from the Lodge. From Dedication Day, June 21, 1914, to October 17, 1915, 800 members and guests signed the book in which all visitors to the Lodge are required to register. This is a good showing, but the Lodge will be used increasingly as members become better aware of its charms and its appeal to sojourners in the Northwest. A Chicago girl wrote, after arriving home, that the week end spent at the Lodge in August was an unique experience and the most delightful portion of her long trip through the Far West.
+
+Constructed of well-matched peeled fir logs and rough hewn cedar shakes, the building is striking in appearance and appropriate to its site. 'This is in the Snoqualmie National Forest on a knoll jutting out from the ridge of the Cascade mountains through which the Milwaukee tunneled to avoid the summit of the Snoqualmie Pass. By advice of the architect and other authorities, the committee in charge has tried to preserve the simple and rugged beauty of the Lodge, feeling that the log walls needed no decoration, that the pictures of forest and mountains framed by the five large windows of the living room should not be shut off by hangings and that the grounds should show man's intrusion as little as possible. The extinction of elk horn moss in the early days of lodge visits led to a rule against cutting or digging up flowers or plants on the ten acres covered by our lease.
+
+A large portion of the construction was done by members, and there is still work to be done in improving the building and grounds. During the past year the log walls have been oiled, chinks filled with oakum and battened with wood strips inside and out, a large amount of brush and stumps left from clearing the site and cutting logs for the building has been cleared away, trails have been improved and extended, and, best of all, a pipe line has been laid for nearly 800 feet and now brings water to a faucet outside the kitchen door from a small rock walled basin on the mountain side 68 feet higher than the Lodge. This does away with the long pull up to the Lodge from the spring. It was a picturesque task to stride through the forest with an old-fashioned yoke on one's shoulders and two pails of cold, delicious water dangling therefrom, when alone or with a small party, but irksome in bad weather or when many persons were at the Lodge and some one had to be running for water every few minutes. When finances will admit, water will be piped into the building for hot water tanks connected with fireplace and kitchen range, shower baths, etc. The pipe line was a big task for amateurs, but its difficulties were overcome by the energy and resourcefulness of Mr. Bremerman, committeeman in charge, with the advice and assistance of Messrs. McKee and Bowman, and the trench digging was joined in by many members and dubbed practice in modern warfare.
+
+Labor worth hundreds of dollars has been given by members during vacations or week ends spent at the Lodge by individuals and small parties, and on two Helping Hand outings, October 14-15, 1914, and October 16-17, 1915, when all the members that could be taken care of applied themselves with energy and enthusiasm to various tasks. Most of the work was out of doors and the air is so vitalizing and the surroundings so inspiring that wonderful appetites, even for Mountaineers, assailed the commissary and no one seemed to get too tired to be proud and happy.
+
+Every trip to the Lodge and every contribution of time, labor, or money seems to make the members fonder of it. At every visit one sees new beauties in the lake gemmed park, interesting plants or fungi unnoticed before, new glories in the mountain views, the cloud effects above, or the seas of fog in the pass below. It is hard to determine which is the best season : spring is delightful, flowers burst up as the snow melts and bees and humming birds astonish with their early appearance, frequent rains patter on the shake roof lullabies one would fain listen to but cannot resist ; summer is not hot or dry enough to spoil the varied greens of the abundant undergrowth or make hiking and climbing uncomfortable, and berry bushes offer delicacies everywhere ; autumn brings more rain but many delightful days and colors the mountain sides with richer hues ; winter has most advocates-Big Lake freezes into a field for snow shoe races and other sports of winter outings, the landscapes are symphonies in white and dark green, moonlight turns the forest to fairy land, and the Lodge seems more inviting than at any other time of the year ; the great fireplace, filled with logs that blaze defiance to the cold outside, warms the heart as well as the body, intensifies Mountaineer good fellowship, invites the singers to do their best, the storytellers to be most' brilliant and all to dream of happy Lodge days past and happier still to come.
+
+## 1916
+
+p. 103
+
+by CLAYTON CRAWFORD, Chairman
+
+The last year has seen considerable Improvement at Snoqualmie Lodge: the Wright trail to Rockdale has been re-scouted and completed, giving a good trail with gradual ascent and splendid views; a trail has been cut half way around Big Lake; a woodshed has been built east of the entrance door with a connecting passage that will keep wood and workers dry and serve as a vestibule; the terrace has been completed and careful cutting of trees has made the Denny Creek basin and surrounding peaks show up delightfully from the terrace and the living room windows; and, joy of the cooks, a fine range has been set up, gift of J. Fred Blake, and an extension put on the kitchen chimney makes the draft good In all winds. The unusual snowfall around the Lodge last February was very beautiful and interesting and received publicity in Miss Nettleton's story In the Town Crier and Mr. Depue's Illustrated article in the September Outing.
+
+The register shows 477 visitors from October 1, 1916, to November 1, 1916.
+A voluntary trail committee lately organized and now receiving subscriptions, promises to add greatly to the value of Snoqualmie Lodge by building trails to Silver Peak, the Denny Creek country, and other attractive fields for hikers.
+
 ## [1944][ma44]
 
 p. 37

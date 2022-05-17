@@ -10,8 +10,8 @@ Meany has electricity service through Puget Sound Energy. We have gas, diesel, a
 
 - [Electricity](Electricity): Puget Sound Energy
 - Propane: Amerigas
-- Diesel: 
-- Gasoline:
+- Diesel: Midstate Coop Tankwagon
+- Gasoline: Midstate Coop Tankwagon
 
 ## Building
 
@@ -184,24 +184,29 @@ Tow Hut - gasoline - 8 in = 61 gallons
 
 (from Midstate Coop Tankwagon)
 
-- 2016-10-12: 700 gallons diesel: $1,454
-- 2016-10-12: 200 gallons gasoline: $587
-- 2016-10-12: 500 gallons gasoline: 1,464
-- 2017-11-15: diesel & gasoline: $2,288
-- 2018-10-25: gasoline $2,298
-- 2019-10-23: gasoline $2,368
-- 2020-10-07: gasoline 200 gallons, diesel: 0 gallons
-- 2021-10-20: gasoline abt. 200 gallons, diesel: 250 gallons
+| Date      | Gallons       | Price     |
+| --------- | ------------- | -------- :|
+| 2016-10-12 | 700 diesel | $1,454
+| 2016-10-12 | 200 gasoline| $587
+| 2016-10-12 | 500 gasoline| 1,464
+| 2017-11-15 | diesel & gasoline | $2,288
+| 2018-10-25 | gasoline | $2,298
+| 2019-10-23 | gasoline | $2,368
+| 2020-10-07 | gasoline 200, diesel 0 |
+| 2021-10-20 | gasoline abt. 200, diesel 250 | $1,681
 
 #### Propane Purchase History:
-- 2015-11-12: $400
-- 2017-10-19: $986
-- 2018-08-09: $726
-- 2018-09-29: $104
-- 2019-05-29: $1,224
-- 2019-09-30: $108
-- 2020-??-??: 
-- 2021-
+
+| Date | Amount |
+| ---- | ----- :|
+| 2015-11-12 | $400
+| 2017-10-19 | $986
+| 2018-08-09 | $726
+| 2018-09-29 | $104
+| 2019-05-29 | $1,224
+| 2019-09-30 | $108
+| 2020-10-06 | $2,051
+| 2021-10-06 | $857
 
 
 [75th]: Anniversary#75th
