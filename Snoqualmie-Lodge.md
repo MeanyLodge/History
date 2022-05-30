@@ -3,13 +3,13 @@ title: Snoqualmie Lodge
 category: Building
 ---
 # Snoqualmie Lodge
-<img src="img/1929-Snoqualmie-Lodge.png" style="width: 100%;">
+<img src="/img/1929-Snoqualmie-Lodge.png" style="width: 100%;">
 
 ## 1914
 
 p. 90
 
-<img src="img/1916-ma-lodge-living-room.png">
+<img src="/img/1916-ma-lodge-living-room.png">
 
 "May wood-fire glow And perfect peace abide." -- C. M. Bixby
 
