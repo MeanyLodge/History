@@ -4,7 +4,7 @@ category: RopeTow
 categories: RopeTow
 ---
 # Mach
-<img src="img/2020-Mach-Base.jpeg" style="width: 40%;" align="right">
+<img src="/img/2020-Mach-Base.jpeg" style="width: 40%;" align="right">
 
 ### Names
 - Mach
@@ -24,7 +24,7 @@ Along the south edge of the [Lane](Lane).
 Mach used to have a 4-speed transmission. Typically only the first three gears were ever used, as 3rd gear was 19-21mph. Occasionally it was shifted into 4th which ran at 30mph. When propelled at such speeds it seemed as if one was approaching the speed of sound–hence the name "Mach Tow." <sup>[nw][] [75th][]</sup>
 
 ### Specifications
-<img src="img/2020-Mach-Head.jpeg" style="width: 40%;" align="right">
+<img src="/img/2020-Mach-Head.jpeg" style="width: 40%;" align="right">
 - Vertical: 441' ([base 2911'](img/2020-Mach-base-GPS.png), [top: 3330'](img/2020-Mach-top-GPS.png))
 - Horizontal: 1,000'
 - Speed: 16mph (limited by state regulations)
@@ -55,7 +55,7 @@ The Beast was propped up clear of the floor and had maple driving rims bolted on
 
 The old ski tow rope lasted the season and is even now waiting to start its fourth year...a new axle was provided for the tractor which we hope will result in a trouble-free season for the coming year. <sup>[ma41][]</sup>
 
-<img src="img/194n-Head-Pole.jpeg" align="right" style="width: 40%">
+<img src="/img/194n-Head-Pole.jpeg" align="right" style="width: 40%">
 #### 1943
 
 The tow tractor was given a thorough overhaul. 300 feet were added to the length, making it 1,100 feet long with a vertical lift of 300 feet. <sup>[ma43][]</sup>
@@ -90,7 +90,7 @@ Begin work to relocate and rebuild. <sup>[hw][]</sup>
 
 Complete relocation, begun in 1955. Head pole moved south about 200' and 30' higher. Tow hut moved north about 250', and about 20' lower. This was done to gain more altitude, and to get upper unloading closer to [Lower Slobbovia](Lower-Slobbovia). Rise 440'. Length 1,000'. <sup>[ma78][]</sup>
 
-<img src="img/1956-Walter-Little.jpeg" alt="Walter Little Memorial Tow" style="width: 40%;">
+<img src="/img/1956-Walter-Little.jpeg" alt="Walter Little Memorial Tow" style="width: 40%;">
 
 #### 1957
 
@@ -202,7 +202,7 @@ The current motor systems on the small and medium tows were installed several ye
 
 #### 2020
 
-<img src="img/2020-Mach-Cert.jpeg" style="width: 50%;">
+<img src="/img/2020-Mach-Cert.jpeg" style="width: 50%;">
 
 #### 2021
 

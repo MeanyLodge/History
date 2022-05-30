@@ -3,8 +3,8 @@ title: Tomcat
 category: Machine
 categories: Machine, Tractor
 ---
-<img src="img/2020-TomCat-Front-Kate.jpeg" align="right" style="width: 51%;">
-<img src="img/2020-TomCat-Rear-Kate.jpeg" align="right" style="width: 51%;">
+<img src="/img/2020-TomCat-Front-Kate.jpeg" align="right" style="width: 51%;">
+<img src="/img/2020-TomCat-Rear-Kate.jpeg" align="right" style="width: 51%;">
 # Tomcat
 ### Names
 - Snow Tractor <sup>[ma60][]</sup>
@@ -25,11 +25,11 @@ Haul people, gear, and supplies ~3 miles back and forth from the Crystal Springs
 - Capacity: ~100 persons (think: very long tow rope)
 - Acquired: 1961
 - Cost: $4,800
-- Manual: [Tomcat/Manual.pdf](Tomcat/Manual.pdf)
+- Manual: [Tomcat/Manual.pdf](/Machine/Tomcat/Manual.pdf)
 
 ### Mechanics
 
-Tomcat requires a lot of care, therefore it has many mechanics. If a [Mechanic](Mechanic) at Meany works on any machine, they also work on Tomcat. We also have a long standing tradition that in order to [drive](Driver) Tomcat, you have to wrench on Tomcat.
+Tomcat requires a lot of care, therefore it has many mechanics. If a [Mechanic](/Person/Mechanic) at Meany works on any machine, they also work on Tomcat. We also have a long standing tradition that in order to [drive](/Person/Driver) Tomcat, you have to wrench on Tomcat.
 
 ---
 ### History
@@ -69,11 +69,11 @@ engine was completely rebuilt and is expected to last several years<sup>[ma67][]
 
 #### 1968
 
-Suddenly an apparition appears around the corner. An immense flat-roofed version of Snoopy's "Sopwith Camel" (doghouse version), gaily painted with alpine flowers and fantastic creatures moves into view. Could that be Snoopy himself in the cockpit in his World War I flying helmet chasing the Red Baron? On closer scrutiny it turns out to be our driver, [Tom Van DeVanter](Tom-Van-DeVanter). He roars on by as two long ropes are unhooked from the tractor and thrown out onto the road behind. Beginning skiers climb aboard the tractor while the old pros shoulder their packs and take a loop in one of the two ropes. 9:30AM has arrived, and the driver is champing at his microphone to get going. Tail-end Charley radios all clear to start, and with a roar we take off down the road, scattering teenagers into the snow banks like scared chickens. <sup>[ma68][]</sup>
+Suddenly an apparition appears around the corner. An immense flat-roofed version of Snoopy's "Sopwith Camel" (doghouse version), gaily painted with alpine flowers and fantastic creatures moves into view. Could that be Snoopy himself in the cockpit in his World War I flying helmet chasing the Red Baron? On closer scrutiny it turns out to be our driver, [Tom Van DeVanter](Person/Tom-Van-DeVanter). He roars on by as two long ropes are unhooked from the tractor and thrown out onto the road behind. Beginning skiers climb aboard the tractor while the old pros shoulder their packs and take a loop in one of the two ropes. 9:30AM has arrived, and the driver is champing at his microphone to get going. Tail-end Charley radios all clear to start, and with a roar we take off down the road, scattering teenagers into the snow banks like scared chickens. <sup>[ma68][]</sup>
 
 Somebody halfway up the rope has a loose safety binding, loses his ski, and goes down! This should really make a walloping pig-pile, but no, the tractor has stopped-oh, the wonders of CB Radio. Now we see why Snoopy wears that WWI flyers helmet-it's got earphones. It's every man for himself crossing the Milwaukee tracks while the tractor waits on the other side; then off again, a long double line of brightly colored parkas and packs from which come random puffs of condensed breath. Now and then a snowball is scooped up to land upon an unsuspecting victim.
 
-Soon we cross the bridge, up the slope to a peculiar little structure below the N.P. tracks full of "gas" drums, and affectionately called [Edifice Wreck](Edifice-Wreck), the end of the line. The driver calls "All out, and don't forget to take up a box of food!" A long nomad migration slowly starts the perilous ascent to the tracks up the "N.P. Icefall." An unfortunate newcomer is seen with two suitcases, a 17-1/2 pound loosely rolled sleeping bag and poles and skis sticking out in all directions from under his arms. He soon learns that a pack is a necessity at Meany and flounders off to the side in knee-deep powder to let the others by.
+Soon we cross the bridge, up the slope to a peculiar little structure below the N.P. tracks full of "gas" drums, and affectionately called [Edifice Wreck](/Area/Edifice-Wreck), the end of the line. The driver calls "All out, and don't forget to take up a box of food!" A long nomad migration slowly starts the perilous ascent to the tracks up the "N.P. Icefall." An unfortunate newcomer is seen with two suitcases, a 17-1/2 pound loosely rolled sleeping bag and poles and skis sticking out in all directions from under his arms. He soon learns that a pack is a necessity at Meany and flounders off to the side in knee-deep powder to let the others by.
 
 #### 1969
 
@@ -106,7 +106,7 @@ Connecting rod broke thru block on Bombardier sno cat on Sunday evening trip out
 
 #### 1977
 
-- this machine, previously listed as "snow tractor" renamed to distinguish it from [Pack Rat](Pack-Rat) snow tractor. <sup>[hw][]</sup>
+- this machine, previously listed as "snow tractor" renamed to distinguish it from [Pack Rat](/Machine/Pack-Rat) snow tractor. <sup>[hw][]</sup>
 - Add over speed governor
 - Construct 14' X 17' concrete slab to facilitate maintenance
 
@@ -134,7 +134,7 @@ The frame was lengthened by about five feet by [Mike Lonergan](Mike-Lonergan). <
 
 #### 2003
 
-Once there is snow on the ground the Bombardier snow tractor is used to haul everything, including skiers, the three miles from the parking lot up to the lodge. The cat was bought in 1960, when NPRR stopped its passenger train service to Meany. Legendary meanyite [Tom Van DeVanter](Tom-Van-DeVanter) has piloted hte cat from 1960 to 2002 (hence the name "Tomcat"). Tomcat is the most important support animal at Meany. The stories Tom and it have generated over the decards are too numerous to explore here, but compiled in a book they would make very colorful reading of man and machine and volunteers in the backcountry. Snow tractors have notoriously high maintenance requirements, and due to age and heavy use Tomcat is almost always in need of care. Original engine: Chrysler 252, flat head. New engine: Chevyrolet 292, six cylinder, installed in 1971. New transmission: Chevyrolet, installed in 1971. New belts: Meany manufactured, rock conveyor-Dacron, 1969. The frame was lengthened by about five feet in 1998 by Mike Lonergan. Total carrying capacity is about 100 people and their gear towed by ropes and in machine. <sup>[75th][]</sup>
+Once there is snow on the ground the Bombardier snow tractor is used to haul everything, including skiers, the three miles from the parking lot up to the lodge. The cat was bought in 1960, when NPRR stopped its passenger train service to Meany. Legendary meanyite [Tom Van DeVanter](/Person/Tom-Van-DeVanter) has piloted hte cat from 1960 to 2002 (hence the name "Tomcat"). Tomcat is the most important support animal at Meany. The stories Tom and it have generated over the decards are too numerous to explore here, but compiled in a book they would make very colorful reading of man and machine and volunteers in the backcountry. Snow tractors have notoriously high maintenance requirements, and due to age and heavy use Tomcat is almost always in need of care. Original engine: Chrysler 252, flat head. New engine: Chevyrolet 292, six cylinder, installed in 1971. New transmission: Chevyrolet, installed in 1971. New belts: Meany manufactured, rock conveyor-Dacron, 1969. The frame was lengthened by about five feet in 1998 by Mike Lonergan. Total carrying capacity is about 100 people and their gear towed by ropes and in machine. <sup>[75th][]</sup>
 
 #### 2013
 
@@ -142,22 +142,22 @@ When it arrives, two long ropes are tossed off the back of the covered tractor w
 
 #### 2020
 
-In January, at a special mid-week work party, the following persons trekked up to Meany Lodge to put new tracks on Tomcat: [Chuck Welter](Chuck-Welter), [Matt Simerson](Matt-Simerson), [Dan Nord](Dan-Nord), [James Kotlik](James-Kotlik), [Norm Vigus](Norm-Vigus), [Michael Froebe](Michael-Froebe), [Rick Ingham](Rick-Ingham)
+In January, at a special mid-week work party, the following persons trekked up to Meany Lodge to put new tracks on Tomcat: [Chuck Welter](/Person/Chuck-Welter), [Matt Simerson](/Person/Matt-Simerson), [Dan Nord](/Person/Dan-Nord), [James Kotlik](/Person/James-Kotlik), [Norm Vigus](/Person/Norm-Vigus), [Michael Froebe](/Person/Michael-Froebe), [Rick Ingham](/Person/Rick-Ingham)
 
-In May, [Alex de Klerk](Alex-de-Klerk) shipped the old differential to Minnesota Outdoors to get rebuilt.
+In May, [Alex de Klerk](/Person/Alex-de-Klerk) shipped the old differential to Minnesota Outdoors to get rebuilt.
 
-[75th]: Anniversary#75th
-[htt]: Skiers-Hit-The-Trail
-[tp]: Tomcat-Petition "Petition to Get a Snow Cat"
-[hr]: History-Reports "Meany History Reports, by Idona Kellogg"
-[hw]: History-Walt "Meany History, by Walt Little"
-[ma60]: Mountaineer-Annual#1960
-[ma62]: Mountaineer-Annual#1962
-[ma63]: Mountaineer-Annual#1963
-[ma65]: Mountaineer-Annual#1965
-[ma66]: Mountaineer-Annual#1966
-[ma67]: Mountaineer-Annual#1967
-[ma68]: Mountaineer-Annual#1968
-[ma78]: Mountaineer-Annual#1978
-[ma80]: Mountaineer-Annual#1980
+[75th]: /Anniversary#75th
+[htt]: /Skiers-Hit-The-Trail
+[tp]: /Tomcat-Petition "Petition to Get a Snow Cat"
+[hr]: /History-Reports "Meany History Reports, by Idona Kellogg"
+[hw]: /History-Walt "Meany History, by Walt Little"
+[ma60]: /Mountaineer-Annual#1960
+[ma62]: /Mountaineer-Annual#1962
+[ma63]: /Mountaineer-Annual#1963
+[ma65]: /Mountaineer-Annual#1965
+[ma66]: /Mountaineer-Annual#1966
+[ma67]: /Mountaineer-Annual#1967
+[ma68]: /Mountaineer-Annual#1968
+[ma78]: /Mountaineer-Annual#1978
+[ma80]: /Mountaineer-Annual#1980
 [oly]: https://www.theolympian.com/outdoors/article25316305.html
