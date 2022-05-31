@@ -209,21 +209,21 @@ The current motor systems on the small and medium tows were installed several ye
 Replaced the Mach rope. Rope is <a href="https://www.samsonrope.com/product/ssr-1200-3">Samson SSR-1200-3</a> 1". It's a Polyolefin - Polyester Blend, 3 strand class I rope with 1.2 Specific Gravity and average strength of 25,400 pounds. 
 
 
-[75th]: Anniversary#75th
+[75th]: /Anniversary#75th
 [dc87]: Dave-Claar#1987
-[hw]: History-Walt "Meany History, by Walt Little"
-[hr]:  History-Reports
-[ma37]: Mountaineer-Annual#1937
-[ma38]: Mountaineer-Annual#1938
-[ma41]: Mountaineer-Annual#1941
-[ma43]: Mountaineer-Annual#1943
-[ma48]: Mountaineer-Annual#1948
-[ma53]: Mountaineer-Annual#1953
-[ma58]: Mountaineer-Annual#1958
-[ma66]: Mountaineer-Annual#1966
-[ma68]: Mountaineer-Annual#1968
-[ma78]: Mountaineer-Annual#1978
-[ma82]: Mountaineer-Annual#1982
-[nw]: Names-Walt "Meany Names by Walter Little, 1984"
+[hw]: /History/Walt "Meany History, by Walt Little"
+[hr]:  /History/Reports
+[ma37]: /Mountaineer-Annual#1937
+[ma38]: /Mountaineer-Annual#1938
+[ma41]: /Mountaineer-Annual#1941
+[ma43]: /Mountaineer-Annual#1943
+[ma48]: /Mountaineer-Annual#1948
+[ma53]: /Mountaineer-Annual#1953
+[ma58]: /Mountaineer-Annual#1958
+[ma66]: /Mountaineer-Annual#1966
+[ma68]: /Mountaineer-Annual#1968
+[ma78]: /Mountaineer-Annual#1978
+[ma82]: /Mountaineer-Annual#1982
+[nw]: /Names-Walt "Meany Names by Walter Little, 1984"
 [tp]: /Machine/Tomcat/Petition
 [yore]: https://www.theolympian.com/outdoors/article25316305.html

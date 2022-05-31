@@ -7,7 +7,7 @@ From [Admin Reports](http://www.meanylodge.org/archives/admin_report.html) on me
 
 Authored by: likely [Idona Kellogg](/Person/Idona-Kellogg)
 
-Matt's Note: The reports thru 1983 are included in the [Mountaineer Annuals](Mountaineer-Annual). Some reports overlap with [History-Walt](/History/Walt).
+Matt's Note: The reports thru 1983 are included in the [Mountaineer Annuals](/Mountaineer-Annual). Some reports overlap with [History-Walt](/History/Walt).
 
 ## 1978
 
@@ -17,7 +17,7 @@ A highlight of the ski season was the [carnival](/Event/Carnival) weekend which 
 
 One extra special Saturday night program was the dedication banquet for [Walt's Woods](/Run/Walter's-Woods) with Master of Ceremonies [Lee Helser](/Person/Lee-Helser) cleverly spicing the evening and a film on Walter shown by [Bob Bentler](/Person/Bob-Bentler). A huge cake shaped like a bald head contained a hidden cavity which was opened to reveal Walter's thoughts in the form of sayings on heart-shaped candies.
 
-A very important change to the Meany vicinity was made in the summer when the US Forest service logged Section 34, which included [Henrietta's Woods](/Run/Henrietta's-Woods) and "No-Name-Woods." These areas are now known as "Henrietta's Meadow and [Walter's Woods](/Run/Walter's-Woods). The gulley between the two has been christened [RBCSA (Retroactive Birth Control Society of America) GULCH](/Area/RBCSA-Gulch) and the cross-country ski trail labeled [Al's Fringe](Al\'s-Fringe).
+A very important change to the Meany vicinity was made in the summer when the US Forest service logged Section 34, which included [Henrietta's Woods](/Run/Henrietta's-Woods) and "No-Name-Woods." These areas are now known as "Henrietta's Meadow and [Walter's Woods](/Run/Walter's-Woods). The gulley between the two has been christened [RBCSA (Retroactive Birth Control Society of America) GULCH](/Area/RBCSA-Gulch) and the cross-country ski trail labeled [Al's Fringe](/Run/Al's-Fringe).
 
 In September, a gigantic Wolf gas kitchen range with two large ovens was somehow hauled into Meany's kitchen.
 
@@ -131,8 +131,8 @@ Dry summer with high fire danger. Fire at the south end of Lake Keechelus burned
 - Power lines were revised to include dead end hardware at all trees. Disconnects were added at the power pole opposite the tow hut. Existing 5 KVA transformer was changed to 25 KVA transformer.
 - Ski hill lights were rewired.
 - A skiers outhouse erected behind tow hut.
-- [Nikki's Trail](/Run/Nikki's-Trail) and [Phil's Shortcut](Phil's-Shortcut) came into existence.
-- Meany [Ski School](Ski-School) enticed a record number of downhill skiers. Classes were filled to capacity. There were two sessions of four weeks each with super 8 movies of class members an important part of the Saturday night chalk-talks.
+- [Nikki's Trail](/Run/Nikki's-Trail) and [Phil's Shortcut](/Phil's-Shortcut) came into existence.
+- Meany [Ski School](/Ski-School) enticed a record number of downhill skiers. Classes were filled to capacity. There were two sessions of four weeks each with super 8 movies of class members an important part of the Saturday night chalk-talks.
 - In February Meany held a Tunnel Party and Great Train Hunt. This was to celebrate 100 years since the first crew arrived at Stampede Pass to begin digging a 2 mile tunnel. Meany is built on the townsite established for the tunnel crews.
 - Hosted a successful Telemark clinic in March.
 - "Zillertal" activities plus an hilarious softball game in the snow and many other games and races highlighted the end-of-ski season party. An authentic Austrian dinner, Konditorei pastry table and spirited folkdance with live music were included.

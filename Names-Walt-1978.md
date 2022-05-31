@@ -116,7 +116,7 @@ This is a very steep slope from Brockman's Knob straight down to the water suppl
 
 Prior to 1978, when the loggers came, this area, just to the south of Phogbound Gulch, was known as Henrietta's Woods. Henrietta was the resident witch of Lower Slobbovia, who got her way by sticking pins into effigies - a real hog!
 
-### [Henrietta Gulch](Henrietta-Gulch)
+### [Henrietta Gulch](/Area/Henrietta-Gulch)
 
 Just to the south of Henrietta's Meadow.
 
@@ -128,11 +128,11 @@ Patch of woods to southeast of Mach Tow. Skiing in here frequently leads to a sp
 
 Semi-cliff in Soffreenia Wood. Over steep character of the short pitches off this area are character testing. Frequent refusals to accept this challenge created the name and fame. As Rolf said, "Yellow Rock before you go off, Brown Rock after you go off."
 
-### [Mach](Mach) Tow
+### [Mach](/Mach) Tow
 
 Meany's biggest rope tow is now in its fourth version since original construction in 1938. It rises 441 vert. and is very fast running. Jokers refer to it as exceeding the speed of sound. Hence "Mach Two Tow" or for short, "Mach Tow."
 
-### [Worm](Worm) Tow
+### [Worm](/Worm) Tow
 
 Short rope tow paralleling "Mach Tow". Rises about 160 vert. and runs very slowly. Called the "Worm Tow" because it "crawls." Built in 1973.
 

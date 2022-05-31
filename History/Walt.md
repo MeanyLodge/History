@@ -174,7 +174,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 - Some ride on tractor, most ride their skis and are towed behind the tractor
 - Snow tractor proved adequate; hauled max load of 82 skiers
 - Feb 16th, purchased snow tractor - $5,448
-- Construct [Edifus Wreck](Edifus-Wreck) below RR track to Serve as gas station for snow tractor
+- Construct [Edifus Wreck](/Area/Edifus-Wreck) below RR track to Serve as gas station for snow tractor
 
 ### 1962
 
@@ -338,7 +338,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 ### 1976
 
 - Hut
-    - Grooming all around Lodge, particular the [Industrial Area](Industrial-Park)
+    - Grooming all around Lodge, particular the [Industrial Area](/Area/Industrial-Park)
     - Eliminate rubbish dump over bank at East end
     - Make holding bins for cans and glass at generator bldg.
 - Access
@@ -470,7 +470,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 - Hut
     - Fire prevention sprinklers installed in kitchen and near chimney
     - Add dead end hardware on trees supporting power line between lodge and tows
-    - Disconnects added at power pole at [Mach](Mach) tow
+    - Disconnects added at power pole at [Mach](/Mach) tow
     - Removed danger trees near hut
     - Trash cleaned from areas near hut to aid in stopping a ground fire
 - Mach Tow
@@ -485,13 +485,13 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 - Revise plumbing
 - Move range from west wall to south wall
 - Moved hot water tanks to under counter
-- [Super Worm](Super-Worm) Tow
-    - New rope tow where [Worm](Worm) tow used to be.
+- [Super Worm](/Super-Worm) Tow
+    - New rope tow where [Worm](/Worm) tow used to be.
     - Parts donated by Crystal Mountain Ski area.
     - Electric motor 20 HP.
     - Vertical 160', length 510'
     - Goes faster, carries more people than worm. Medium speed.
-- [Turtle](Turtle) Tow
+- [Turtle](/Turtle) Tow
     - New rope tow made with parts donated by Crystal Mountain and salvaged from [Worm](Worm) Tow
     - Electric motor 7.5 HP
     - Vertical 30', length 190'
@@ -516,8 +516,8 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 - Hut
     - Construct new 4000 gallon septic and 400' of drain pipe
     - Construct new gasoline storage station near [Cat House](/Building/Cat-House)
-    - See below under [Mach Tow](Mach)
-- Refurbish Telephone cabin
+    - See below under [Mach Tow](/Mach)
+- Refurbish [Telephone cabin](/Building/Telephone-Cabin)
 
 - Access
     - Sno-Park move from Price Creek to Crystal springs rock pit, located about 0.5m West of Exit 62 overpass.

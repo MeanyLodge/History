@@ -277,6 +277,6 @@ Hand Written Addendum to Walt's list, perhaps by Dave Claar
 * Three concrete pads (for Bombardier, Thiokol, and Tools)
 * Dungeon
 * the Tunnel - new ski room
-* [Generator Hut](Generator-Hut)
+* [Generator Hut](/Building/Generator-Hut)
 * Garbage Pit, aka Black Bear Restaurant aka Bear Pit
 * Odie Park - Logged area below BNSF tracks.
