@@ -90,7 +90,7 @@ Access to hut continues to be local NPRR passenger trains on NPRR. Some park at 
 
 - Low snow year, 36" max.
 - [Lane](/Run/Lane) skiing poor because of logs and high stumps
-- Extended [Mach](Mach) tow to new head pole at top of the "Lane". Vertical drop now ~340.
+- Extended [Mach](/Mach) tow to new head pole at top of the "Lane". Vertical drop now ~340.
 - Install safety gate
 
 ### 1944
@@ -102,7 +102,7 @@ Access to hut continues to be local NPRR passenger trains on NPRR. Some park at 
 ### 1945
 
 - Continue program to remove logs & stumps from [Lane](/Run/Lane)
-- Install headpole on [Mach](Mach) at the top of lane.
+- Install headpole on [Mach](/Mach) at the top of lane.
 - Vertical now ~380
 - Install safety gate
 
@@ -174,11 +174,11 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 - Some ride on tractor, most ride their skis and are towed behind the tractor
 - Snow tractor proved adequate; hauled max load of 82 skiers
 - Feb 16th, purchased snow tractor - $5,448
-- Construct [Edifus Wreck](/Area/Edifus-Wreck) below RR track to Serve as gas station for snow tractor
+- Construct [Edifus Wreck](/Building/Edifus-Wreck) below RR track to Serve as gas station for snow tractor
 
 ### 1962
 
-- Lower [Lane](/Run/Lane) bulldozed to improve approach to [Mach](Mach) tow
+- Lower [Lane](/Run/Lane) bulldozed to improve approach to [Mach](/Mach) tow
 - Puget Power constructed power line up [North Slobbovia](/Run/North-Slobbovia), under impression  they were on BPA easement, actually they trespassed on Meany property
 - In return for easement, Puget removed pole line, buried 7,000v line, bulldozed and sawed stumps
 - Flood and mud slide wipe out USFS bridge over Stampede Pass.
@@ -190,7 +190,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 - 2400v 60hz, single phase, to bring power to Meany
 - Motor gen now on standby.
 - All Martin RR buildings now removed (Martin made automatic)
-- Improved ski return trail from [Lower Slobbovia](/Run/Lower-Slobbovia) to [Mach](Mach)
+- Improved ski return trail from [Lower Slobbovia](/Run/Lower-Slobbovia) to [Mach](/Mach)
 
 ### 1964
 
@@ -202,7 +202,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 
 ### 1965
 
-- [Mach](Mach) Tow - Installed new higher head pole
+- [Mach](/Mach) Tow - Installed new higher head pole
 - Changed driver hub to truck type tapered nuts
 - Vertical on tow still 430'
 
@@ -220,7 +220,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 
 - Hut - Added East end fire escape and fire warning system.
 - Access - state hiway dept. plowed parking space on road from exit 62 overpass toward Lake Kachees
-- [Mach](Mach) - Replaced engine with 1964 Chev truck, 6 cyl, 230 ci
+- [Mach](/Mach) - Replaced engine with 1964 Chev truck, 6 cyl, 230 ci
 - Also replaced transmission with 4 speed B1180 13GM-T-3761930 with gear ratios 7.06, 3.58, 1.71, 0.00, Reverse 6.78
 
 ### 1968
@@ -302,13 +302,13 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 ### 1974
 
 - Hut
-    - Rebuilt water supply dam in [Tombstone Creek](Tombstone-Creek)
+    - Rebuilt water supply dam in [Tombstone Creek](/Tombstone-Creek)
     - Replaced old 1¼" black steel pipe with 2" plastic
     - Water supply line is now 500' of 2" galvanized steel and 1,132' of 2" plastic
     - Moved propane tanks to generator hut
-- [Mach](Mach)
+- [Mach](/Mach)
     - Erect quarter pole halfway between tow hut and midway with halyards and hooks to raise tow ropes high above snow during unused periods
-- [Worm](Worm)
+- [Worm](/Worm)
     - Repowered with 7.5 HP electric motor and converter to enable 3 phase motor to run on 1 phase supply
 - Snow Tractor
     - Complete overhaul of tracks and bearings
@@ -397,7 +397,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
     - Constructed new shop building, 12' x 12', 1st floor, 2nd floor and attic. Move all tools and hardware from lodge basement
 - Mach Tow
     - Install new tow rope. Last one installed March 1971, ~ 9½ years use
-    - old rope still usable on [Worm](Worm)
+    - old rope still usable on [Worm](/Worm)
 - Tom Cat
     - Replaced rubber track belts, some grousers
     - Old belts installed in 1969, 11 years
@@ -492,7 +492,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
     - Vertical 160', length 510'
     - Goes faster, carries more people than worm. Medium speed.
 - [Turtle](/Turtle) Tow
-    - New rope tow made with parts donated by Crystal Mountain and salvaged from [Worm](Worm) Tow
+    - New rope tow made with parts donated by Crystal Mountain and salvaged from [Worm](/Worm) Tow
     - Electric motor 7.5 HP
     - Vertical 30', length 190'
     - speed: very slow

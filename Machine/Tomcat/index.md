@@ -69,11 +69,11 @@ engine was completely rebuilt and is expected to last several years<sup>[ma67][]
 
 #### 1968
 
-Suddenly an apparition appears around the corner. An immense flat-roofed version of Snoopy's "Sopwith Camel" (doghouse version), gaily painted with alpine flowers and fantastic creatures moves into view. Could that be Snoopy himself in the cockpit in his World War I flying helmet chasing the Red Baron? On closer scrutiny it turns out to be our driver, [Tom Van DeVanter](Person/Tom-Van-DeVanter). He roars on by as two long ropes are unhooked from the tractor and thrown out onto the road behind. Beginning skiers climb aboard the tractor while the old pros shoulder their packs and take a loop in one of the two ropes. 9:30AM has arrived, and the driver is champing at his microphone to get going. Tail-end Charley radios all clear to start, and with a roar we take off down the road, scattering teenagers into the snow banks like scared chickens. <sup>[ma68][]</sup>
+Suddenly an apparition appears around the corner. An immense flat-roofed version of Snoopy's "Sopwith Camel" (doghouse version), gaily painted with alpine flowers and fantastic creatures moves into view. Could that be Snoopy himself in the cockpit in his World War I flying helmet chasing the Red Baron? On closer scrutiny it turns out to be our driver, [Tom Van DeVanter](/Person/Tom-Van-DeVanter). He roars on by as two long ropes are unhooked from the tractor and thrown out onto the road behind. Beginning skiers climb aboard the tractor while the old pros shoulder their packs and take a loop in one of the two ropes. 9:30AM has arrived, and the driver is champing at his microphone to get going. Tail-end Charley radios all clear to start, and with a roar we take off down the road, scattering teenagers into the snow banks like scared chickens. <sup>[ma68][]</sup>
 
 Somebody halfway up the rope has a loose safety binding, loses his ski, and goes down! This should really make a walloping pig-pile, but no, the tractor has stopped-oh, the wonders of CB Radio. Now we see why Snoopy wears that WWI flyers helmet-it's got earphones. It's every man for himself crossing the Milwaukee tracks while the tractor waits on the other side; then off again, a long double line of brightly colored parkas and packs from which come random puffs of condensed breath. Now and then a snowball is scooped up to land upon an unsuspecting victim.
 
-Soon we cross the bridge, up the slope to a peculiar little structure below the N.P. tracks full of "gas" drums, and affectionately called [Edifice Wreck](/Area/Edifice-Wreck), the end of the line. The driver calls "All out, and don't forget to take up a box of food!" A long nomad migration slowly starts the perilous ascent to the tracks up the "N.P. Icefall." An unfortunate newcomer is seen with two suitcases, a 17-1/2 pound loosely rolled sleeping bag and poles and skis sticking out in all directions from under his arms. He soon learns that a pack is a necessity at Meany and flounders off to the side in knee-deep powder to let the others by.
+Soon we cross the bridge, up the slope to a peculiar little structure below the N.P. tracks full of "gas" drums, and affectionately called [Edifice Wreck](/Building/Edifice-Wreck), the end of the line. The driver calls "All out, and don't forget to take up a box of food!" A long nomad migration slowly starts the perilous ascent to the tracks up the "N.P. Icefall." An unfortunate newcomer is seen with two suitcases, a 17-1/2 pound loosely rolled sleeping bag and poles and skis sticking out in all directions from under his arms. He soon learns that a pack is a necessity at Meany and flounders off to the side in knee-deep powder to let the others by.
 
 #### 1969
 
@@ -149,8 +149,8 @@ In May, [Alex de Klerk](/Person/Alex-de-Klerk) shipped the old differential to M
 [75th]: /Event/Anniversary#75th
 [htt]: /Skiers-Hit-The-Trail
 [tp]: /Machine/Tomcat/Petition "Petition to Get a Snow Cat"
-[hr]: /History-Reports "Meany History Reports, by Idona Kellogg"
-[hw]: /History-Walt "Meany History, by Walt Little"
+[hr]: /History/Reports "Meany History Reports, by Idona Kellogg"
+[hw]: /History/Walt "Meany History, by Walt Little"
 [ma60]: /Mountaineer-Annual#1960
 [ma62]: /Mountaineer-Annual#1962
 [ma63]: /Mountaineer-Annual#1963

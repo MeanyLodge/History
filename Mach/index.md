@@ -4,7 +4,7 @@ category: RopeTow
 categories: RopeTow
 ---
 # Mach
-<img src="/img/2020-Mach-Base.jpeg" style="width: 40%;" align="right">
+<img src="2020-Mach-Base.jpeg" style="width: 40%;" align="right">
 
 ### Names
 - Mach
@@ -24,8 +24,8 @@ Along the south edge of the [Lane](/Run/Lane).
 Mach used to have a 4-speed transmission. Typically only the first three gears were ever used, as 3rd gear was 19-21mph. Occasionally it was shifted into 4th which ran at 30mph. When propelled at such speeds it seemed as if one was approaching the speed of sound–hence the name "Mach Tow." <sup>[nw][] [75th][]</sup>
 
 ### Specifications
-<img src="/img/2020-Mach-Head.jpeg" style="width: 40%;" align="right">
-- Vertical: 441' ([base 2911'](img/2020-Mach-base-GPS.png), [top: 3330'](img/2020-Mach-top-GPS.png))
+<img src="2020-Mach-Head.jpeg" style="width: 40%;" align="right">
+- Vertical: 441' ([base 2911'](2020-Mach-base-GPS.png), [top: 3330'](2020-Mach-top-GPS.png))
 - Horizontal: 1,000'
 - Speed: 16mph (limited by state regulations)
 - Constructed: 1938
@@ -162,7 +162,7 @@ Overhaul engine, new camshaft, ground valves. New counter weight located in [Tow
 #### 1980
 
 - Install new rope. Last one installed March 1971, ~ 9½ years use. <sup>[hw][]</sup>
-- old rope still usable on [Worm](Worm)
+- old rope still usable on [Worm](/Worm)
 
 #### 1981
 
@@ -202,7 +202,7 @@ The current motor systems on the small and medium tows were installed several ye
 
 #### 2020
 
-<img src="/img/2020-Mach-Cert.jpeg" style="width: 50%;">
+<img src="2020-Mach-Cert.jpeg" style="width: 50%;">
 
 #### 2021
 

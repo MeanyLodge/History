@@ -11,7 +11,7 @@ Coming in 2028!
 #### Ideas for Meany 100th Celebration
 
 - Railroad
-    - Railroad train ride to Meany. See [Railroad-Buffs](/Railroad-Buffs)
+    - Railroad train ride to Meany. See [Railroad-Buffs](/Event/Railroad-Buffs)
     - Hike of old switchback route
 - Where to fit hundreds of people?
 - Write "100 Years of Meany"
@@ -201,7 +201,7 @@ Because he didn't want to win his own darn cup.
 
 #### [Innovative Programs are found at Meany Lodge](/Innovative-Programs-are-found-at-Meany-Lodge)
 
-#### [Milestones from 75 years at Meany Lodge](/Milestones-from-75-years-at-Meany-Lodge)
+#### [Milestones from 75 years at Meany Lodge](/History/Milestones-from-75-years-at-Meany-Lodge)
 
 #### Two Boards
 

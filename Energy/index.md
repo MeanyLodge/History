@@ -149,7 +149,7 @@ Constructed the [Propane Hut](/Building/Propane-Hut) to enclose a 500-gallon pro
 
 #### 2013
 
-Switched [Mach](Mach) from gasoline engine to 50 HP electric motor.
+Switched [Mach](/Mach) from gasoline engine to 50 HP electric motor.
 
 #### 2017
 
@@ -225,5 +225,5 @@ Tow Hut - gasoline - 8 in = 61 gallons
 [ma82]: /Mountaineer-Annual#1982
 [ma91]: /Mountaineer-Annual#1991
 [tp]:   /Machine/Tomcat/Petition
-[rn13]: /Mach-Tow-Electric-Motor
-[rn19]: /Electrical-Power-System
+[rn13]: Mach-Tow-Electric-Motor
+[rn19]: /Person/Ray-Nelson/Electrical-Power-System

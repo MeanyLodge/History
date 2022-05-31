@@ -497,7 +497,7 @@ p. 56
 
 The downhill races started at the edge of the timber near the top of [Meany Hill](Meany-Hill), each man choosing his own course to the finish at the bottom of the lane. Always some tried to "run it straight" and some spectacular eggbeaters resulted but strangely enough there were never any serious injuries. As a deterrent to such folly the overhead beam in [The Hut](/Lodge) had an array of broken skis mounted on it and over them the warning: "THEY TOOK IT STRAIGHT."
 
-A mysterious schism among the skiers developed with the advent of the ski hut. [Snoqualmie Lodge](Snoqualmie-Lodge) was a place of gaiety and entertainment as well as skiing, with its huge fireplace, phonograph and space enough for dancing. Meany Hut, however, was conceived and approved as strictly a shelter for skiers, with no fireplace or extra space. There was plenty of gaiety and fun but of a different kind and apparently this difference caused some to prefer one place to the other. Thus, while there were those who alternated, the skiers in general were identified as either "Lodge hounds" or "Meanyites."
+A mysterious schism among the skiers developed with the advent of the ski hut. [Snoqualmie Lodge](/Building/Snoqualmie-Lodge) was a place of gaiety and entertainment as well as skiing, with its huge fireplace, phonograph and space enough for dancing. Meany Hut, however, was conceived and approved as strictly a shelter for skiers, with no fireplace or extra space. There was plenty of gaiety and fun but of a different kind and apparently this difference caused some to prefer one place to the other. Thus, while there were those who alternated, the skiers in general were identified as either "Lodge hounds" or "Meanyites."
 
 Almost imperceptibly through these years changes were developing in the pattern of Meany activities. Slalom proficiency, at first sought chiefly as an aid to touring, began to emerge as an end unto itself. Rope tows were appearing in more and more areas, and as they increased, touring declined, finally bringing a major change in the Meany way of life. Again the members labored mightily and by the winter of 1938-39 a rope tow was completed, with a 15x20-foot log cabin to house its tractor power plant.
 
@@ -581,7 +581,7 @@ Ski Races, 1929-1933
 
 p. 22
 
-The trip between the Lodge and Martin became very popular about the time the Patrol Races started. The initial scouting trip was made in February, 1928, coincident with the first special ski outing at Stampede. A sizable group started from the [Snoqualmie Lodge](Snoqualmie-Lodge), traveling by contour map, compass, and faith, expecting to join the party at Stampede Saturday night...
+The trip between the Lodge and Martin became very popular about the time the Patrol Races started. The initial scouting trip was made in February, 1928, coincident with the first special ski outing at Stampede. A sizable group started from the [Snoqualmie Lodge](/Building/Snoqualmie-Lodge), traveling by contour map, compass, and faith, expecting to join the party at Stampede Saturday night...
 
 p. 106
 
@@ -670,7 +670,7 @@ Finally the lodge. The committee turns on the lights and water, the furnace is s
 
 * * *
 
-The lodge dates back to 1928, when Mountaineers built it on land purchased and donated by Professor Meany, who among others recognized the necessity of relieving the population explosion at the old [Snoqualmie Lodge](Snoqualmie-Lodge). The new site was a natural, the scouters said, open terrain, good snow at Stampede Pass.
+The lodge dates back to 1928, when Mountaineers built it on land purchased and donated by Professor Meany, who among others recognized the necessity of relieving the population explosion at the old [Snoqualmie Lodge](/Building/Snoqualmie-Lodge). The new site was a natural, the scouters said, open terrain, good snow at Stampede Pass.
 
 That same year it was ready for winter use--easy access by train made it popular. These were the years-1929-1941-that various races began: the slalom and downhill for men, and the famous ski patrol races between Snoqualmie and Meany hut. Three-man teams, carrying the equivalent of present-day 10 Essentials, plus more, started off at 10-minute intervals over Olallie Meadows, Tinkham Pass, around Mirror Lake, then down Yakima Pass, with a steep climb up to the Cedar River watershed. Then down, over, up, around obstacles till finally, [Meany Hill](Meany-Hill) in view, and the steep lane to the ski hut-average time 5-6 hours.
 
@@ -767,7 +767,7 @@ The work parties in September, October and November were well attended and produ
 
 p. 60
 
-One of the memories of the Old [Snoqualmie Lodge](Snoqualmie-Lodge) involves the car trip to get there. In 1935 and 1936 going to Snoqualmie Pass wasn't the one hour trip it is today. From Seattle one went around the north or south end of Lake Washington or maybe took the ferry from Madison Park to Kirkland. We lived on Queen Ann Hill and used the northern route via Green Lake, Lake City, Lake Forest Park, Juanita, Kirkland, Redmond, Snoqualmie Falls and finally into North Bend. The coffee stop and meeting place was the North Bend Hotel. When they saw us coming the free crackers and catsup disappeared from the tables. Going on from North Bend was an adventure into the wilderness. The highway went up the hill by the water fall of the South Fork of the Snoqualmie River, past Camp Mason below McClellan's Butte, the Hi Valley gas station and the Bandera emergency airport and on past Denny Creek and Venables Store. It was a real occasion to see a train emerge from or enter the tunnel at Rockdale. Finally, we reached the parking lot across from Lodge Creek. The car was equipped with a locking gas cap and the distributor rotor was removed to help insure that it would be there to get us home again. It was at least a four-hour trip in those days.
+One of the memories of the Old [Snoqualmie Lodge](/Building/Snoqualmie-Lodge) involves the car trip to get there. In 1935 and 1936 going to Snoqualmie Pass wasn't the one hour trip it is today. From Seattle one went around the north or south end of Lake Washington or maybe took the ferry from Madison Park to Kirkland. We lived on Queen Ann Hill and used the northern route via Green Lake, Lake City, Lake Forest Park, Juanita, Kirkland, Redmond, Snoqualmie Falls and finally into North Bend. The coffee stop and meeting place was the North Bend Hotel. When they saw us coming the free crackers and catsup disappeared from the tables. Going on from North Bend was an adventure into the wilderness. The highway went up the hill by the water fall of the South Fork of the Snoqualmie River, past Camp Mason below McClellan's Butte, the Hi Valley gas station and the Bandera emergency airport and on past Denny Creek and Venables Store. It was a real occasion to see a train emerge from or enter the tunnel at Rockdale. Finally, we reached the parking lot across from Lodge Creek. The car was equipped with a locking gas cap and the distributor rotor was removed to help insure that it would be there to get us home again. It was at least a four-hour trip in those days.
 
 The wintertime trip was often longer. Snow would pile up on the two-lane roadway faster than it could be plowed off. The old lodge was probably one of the first ski lodges in the Snoqualmie Pass area. Skiing wasn't the downhill sport it is today. The only way back up was to sidestep or herringbone. Parallel skiing then was cross country. Every year the Snoqualmie skiers would compete with the Meany skiers on a cross-country race between the two Lodges. When Lodge Lake froze over before the snow fell we had ice skating on a natural rink.
 
@@ -958,7 +958,7 @@ Meany Ski Lodge continues to operate their downhill rope tows, and in fact, has 
 
 Meany still runs a very busy downhill ski school through January and February and has added a cross country session as well. In addition, they offer clinics for telemarking as often as possible during the season.
 
-Another innovation at Meany has been the introduction of MOFA classes. The entire MOFA course, practical exam and CPR are offered during two very full weekends at the lodge. Students have given the class rave reviews and seem to appreciate the chance to have their practicals in such a remote and realistic location.
+Another innovation at Meany has been the introduction of [MOFA](/Event/MOFA) classes. The entire MOFA course, practical exam and CPR are offered during two very full weekends at the lodge. Students have given the class rave reviews and seem to appreciate the chance to have their practicals in such a remote and realistic location.
 
 ## [1991](https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1991)
 
@@ -970,7 +970,7 @@ Meany Ski Hut, built on land donated by President Meany at Martin, was dedicated
 
 p. 125
 
-The most isolated of the properties, Meany Lodge increased its service to The Mountaineers by hosting Murder Mystery Weekends (including one for our singles which filled up all 65 of its slots within two hours), [MOFA](MOFA) weekend training sessions, [Mountain Bike Workshops](Mountain-Bike-Workshops), [Rail Road Buff](Railroad-Buffs) gatherings, and the ever-popular [Wild Mushroom Hunt](/Event/Mushroom-Weekend). Of course, the [Ski School](Ski-School) and our telemark weekends are as popular as ever.
+The most isolated of the properties, Meany Lodge increased its service to The Mountaineers by hosting Murder Mystery Weekends (including one for our singles which filled up all 65 of its slots within two hours), [MOFA](/Event/MOFA) weekend training sessions, [Mountain Bike Workshops](/Event/Mountain-Bike-Workshops), [Rail Road Buff](/Event/Railroad-Buffs) gatherings, and the ever-popular [Wild Mushroom Hunt](/Event/Mushroom-Weekend). Of course, the [Ski School](/Ski-School) and our telemark weekends are as popular as ever.
 
 The major project completed was the excavation of about a fourth of the basement and the construction of a new classroom in its place.
 

@@ -130,11 +130,11 @@ Patch of woods to southeast of Mach Tow. Skiing in here frequently leads to a sp
 
 Semi-cliff in Soffreenia Wood. Steep short pitches off this are character testing. Frequent refusals to accept the challenge created the name and fame. As Rolf said, "Yellow Rock before you go off, Brown Rock after you go off."
 
-### [Mach](Mach) Tow
+### [Mach](/Mach) Tow
 
 Meany's biggest rope tow is now in its fourth version since original construction in 1938. It rises 441 vertical feet and is very fast running. Jokers refer to it as exceeding the speed of sound. Hence "Mach Two Tow" or for short, "Mach Tow."
 
-### [Worm](Worm) Tow
+### [Worm](/Worm) Tow
 
 Short rope tow paralleling "Mach Tow". Rises about 160 vertical feet and runs very slowly. Called the "Worm Tow" because it crawls. Build in 1973.
 
