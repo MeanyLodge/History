@@ -194,23 +194,23 @@ In [Stampede Creek](Stampede-Creek) just below [Harvey's Slot](/Run/Harvey's-Slo
 
 Steep gully just below Liberation Way. Named in honor of Richard Svensson, who, on a day with three feet of new snow, fell off the Psychopath down the ravine and took three hours emerging.
 
-### [Beast](Beast)
+### [Beast](/Machine/Beast)
 
 This was the old Fordsen tractor that powered the Mach Tow when first built in 1938. In the summer the Beast would be released from his foundation to haul supplies. Finally replaced by a Chevy engine, the Beast continued to haul supplies until one winter someone failed to drain the block which froze and burst, and the beast was pushed to an unceremonious burial in the old can dump. It was finally taken away by a junk dealer from Roslyn, who prosed to make a statue out of it.
 
-### [Ox](Ox)
+### [Ox](/Machine/Ox)
 
 A four-wheel drive Dodge truck used for summer work. Unlike most oxen, it hibernates all winter under the Mach [Tow Hut](Tow-Hut).
 
-### [Tom Cat](Tomcat)
+### [Tom Cat](/Machine/Tomcat)
 
 The Bombardier Snow Tractor used to haul everything three miles from I-90 to Meany. Bought in 1960, when the NPRR discontinued passenger train service. [Tom Van DeVanter](/Person/Tom-Van-DeVanter) has driven it since the beginning; hence the name "Tom Cat."
 
-### [Pack Rat](Pack-Rat)
+### [Pack Rat](/Machine/Pack-Rat)
 
 A thiokol snow tractor obtained - a really good scrounge job - in 1977 for the purpose of hill packing. It's the only known packrat that is equipped with a bulldozer blade.
 
-### [Mouse](Mouse)
+### [Mouse](/Machine/Mouse)
 
 A snowmobile owned by Al Alleman and used for errands, thrills, and chills.
 
@@ -224,7 +224,7 @@ Forest Service road 420, on which the Tom Cat tracks its way back and forth, cro
 
 ### [Mosquito Creek](Mosquito-Creek)
 
-About one-fourth mile west of the point where the [Tom Cat](Tomcat) road crosses the Milwaukee RR. Two heavy concrete culvert pipes take the creek under the road. Location of frequent floodings. Sometimes known as "two pipe" creek.
+About one-fourth mile west of the point where the [Tom Cat](/Machine/Tomcat) road crosses the Milwaukee RR. Two heavy concrete culvert pipes take the creek under the road. Location of frequent floodings. Sometimes known as "two pipe" creek.
 
 ### [Edifice Wreck](Edifice-Wreck)
 

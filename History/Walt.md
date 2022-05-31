@@ -195,7 +195,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 ### 1964
 
 - Mach Tow: new rope installed - $400
-- Snow Tractor ([Tomcat](Tomcat)) - New tracks - $1400.
+- Snow Tractor ([Tomcat](/Machine/Tomcat)) - New tracks - $1400.
 - New type grousers
 - endless belts composite of steel, cotton fabric and rubber.
 - Original tracks used 1961-64, 4 seasons. In 1964 much belt breakage and patching.
@@ -250,7 +250,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 - Proved defective.
 - Plymouth replaces in March 1970, no charge (Plymouth II)
 - New idler in main drive, now 4 groves in driver an 5 in idler.
-- [Ox](Ox) - New and larger bed
+- [Ox](/Machine/Ox) - New and larger bed
 
 ### 1971
 
@@ -264,7 +264,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
     - Plymouth II rope proved defective.
     - Installed new rope. American mfg Co. SS-R-200 poly dacron
     - Negotiations with Plymouth for settlement for defective rope failed, and Mountaineers filed lawsuit, settled out-of-court for $320
-- Snow Tractor ([Tom Cat](Tomcat))
+- Snow Tractor ([Tom Cat](/Machine/Tomcat))
     - taken to Seattle for rebuild
     - Install rebuilt Chev 6, 292ci
     - convert to 12v system
@@ -297,7 +297,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 - Worm: new rope tow to a point about halfway up lane. Vertical about 160', length about 450'
 - very slow for beginners
 - Electric motor + spare parts cost ~ $300
-- Snow tractor: overhauled [Tom Cat](Tomcat)'s running gear, tires and bearings.
+- Snow tractor: overhauled [Tom Cat](/Machine/Tomcat)'s running gear, tires and bearings.
 
 ### 1974
 
@@ -361,7 +361,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
     - Add shut-offs for cooling fluid overheat and "low engine oil pressure"
     - Add new outside stop switch at bottom loading area
 - Tomcat
-    - this machine, previously listed as "snow tractor" renamed to distinguish it from [Pack Rat](Pack-Rat) snow tractor.
+    - this machine, previously listed as "snow tractor" renamed to distinguish it from [Pack Rat](/Machine/Pack-Rat) snow tractor.
     - Add over speed governor
     - Construct 14' X 17' concrete slab to facilitate maintenance
 - Pack Rat
@@ -376,7 +376,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
     - Improved plumbing and shut-off valves where supply line enters basement under hatch in men's toilet
 - Access
     - Sno-park continues at SE corner of exit 62 overpass
-- [Tom Cat](Tomcat)
+- [Tom Cat](/Machine/Tomcat)
     - Jan 23-24 Bolt on forward left-hand bogie set failed. Replaced overnight with new and stronger bolt
 
 ### 1979
@@ -417,25 +417,25 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 ### 1982
 
 - Hut: Convert ex-shop space in basement to First Aid and drying room
-- New concrete slab 16' X 20' to facilitate maintenance on [Pack-Rat](Pack-Rat)
+- New concrete slab 16' X 20' to facilitate maintenance on [Pack-Rat](/Machine/Pack-Rat)
 - Access: Sno-Park ticket price now $7.50 per season
 - Mach
     - Realigned 4" X 4" steel track on front of tow hut
     - Added 7' X 8' lean-to on North corner of tow hut for gas pump station and line hardware storage
-    - Construct wheelways in basement of [Tow Hut](Tow-Hut) for winter storage of [Ox](Ox)
-- [Ox](Ox): Repaired brakes
-- [Tom Cat](Tomcat)
+    - Construct wheelways in basement of [Tow Hut](Tow-Hut) for winter storage of [Ox](/Machine/Ox)
+- [Ox](/Machine/Ox): Repaired brakes
+- [Tom Cat](/Machine/Tomcat)
     - Overhaul engine
     - Replace track bolts
     - Repair running gear, particularly front bogies
-- [Pack Rat](Pack-Rat): Remove and service differential and rear axles
+- [Pack Rat](/Machine/Pack-Rat): Remove and service differential and rear axles
 
 ### 1983
 
 - Graded area on north side of hut to get more flat area
 - New picnic area
 - Mach: revise interior of [Tow Hut](Tow-Hut)
-- [Pack Rat](Pack-Rat): install new radiator
+- [Pack Rat](/Machine/Pack-Rat): install new radiator
 
 ### 1984
 

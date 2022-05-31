@@ -780,7 +780,7 @@ The season at Meany Ski Hut started with a washout. The floods before Christmas 
 
 Despite the relatively light snow pack, the skiing was excellent, with only one weekend marred by rain. Every weekend saw capacity crowds, and we welcomed many new skiers to the lodge.
 
-In addition to the excellent skiing and "to the door" service, several other factors helped to bring the crowds and hold them. The new hill packer, christened [Pack Rat](Pack-Rat), turned [Kirkland Park](/Run/Kirkland-Park) into a very enjoyable run. The very popular lessons taught by [Patti Polinsky](/Person/Patti-Polinsky) and [Dave Claar](/Person/Dave-Claar) improved the techniques of beginners and advanced skiers alike. Lessons and "Family Weekend" brought many future juniors. Cross country skiing and snowshoeing were also much in evidence.
+In addition to the excellent skiing and "to the door" service, several other factors helped to bring the crowds and hold them. The new hill packer, christened [Pack Rat](/Machine/Pack-Rat), turned [Kirkland Park](/Run/Kirkland-Park) into a very enjoyable run. The very popular lessons taught by [Patti Polinsky](/Person/Patti-Polinsky) and [Dave Claar](/Person/Dave-Claar) improved the techniques of beginners and advanced skiers alike. Lessons and "Family Weekend" brought many future juniors. Cross country skiing and snowshoeing were also much in evidence.
 
 A highlight of the season was the Carnival weekend, which featured a "European Feast" complete with bratwurst, German hot potato salad, European pastries and homemade pretzels, in addition to the skiing events-all masterminded by Patti Polinsky. That was the weekend which saw record crowds.
 

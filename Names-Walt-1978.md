@@ -188,19 +188,19 @@ In Stampede Creek just below Harvey's Slot. It's a pool formed behind an old RR 
 
 Steep gully just below Liberation Way. Named in honor of Richard Svensson, who, on a day with three feet of new snow, fell off the Psychopath down the ravine and took three hours emerging.
 
-### The [Beast](Beast)
+### The [Beast](/Machine/Beast)
 
 This was the old Fordsen tractor that powered the Mach Tow when first built in 1938. In the summer the Beast would be released from his foundation to haul supplies. Finally replaced by a Chevy engine, the Beast continued to haul supplies until one winter someone failed to drain the block which froze and burst, and the Beast was pushed to an unceremonious burial in the old car dump. It was finally taken away by a junk dealer from Roslyn, who proposed to make a statue out of it.
 
-### The [Ox](Ox)
+### The [Ox](/Machine/Ox)
 
 A four-wheel drive Dodge truck used for summer work. Unlike most oxen, it hibernates all winter under the Mach Tow Hut.
 
-### [Tom Cat](Tomcat)
+### [Tom Cat](/Machine/Tomcat)
 
 The Bombadier Snow Tractor used to haul everything three miles from I-90 to Meany. Bought in 1960, when the NPRR discontinued passenger train service. Ton Van Devanter has driven it since the beginning; hence the name "Tom Cat."
 
-### [Pack Rat](Pack-Rat)
+### [Pack Rat](/Machine/Pack-Rat)
 
 A thiokol snow tractor obtained - a really good scrounge job - in 1977 for the purpose of hill packing. It's the only known pack rat equipped with a bulldozer blade.
 

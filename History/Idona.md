@@ -28,7 +28,7 @@ Note: sections extracted from [Walt's History](/History/Walt) removed.
 
 #### Jan 20th-23rd 1976
 
-- [Tom Cat](Tomcat) Engine failure
+- [Tom Cat](/Machine/Tomcat) Engine failure
 - Sunday outbound trip
 - Broke a connecting-rod in engine at Yakima River
 - Sent out Skiers to get any extra oil they had in their cars

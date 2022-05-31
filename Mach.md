@@ -47,7 +47,7 @@ A ski lift is to be realized before the coming season opens. <sup>[ma37][]</sup>
 
 #### 1938
 
-Summer 1938 was work on the ski lift and the 15x20' log cabin necessary to house the tractor. The [Lane](/Run/Lane) was widened by additional clearing and the logs used to construct the tow hut. The lift is 835' feet long and rises 310 feet in less than two minutes. It reaches 65% of the way up the Lane and is powered by the [Beast](Beast).
+Summer 1938 was work on the ski lift and the 15x20' log cabin necessary to house the tractor. The [Lane](/Run/Lane) was widened by additional clearing and the logs used to construct the tow hut. The lift is 835' feet long and rises 310 feet in less than two minutes. It reaches 65% of the way up the Lane and is powered by the [Beast](/Machine/Beast).
 
 The Beast was propped up clear of the floor and had maple driving rims bolted on to the large rear wheels. <sup>[ma38][ma38], [ma78][]</sup>
 
@@ -174,7 +174,7 @@ Some of the poles for were replaced. <sup>[ma82][]</sup>
 
 - Realigned 4" X 4" steel track on front of tow hut <sup>[hw][]</sup>
 - Added 7' X 8' lean-to on North corner of tow hut for gas station and line hardware
-- Construct wheelways in basement of [Tow Hut](Tow-Hut) for winter storage of [Ox](Ox)
+- Construct wheelways in basement of [Tow Hut](Tow-Hut) for winter storage of [Ox](/Machine/Ox)
 
 ####
 
