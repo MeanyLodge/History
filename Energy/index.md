@@ -134,12 +134,12 @@ Rewire all basement electric circuits all of which were overloaded. Installed ne
 #### 1986
 
 - Add dead end hardware on trees supporting power line between lodge and tows <sup>[hw][]</sup>
-- Disconnects added at power pole at [Mach](/Run/Mach) tow
+- Disconnects added at power pole at [Mach](/Mach) tow
 - Power lines were revised to include dead end hardware at all trees. <sup>[hr][]</sup>
 
 #### 1989
 
-Because of new code restrictions against buried fuel tanks, dug up 2 buried 500 gallon gasoline tanks used by "[Mach](/Run/Mach)". Cleaned, painted and reinstalled in two locations, one near [Cat House](/Building/Cat-House), one near [Tow Hut](/Building/Tow-Hut). Each station a 10' x 10' concrete block building, complete with wiring, plumbing and pump.<sup>[hw][]</sup>
+Because of new code restrictions against buried fuel tanks, dug up 2 buried 500 gallon gasoline tanks used by "[Mach](/Mach)". Cleaned, painted and reinstalled in two locations, one near [Cat House](/Building/Cat-House), one near [Tow Hut](/Building/Tow-Hut). Each station a 10' x 10' concrete block building, complete with wiring, plumbing and pump.<sup>[hw][]</sup>
 
 Two aesthetically attractive concrete block houses were built to encase gas tanks above ground as the risk of rupture of underground tanks was considered too great. <sup>[hr][]</sup>
 

@@ -90,7 +90,7 @@ Begin work to relocate and rebuild. <sup>[hw][]</sup>
 
 Complete relocation, begun in 1955. Head pole moved south about 200' and 30' higher. Tow hut moved north about 250', and about 20' lower. This was done to gain more altitude, and to get upper unloading closer to [Lower Slobbovia](/Run/Lower-Slobbovia). Rise 440'. Length 1,000'. <sup>[ma78][]</sup>
 
-<img src="/img/1956-Walter-Little.jpeg" alt="Walter Little Memorial Tow" style="width: 40%;">
+<img src="/Person/Walter-Little/1956-Walter-Little.jpeg" alt="Walter Little Memorial Tow" style="width: 40%;">
 
 #### 1957
 
@@ -209,8 +209,8 @@ The current motor systems on the small and medium tows were installed several ye
 Replaced the Mach rope. Rope is <a href="https://www.samsonrope.com/product/ssr-1200-3">Samson SSR-1200-3</a> 1". It's a Polyolefin - Polyester Blend, 3 strand class I rope with 1.2 Specific Gravity and average strength of 25,400 pounds. 
 
 
-[75th]: /Anniversary#75th
-[dc87]: Dave-Claar#1987
+[75th]: /Event/Anniversary#75th
+[dc87]: /Person/Dave-Claar#1987
 [hw]: /History/Walt "Meany History, by Walt Little"
 [hr]:  /History/Reports
 [ma37]: /Mountaineer-Annual#1937

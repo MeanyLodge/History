@@ -146,7 +146,7 @@ In January, at a special mid-week work party, the following persons trekked up t
 
 In May, [Alex de Klerk](/Person/Alex-de-Klerk) shipped the old differential to Minnesota Outdoors to get rebuilt.
 
-[75th]: /Anniversary#75th
+[75th]: /Event/Anniversary#75th
 [htt]: /Skiers-Hit-The-Trail
 [tp]: /Machine/Tomcat/Petition "Petition to Get a Snow Cat"
 [hr]: /History-Reports "Meany History Reports, by Idona Kellogg"
