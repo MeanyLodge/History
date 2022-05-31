@@ -118,7 +118,7 @@ This is a very steep slope from Brockman's Knob straight down to the water suppl
 
 Prior to 1978, when the loggers came, this area, just to the south of Phogbound Gulch, was known as [Henrietta's Woods](/Run/Henrietta's-Woods). Henrietta was the resident witch of Lower Slobbovia, who got her way by sticking pins into effigies - a real hog!
 
-### [Henrietta Gulch](Henrietta-Gulch)
+### [Henrietta Gulch](/Area/Henrietta-Gulch)
 
 Just to the south of Henrietta's Meadow.
 
