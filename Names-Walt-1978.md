@@ -216,7 +216,7 @@ Road [212 A](/Area/420), on which the Tom Cat tracks its way back and forth, cro
 
 About one-fourth mile west of the point where the Tom Cat road crosses the Milwaukee RR. Two heavy concrete culvert pipes take the creek under the road. Location of frequent floodings.
 
-### [Edifice Wreck](/Area/Edifice-Wreck)
+### [Edifice Wreck](/Building/Edifice-Wreck)
 
 Small shack built below RR track to store gasoline for the Tom Cat. Built in 1960 by some students who at the time were working their way through the Greek classic tragedy "Oedipus Rex." Forgive them the pun - even a little humor is better than none...
 
