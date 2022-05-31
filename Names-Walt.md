@@ -214,7 +214,7 @@ A thiokol snow tractor obtained - a really good scrounge job - in 1977 for the p
 
 A snowmobile owned by Al Alleman and used for errands, thrills, and chills.
 
-### [Rat Track](Rat-Track)
+### [Rat Track](/Run/Rat-Track)
 
 A way bulldozed up through Cognito Wood in 1978 to allow the Pack Rat to achieve greater elevation on the Lane - the more the machine packing, the less the foot packing.
 
@@ -248,7 +248,7 @@ A cross-country ski trail designed by Al Alleman that traverses the bottom of "W
 
 The steep gully in the newly logged Section 34 between "Henrietta's Meadow" and Walter's Woods. RBCSA means Retroactive Birth Control Society of America.
 
-### [Industrial Park](Industrial-Park)
+### [Industrial Park](/Area/Industrial-Park)
 
 The area just to the south of Meany Hut was part of Tunnel City: a jumble of old foundations, small trees, old stove parts. This was cleared, bulldozed, and planted to grass. All the increasing amounts of equipment needed more room.
 
