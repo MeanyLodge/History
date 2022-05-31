@@ -495,7 +495,7 @@ At first the lower lane was used as a practice slope, the remainder being only a
 
 p. 56
 
-The downhill races started at the edge of the timber near the top of [Meany Hill](Meany-Hill), each man choosing his own course to the finish at the bottom of the lane. Always some tried to "run it straight" and some spectacular eggbeaters resulted but strangely enough there were never any serious injuries. As a deterrent to such folly the overhead beam in [The Hut](Lodge) had an array of broken skis mounted on it and over them the warning: "THEY TOOK IT STRAIGHT."
+The downhill races started at the edge of the timber near the top of [Meany Hill](Meany-Hill), each man choosing his own course to the finish at the bottom of the lane. Always some tried to "run it straight" and some spectacular eggbeaters resulted but strangely enough there were never any serious injuries. As a deterrent to such folly the overhead beam in [The Hut](/Lodge) had an array of broken skis mounted on it and over them the warning: "THEY TOOK IT STRAIGHT."
 
 A mysterious schism among the skiers developed with the advent of the ski hut. [Snoqualmie Lodge](Snoqualmie-Lodge) was a place of gaiety and entertainment as well as skiing, with its huge fireplace, phonograph and space enough for dancing. Meany Hut, however, was conceived and approved as strictly a shelter for skiers, with no fireplace or extra space. There was plenty of gaiety and fun but of a different kind and apparently this difference caused some to prefer one place to the other. Thus, while there were those who alternated, the skiers in general were identified as either "Lodge hounds" or "Meanyites."
 

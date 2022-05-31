@@ -73,7 +73,7 @@ Note: sections extracted from [Walt's History](/History/Walt) removed.
 ### 1986
 
 - Lodge: Upgraded 5 KVA to 25 KVA transformer
-- Direct dial telephone system connects [lodge](Lodge), [tow hut](/Building/Tow-Hut), [cat house](/Building/Cat-House) and top of the ski hill
+- Direct dial telephone system connects [lodge](/Lodge), [tow hut](/Building/Tow-Hut), [cat house](/Building/Cat-House) and top of the ski hill
 - Ski hill lights rewired
 
 ### 1989
