@@ -134,5 +134,5 @@ Fire totaled the lodge. [sf][]
 [ma46]: https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1946
 [ma56]: https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1956
 [ma67]: https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1967
-[tp]: Tomcat-Petition
+[tp]: /Machine/Tomcat/Petition
 [sf]: Snoqualmie-Fund

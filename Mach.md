@@ -13,11 +13,11 @@ categories: RopeTow
 
 ### Description
 
-Mach is the largest tow rope at Meany and it pulls skiers up [Kirkland Park](Kirkland-Park) and the [Lane](Lane).
+Mach is the largest tow rope at Meany and it pulls skiers up [Kirkland Park](/Run/Kirkland-Park) and the [Lane](/Run/Lane).
 
 ### Location
 
-Along the south edge of the [Lane](Lane).
+Along the south edge of the [Lane](/Run/Lane).
 
 ### Origin
 
@@ -35,8 +35,8 @@ Mach used to have a 4-speed transmission. Typically only the first three gears w
 ### Known For
 
 * The oldest rope tow in Washington.
-* v1: built by [Jack Hossack](Jack-Hossack)<sup>[ma68][]</sup>
-* v2: designed and built by [Walter Little](Walter-Little) <sup>[dc87][]<sup>
+* v1: built by [Jack Hossack](/Person/Jack-Hossack)<sup>[ma68][]</sup>
+* v2: designed and built by [Walter Little](/Person/Walter-Little) <sup>[dc87][]<sup>
 * Used to be rip-your-arms-off fast.
 
 ---
@@ -47,7 +47,7 @@ A ski lift is to be realized before the coming season opens. <sup>[ma37][]</sup>
 
 #### 1938
 
-Summer 1938 was work on the ski lift and the 15x20' log cabin necessary to house the tractor. The [Lane](Lane) was widened by additional clearing and the logs used to construct the tow hut. The lift is 835' feet long and rises 310 feet in less than two minutes. It reaches 65% of the way up the Lane and is powered by the [Beast](Beast).
+Summer 1938 was work on the ski lift and the 15x20' log cabin necessary to house the tractor. The [Lane](/Run/Lane) was widened by additional clearing and the logs used to construct the tow hut. The lift is 835' feet long and rises 310 feet in less than two minutes. It reaches 65% of the way up the Lane and is powered by the [Beast](Beast).
 
 The Beast was propped up clear of the floor and had maple driving rims bolted on to the large rear wheels. <sup>[ma38][ma38], [ma78][]</sup>
 
@@ -88,7 +88,7 @@ a new tow rope was spliced into place <sup>[ma53][]</sup>
 
 Begin work to relocate and rebuild. <sup>[hw][]</sup>
 
-Complete relocation, begun in 1955. Head pole moved south about 200' and 30' higher. Tow hut moved north about 250', and about 20' lower. This was done to gain more altitude, and to get upper unloading closer to [Lower Slobbovia](Lower-Slobbovia). Rise 440'. Length 1,000'. <sup>[ma78][]</sup>
+Complete relocation, begun in 1955. Head pole moved south about 200' and 30' higher. Tow hut moved north about 250', and about 20' lower. This was done to gain more altitude, and to get upper unloading closer to [Lower Slobbovia](/Run/Lower-Slobbovia). Rise 440'. Length 1,000'. <sup>[ma78][]</sup>
 
 <img src="/img/1956-Walter-Little.jpeg" alt="Walter Little Memorial Tow" style="width: 40%;">
 
@@ -98,7 +98,7 @@ Completed relocation of Mach Tow. New [Tow Hut](Tow-Hut) moved 150' north on gro
 
 #### 1958
 
-The relocated tow provided better access to lanes and eliminated the necessity of digging out the upper part of the rope. The big social event of the season was the dedication of the new tow to [Walter Little](Walter-Little). <sup>[ma58][]</sup>
+The relocated tow provided better access to lanes and eliminated the necessity of digging out the upper part of the rope. The big social event of the season was the dedication of the new tow to [Walter Little](/Person/Walter-Little). <sup>[ma58][]</sup>
 
 #### 1960
 
@@ -225,5 +225,5 @@ Replaced the Mach rope. Rope is <a href="https://www.samsonrope.com/product/ssr-
 [ma78]: Mountaineer-Annual#1978
 [ma82]: Mountaineer-Annual#1982
 [nw]: Names-Walt "Meany Names by Walter Little, 1984"
-[tp]: Tomcat-Petition
+[tp]: /Machine/Tomcat/Petition
 [yore]: https://www.theolympian.com/outdoors/article25316305.html

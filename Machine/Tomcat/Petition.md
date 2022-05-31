@@ -83,6 +83,6 @@ Meany's revised budget is now in your hands; based on 250 visitors next season, 
 Meany has been one of the better patronized of all Mountaineer activities; one of the best ski places in the Northwest; and we hate to see it starved out. At the moment we see no solution whereby it can continue to operate on other than a very limited basis. We are hopeful of enlisting your active cooperation in a further search to restore it to its past healthy condition.
 
 MEANY SKI HUT COMMITTEE
-Harvey Mahalko, Chairman
+[Harvey Mahalko](/Person/Harvey-Mahalko), Chairman
 
 [Original document](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/1960%20Tomcat%20Petition.pdf)

@@ -16,11 +16,11 @@ Named in honor of Prof. Edmond S. Meany of U.W. who was Mountaineer President fo
 
 This patch of ground is north of the Lane and south of Cognito Wood. At the time of purchase of Meany, there was second growth brush timber on it. All the timber had been logged in 1886 by the NPRR so as to clear the area for "Tunnel City", their campsite. In about 1930, Mountaineers cleared the brush and second growth in order to get some open skiing area near Meany Ski Hut. Because the work was done in some exceptionally hot weather, the area became known as "Hell's Half-acre." The area is again partially regrown, and the name has disappeared from present usage.
 
-### [Lane](Lane)
+### [Lane](/Run/Lane)
 
 This was logged from virgin timber in 1931 and was very much narrower than at present. This gave an appearance somewhat like a narrow road, or "lane" through the woods.
 
-### [Kirkland Park](Kirkland-Park)
+### [Kirkland Park](/Run/Kirkland-Park)
 
 During construction of rope tow in summer, 1938, the "Lane" was widened at its bottom end toward the Southeast to make room for the rope tow and tow hut in its original location. This left some large stumps in the area. Bill Kirkland, who stood about 6'4" and weighed like 240 pounds decided that dynamite was the answer. The hut committee wouldn't buy him any, so Kirkland bought his own. His theory in loading powder under stumps was "if a little is good, more is better." Several dozen explosions later, Kirkland Park, instead of being infested with stumps, was infested with craters. An indignant hut committee forcibly terminated Kirkland's operations after one of his stumps narrowly missed taking the roof off the newly constructed tow hut. Kirkland's stump holes have all been eliminated by bulldozing. But the name remains.
 
@@ -28,7 +28,7 @@ During construction of rope tow in summer, 1938, the "Lane" was widened at its b
 
 One of the things which attracted the Mountaineers to the Meany site was the open slope area from the top of the "Lane" up to Meany Woods. This open area had been created by a big forest fire. Meany Woods was a general name for the untouched forest at the south and west sides of the burned area.
 
-### [Downhill Trail](Downhill-Trail)
+### [Downhill Trail](/Run/Downhill-Trail)
 
 Ski racing was popular early on, though it has now disappeared. In the early 1940's a downhill race trail was completed from Meany Woods to the present Cornice Area above Lower Slobbovia, thence past the present Headpole, thence to Railroad Curve and down the traverse to Kitchen Run, and thence to finish at the Back Porch. The downhill trail has not been raced for many years and the name has disappeared from modern use. Parts of the trail are now parts of runs with other names.
 
@@ -36,23 +36,23 @@ Ski racing was popular early on, though it has now disappeared. In the early 194
 
 from this sharp curve to the right on the old downhill trail a skier could stop and look directly down on the old Martin RR station. If you didn't make it around the "curve", you had a good chance of landing on the "railroad."
 
-### [Kitchen Run](Kitchen-Run)
+### [Kitchen Run](/Run/Kitchen-Run)
 
 lower part of the old downhill trail, also accessible from mid-Lane. Ends at the kitchen, of course.
 
-### [Kitchen Jump](Kitchen-Jump)
+### [Kitchen Jump](/Run/Kitchen-Jump)
 
 a lump of earth, part of a former low ridge, which by design or error, will project a speeding skier into airborne status. Scene of noontime exhibitions.
 
-### [Elevator Shaft](Elevator-Shaft)
+### [Elevator Shaft](/Run/Elevator-Shaft)
 
 steep short pitch just before the Kitchen Jump. Early on it was enough steeper and narrower than presently that it deserved the name.
 
-### [Cognito Woods](Cognito-Wood)
+### [Cognito Woods](/Run/Cognito-Wood)
 
 Lies between Lane and Kitchen Run. Has been considerably thinned and trimmed. Still, when you are in there you are well concealed from identification and are therefore In-Cognito.
 
-### [Damnation](Damnation)
+### [Damnation](/Run/Damnation)
 
 This trail starts at northeast edge of Lane - straight down a steep slope to northeast of Kitchen Run. Much clearing on this slope was done by Messrs. Doug "Damn" and Art "Nation".
 
@@ -60,15 +60,15 @@ This trail starts at northeast edge of Lane - straight down a steep slope to nor
 
 It's all the same creek; the one coming down over the RR tunnel entrance in a spectacular waterfall. The different names have appeared on different old maps. Most Meanyites call it "Railroad Creek." Present U.S. Forest Service has it as "Stampede Creek", and this name will likely prevail.
 
-### [Lower Slobbovia](Lower-Slobbovia)
+### [Lower Slobbovia](/Run/Lower-Slobbovia)
 
 This was a name invented by Al Capp as part of his cartoon strip "Dogpatch". The inhabitants of this poor place dressed in rags, lived in snow holes, in constant peril of ingestion by assorted and ravenous bestiary. When the B.P.A. transmission line was logged in 1954, it looked like "Lower Slobbovia", rough and snow-covered, and inhabitants in ragged war surplus clothes, living in deep snow holes of their own making. The parallel was apt, and the place was duly christened "Lower Slobbovia."
 
-### [South Slobbovia](South-Slobbovia)
+### [South Slobbovia](/Run/South-Slobbovia)
 
 On the south side - directions in Slobbovia are the same as directions in the U.S.A.
 
-### [North Slobbovia](North-Slobbovia)
+### [North Slobbovia](/Run/North-Slobbovia)
 
 On the north side - ditto, ditto, ditto.
 
@@ -112,7 +112,7 @@ High point just above the water supply dam. Bill Brockman came down the upper pa
 
 This is a very steep slope from Brockman's Knob straight down to the water supply. When snow is deep, the trick is to run this absolutely straight, until at the last minute a turn is made down the canyon. The centrifugal acceleration force in this turn is estimated at 9-G's. Those who fail to turn make a tunnel into the opposite bank, under North Slobbovia.
 
-### [Henrietta's Meadow](Henrietta's-Meadow)
+### [Henrietta's Meadow](/Run/Henrietta's-Meadow)
 
 Prior to 1978, when the loggers came, this area, just to the south of Phogbound Gulch, was known as Henrietta's Woods. Henrietta was the resident witch of Lower Slobbovia, who got her way by sticking pins into effigies - a real hog!
 
@@ -120,7 +120,7 @@ Prior to 1978, when the loggers came, this area, just to the south of Phogbound 
 
 Just to the south of Henrietta's Meadow.
 
-### [Soffreenia Wood](Soffreenia-Wood)
+### [Soffreenia Wood](/Run/Soffreenia-Wood)
 
 Patch of woods to southeast of Mach Tow. Skiing in here frequently leads to a split personality; hence schizophrenia; hence ski Soffreenia; hence Soffreenia Wood.
 
@@ -136,19 +136,19 @@ Meany's biggest rope tow is now in its fourth version since original constructio
 
 Short rope tow paralleling "Mach Tow". Rises about 160 vert. and runs very slowly. Called the "Worm Tow" because it "crawls." Built in 1973.
 
-### [Railroad Meadows](Railroad-Meadows)
+### [Railroad Meadows](/Run/Railroad-Meadows)
 
 About 1974 completed the partial clearing and grading of an area lying west of the headpole of Mach Tow. This area lies only about 600 feet from the RR, hence "Railroad Meadows." The 600 foot distance happens to be nearly straight down through solid rock to where the RR runs in Stampede Tunnel.
 
-### [Side Track](Side-Track)
+### [Side Track](/Run/Side-Track)
 
 Ski traverse leading from Mach Tow along the top of RR Meadows.
 
-### [Psychopath](Psychopath)
+### [Psychopath](/Run/Psychopath)
 
 Traverse trail from the outer limits of RR Meadows back to bottom of Mach Tow. So called because of its "warped and twisted character."
 
-### [Lefty](Lefty)
+### [Lefty](/Run/Lefty)
 
 farthest West (left) trail in RR Meadows.
 
@@ -156,7 +156,7 @@ farthest West (left) trail in RR Meadows.
 
 shallow gulch running down center of RR Meadows.
 
-### [Harvey's Slot](Harvey's-Slot)
+### [Harvey's Slot](/Run/Harvey's-Slot)
 
 Harvey Mahalko was supposed to be grading this area leaving some trees, that is. But Harvey hates trees, so he cut them all, leaving an open slope.
 
@@ -164,7 +164,7 @@ Harvey Mahalko was supposed to be grading this area leaving some trees, that is.
 
 Upper southeast corner of RR Meadows, dedicated to the expertise of Dan Thompson, our only professional logger.
 
-### Upper [Nose](Nose)
+### Upper [Nose](/Run/Nose)
 
 This is the section of the old downhill trail which runs from the headpole to RR Corner.
 
@@ -176,7 +176,7 @@ Continuation of the Nose steeply down to Psychopath. A fall here is known as "bl
 
 Straight down a steep pitch from RR curve. Karen Bergman always fell off the original Psychopath at this corner. Karen's Corner became Karen's Corridor when the run above her corner was cleared.
 
-### [Liberation Way](Liberation-Way)
+### [Liberation Way](/Run/Liberation-Way)
 
 a short section of Psychopath along a steep side hill, where the girls dug the trail.
 
@@ -224,11 +224,11 @@ Small shack built below RR track to store gasoline for the Tom Cat. Built in 196
 
 This is on the Tom Cat road - 212 A to you - just east of the Yakima River bridge. It was here on a horrible Sunday night in 1976 that a connecting rod burst through the side of the Tom Cat engine block. It was about eight p.m., raining, dark, sleet crust all over, crying kids, mad parents, the works. Believe it or not, a new engine was in the tractor by Wednesday night, and the hut opened the next weekend as usual.
 
-### [Walter's Woods](Walter's-Woods)
+### [Walter's Woods](/Run/Walter's-Woods)
 
 In the summer of 1978 the Forest Service logged Section 34 which included a patch called "No-Name-Woods." In march of 1979 this slope was christened "Walter's Woods" because it contained about as many trees as there are hairs on Walter B. Little's head.
 
-### [Al's Fringe](Al's-Fringe)
+### [Al's Fringe](/Run/Al's-Fringe)
 
 A cross-country ski trail designed by Al Alleman that traverses the bottom of "Walter's Woods" and resembles Al's hairline.
 

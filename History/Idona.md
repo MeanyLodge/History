@@ -6,9 +6,9 @@ category: Document
 
 from [CHRONOLOGICAL HISTORY OF MEANY LODGE](https://www.mountaineers.org/locations-lodges/meany-lodge/history/archive-pages/chronological-history-of-meany-lodge)
 
-author: [Idona Kellogg](Idona-Kellogg)
+author: [Idona Kellogg](/Person/Idona-Kellogg)
 
-Note: sections extracted from [Walt's History](History-Walt) removed.
+Note: sections extracted from [Walt's History](/History/Walt) removed.
 
 ### 1956
 
@@ -20,7 +20,7 @@ Note: sections extracted from [Walt's History](History-Walt) removed.
 
 ### 1974
 
-- Approximate completion dates of clearing of [Railroad Meadows](Railroad-Meadows) and [Psychopath](Psychopath)
+- Approximate completion dates of clearing of [Railroad Meadows](/Run/Railroad-Meadows) and [Psychopath](/Run/Psychopath)
 
 ### 1975
 
@@ -39,7 +39,7 @@ Note: sections extracted from [Walt's History](History-Walt) removed.
 - Used 16 qts. of oil, managed to get Tom-cat to overpass by 8:30 pm
 - Tom has a spare block at home
 - Meanyites met at Tom's house on Monday and came up with parts list
-- On Tuesday Tom & [Bob Grass](Bob-Grass) assembled Engine
+- On Tuesday Tom & [Bob Grass](/Person/Bob-Grass) assembled Engine
 - Starting on Wednesday at 8 am the crew dropped old engine
 - installed new by 6 pm
 - Second crew started at 6 pm and completed the installation and
@@ -88,7 +88,7 @@ Note: sections extracted from [Walt's History](History-Walt) removed.
 
 #### Winter
 ##### January 6th - 7th
-- [Phil Christy](Phil-Christy) Cooked, [Art Nation](Art-Nation) and Lyle Schaeffer played. [Norm Vigus](Norm-Vigus) Sister visited
+- [Phil Christy](/Person/Phil-Christy) Cooked, [Art Nation](/Person/Art-Nation) and Lyle Schaeffer played. [Norm Vigus](/Person/Norm-Vigus) Sister visited
 - Still little snow, still able to drive up hill from new parking lot
 - Ski Lessons on Lane - Lane skiing only
 

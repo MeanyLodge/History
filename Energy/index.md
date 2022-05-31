@@ -8,7 +8,7 @@ Meany has electricity service through Puget Sound Energy. We have gas, diesel, a
 
 ## Vendors
 
-- [Electricity](Electricity): Puget Sound Energy
+- [Electricity](/Electricity): Puget Sound Energy
 - Propane: Amerigas
 - Diesel: Midstate Coop Tankwagon
 - Gasoline: Midstate Coop Tankwagon
@@ -27,14 +27,14 @@ Meany has electricity service through Puget Sound Energy. We have gas, diesel, a
 
 ## Infrastructure
 
-- See [Electricity](Electricity)
+- See [Electricity](/Electricity)
 - Fuel Tanks
     - gasoline
-        - 500 gallons ([Diesel Hut](Diesel-Hut))
-        - 500 gallons ([Gas Hut](Gas-Hut))
+        - 500 gallons ([Diesel Hut](/Building/Diesel-Hut))
+        - 500 gallons ([Gas Hut](/Building/Gas-Hut))
     - diesel
-        - 1000 gallons ([Diesel Hut](Diesel-Hut))
-    - propane: 1000 gallons, near [Propane Hut](Propane-Hut)
+        - 1000 gallons ([Diesel Hut](/Building/Diesel-Hut))
+    - propane: 1000 gallons, near [Propane Hut](/Building/Propane-Hut)
 
 ## Consumption
 
@@ -51,7 +51,7 @@ Gasoline Coleman lanterns furnished light <sup>[hw][], [ma56][]</sup>
 
 #### 1937
 
-A small water power lighting plant was developed by [Willard Johnston](Willard-Johnston) and [Jack Hossack](Jack-Hossack), Hut chairman. <sup>[ma37][]</sup>
+A small water power lighting plant was developed by [Willard Johnston](/Person/Willard-Johnston) and [Jack Hossack](/Person/Jack-Hossack), Hut chairman. <sup>[ma37][]</sup>
 
 #### 1939
 
@@ -61,7 +61,7 @@ a basement with furnace in place of the former pot-bellied stove in the middle o
 
 #### 1946
 
-By the time the first snowflake falls on the [Lane](Lane), Meany will boast a new light plant...and (attention, [Nashie](Nashie)!) a new stove in a freshly painted peasant kitchen. <sup>[ma46][]</sup>
+By the time the first snowflake falls on the [Lane](/Run/Lane), Meany will boast a new light plant...and (attention, [Nashie](/Person/Nashie)!) a new stove in a freshly painted peasant kitchen. <sup>[ma46][]</sup>
 
 #### 1948
 
@@ -73,7 +73,7 @@ Installed new propane range in kitchen. This replaced coal-fired range upon whic
 
 #### 1951
 
-the most important is to transport the coal from rail to flat car and thence to the hut with the faithful aid of The [Beast](Beast) which draws our antiquated trailer. From the forest comes the clear ring of falling axes and busy saws as the fellows build up a winter's supply of wood for the furnace. <sup>[ma51][]</sup>
+the most important is to transport the coal from rail to flat car and thence to the hut with the faithful aid of The [Beast](/Machine/Beast) which draws our antiquated trailer. From the forest comes the clear ring of falling axes and busy saws as the fellows build up a winter's supply of wood for the furnace. <sup>[ma51][]</sup>
 
 #### 1952
 
@@ -92,7 +92,7 @@ Three different second-hand light plants have been used at Meany for lights sinc
 
 Good use was made of the large numbers turning out for work parties by completely overhauling the light plant. <sup>[ma62][]</sup>
 
-Puget Sound Power and Light ran a transmission line up the center of [North Slobbovia](North-Slobbovia), one of the better ski runs. They did this in the mistaken belief that they were using the Bonneville power right-of-way, whereas actually they were on Mountaineer property. The ensuing year was filled with negotiation and threats to physically remove the power line. It was finally settled in August 1963. Meany would grant an easement and PSPL Co. would place power line underground and cut the stumps on "North Slobbovia" flush with the ground. <sup>[ma78][]</sup>
+Puget Sound Power and Light ran a transmission line up the center of [North Slobbovia](/Run/North-Slobbovia), one of the better ski runs. They did this in the mistaken belief that they were using the Bonneville power right-of-way, whereas actually they were on Mountaineer property. The ensuing year was filled with negotiation and threats to physically remove the power line. It was finally settled in August 1963. Meany would grant an easement and PSPL Co. would place power line underground and cut the stumps on "North Slobbovia" flush with the ground. <sup>[ma78][]</sup>
 
 #### 1963
 
@@ -100,7 +100,7 @@ Construction of a power line from the Martin Station on the Northern Pacific Rai
 
 p.137: The Legal Advisory Committee was involved in three important questions. The most time-consuming was the negotiation with the Puget Sound Power and Light Company over the right of way for power lines on the Meany ski hill. p.142: Puget Sound Power and Light, which initially constructed a power line across Meany property during the summer of 1962 without permission from the Mountaineers, has replaced the overhead power line with one that now runs underground.
 
-Commercial power first came to the Lodge in the early ‘60s via the BN railroad at (RR) 2400 volt. The power came from the vicinity of the RR tunnel and ran to the Lodge on a Mountaineer installed and maintained power line. The power cost a flat rate of $35/year and there was no meter. The load limit was 5-kW which we quickly exceeded and then also picked up the Tow Hut and later the [Cat House](Cat-House) and [Zoo](Zoo) loads. <sup>[rn19][]</sup>
+Commercial power first came to the Lodge in the early ‘60s via the BN railroad at (RR) 2400 volt. The power came from the vicinity of the RR tunnel and ran to the Lodge on a Mountaineer installed and maintained power line. The power cost a flat rate of $35/year and there was no meter. The load limit was 5-kW which we quickly exceeded and then also picked up the Tow Hut and later the [Cat House](/Building/Cat-House) and [Zoo](/Building/Zoo) loads. <sup>[rn19][]</sup>
 
 #### 1966
 
@@ -125,21 +125,21 @@ Constructed power transmisison to connect Meany system to Puget Sound Power Line
 
 #### 1982
 
-Crews built a power line from Puget Sound Power line on [Lower Slobbovia](Lower-Slobbovia) to the lodge. This became necessary because last year a tree took out a power line and during the process of repair Burlington-Northern management discovered Meany Ski Hut was still getting power from the railroad. The power permit was cancelled but Burlington-Northern continued to supply power to the lodge during spring and summer of 1981 and until Meany could connect to Puget Sound Power. Thank you, Burlington-Northern! And thanks to [Carsten Lien](Carsten-Lien) for negotiating this arrangement. <sup>[ma82][]</sup>
+Crews built a power line from Puget Sound Power line on [Lower Slobbovia](/Run/Lower-Slobbovia) to the lodge. This became necessary because last year a tree took out a power line and during the process of repair Burlington-Northern management discovered Meany Ski Hut was still getting power from the railroad. The power permit was cancelled but Burlington-Northern continued to supply power to the lodge during spring and summer of 1981 and until Meany could connect to Puget Sound Power. Thank you, Burlington-Northern! And thanks to [Carsten Lien](/Person/Carsten-Lien) for negotiating this arrangement. <sup>[ma82][]</sup>
 
 #### 1985
 
-Rewire all basement electric circuits all of which were overloaded. Installed new electric control panels and switches in pantry. Power supply to [Cat House](Cat-House) put underground. <sup>[hw][]</sup>
+Rewire all basement electric circuits all of which were overloaded. Installed new electric control panels and switches in pantry. Power supply to [Cat House](/Building/Cat-House) put underground. <sup>[hw][]</sup>
 
 #### 1986
 
 - Add dead end hardware on trees supporting power line between lodge and tows <sup>[hw][]</sup>
-- Disconnects added at power pole at [Mach](Mach) tow
+- Disconnects added at power pole at [Mach](/Run/Mach) tow
 - Power lines were revised to include dead end hardware at all trees. <sup>[hr][]</sup>
 
 #### 1989
 
-Because of new code restrictions against buried fuel tanks, dug up 2 buried 500 gallon gasoline tanks used by "[Mach](Mach)". Cleaned, painted and reinstalled in two locations, one near [Cat House](Cat-House), one near [Tow Hut](Tow-Hut). Each station a 10' x 10' concrete block building, complete with wiring, plumbing and pump.<sup>[hw][]</sup>
+Because of new code restrictions against buried fuel tanks, dug up 2 buried 500 gallon gasoline tanks used by "[Mach](/Run/Mach)". Cleaned, painted and reinstalled in two locations, one near [Cat House](Cat-House), one near [Tow Hut](Tow-Hut). Each station a 10' x 10' concrete block building, complete with wiring, plumbing and pump.<sup>[hw][]</sup>
 
 Two aesthetically attractive concrete block houses were built to encase gas tanks above ground as the risk of rupture of underground tanks was considered too great. <sup>[hr][]</sup>
 
@@ -224,6 +224,6 @@ Tow Hut - gasoline - 8 in = 61 gallons
 [ma78]: Mountaineer-Annual#1978
 [ma82]: Mountaineer-Annual#1982
 [ma91]: Mountaineer-Annual#1991
-[tp]: Tomcat-Petition
+[tp]: /Machine/Tomcat/Petition
 [rn13]: Mach-Tow-Electric-Motor
 [rn19]: Electrical-Power-System

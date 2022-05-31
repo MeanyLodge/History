@@ -4,7 +4,7 @@ category: Document
 ---
 [Mountaineer Annuals Index](https://www.mountaineers.org/about/history/the-mountaineer-annuals)
 
-## [1935](https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1935)
+## [1935]
 
 The Past Ski Year
 
@@ -15,13 +15,13 @@ p. 19
 And finally, for the benefit of the lazy and not-too-proud-to-ride, investigations have been made concerning the possibility of installing a rope "ski tow" up the lane at Martin. Ski tows have been used in the East for several years and are being installed in numbers this winter. Such a device on the lane or, possibly, the rock slide at Snoqualmie Lodge would take much of the effort out of our skiing and rapidly improve our technique because of the opportunity for abundant practice and downhill running.
 
 
-## [1937](https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1937)
+## [1937]
 
 p. 36
 
 MEANY SKI HUT was favored with excellent snow conditions throughout most of the season, enabling competitive events to be run off in good order. Attendance showed a favorable gain over past seasons both with Club members and outside groups. A small water power lighting plant was developed by Willard Johnston and Jack Hossack, Hut chairman, new decorations provided by others and several interior improvements made, all of which contributed considerably to the appearance and comfort of the Hut. Consistently good ski conditions, the fun of Hut parties, the tasty meals, the fine support of the membership, and the unfailing service of committee members combined to make a successful season.
 
-## [1938](https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1938)
+## [1938]
 
 p. 40
 
@@ -35,7 +35,7 @@ The skiers showed great progress in technique and skill.
 
 MEANY SKI HUT, the complement of skiing, has shown an increase in attendance due to the tireless efforts of Fred Gibbons and his committee, in making everyone feel at home and in clearing lanes for better runs. A ski lift is to be realized before the coming season opens. Too much praise cannot be given to members of Fred's frequent work parties.
 
-## [1939](https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1939)
+## [1939]
 
 p. 17
 
@@ -43,9 +43,9 @@ An appropriation of one thousand dollars to construct an addition to the east en
 
 p. 18
 
-Work! This has been almost the sole thought associated with Meany Ski Hut for the past two seasons. Last summer it was work on the ski lift and the 15x20-foot log cabin necessary to house the tractor. This summer it has been work, a total of 350 working weekends to build the fine three-story, 24x30 foot addition to the hut itself. The lift is 835' feet long and rises 310 feet in less than two minutes. It is so constructed that a skier may get off at any level. The hut has a large basement housing a furnace, drying room, waxing room and wash rooms. The large recreation room on the first floor will see many an oldtime dance which will help to dim the memory of aching muscles and smashed fingers acquired during the construction. The club has been extremely fortunate in having among its members construction engineers, pattern makers, mechanics and other skilled laborers, so that both constructions have been accomplished entirely with volunteer labor. Now the work is over and fun will be the word for Meany. Building Committee: [Jack Hossack](Jack-Hossack), [Walter Little](Walter-Little), T. Davis Castor, Calvin Jones, Phyllis Cavender, and Mary Kelley.
+Work! This has been almost the sole thought associated with Meany Ski Hut for the past two seasons. Last summer it was work on the ski lift and the 15x20-foot log cabin necessary to house the tractor. This summer it has been work, a total of 350 working weekends to build the fine three-story, 24x30 foot addition to the hut itself. The lift is 835' feet long and rises 310 feet in less than two minutes. It is so constructed that a skier may get off at any level. The hut has a large basement housing a furnace, drying room, waxing room and wash rooms. The large recreation room on the first floor will see many an oldtime dance which will help to dim the memory of aching muscles and smashed fingers acquired during the construction. The club has been extremely fortunate in having among its members construction engineers, pattern makers, mechanics and other skilled laborers, so that both constructions have been accomplished entirely with volunteer labor. Now the work is over and fun will be the word for Meany. Building Committee: [Jack Hossack](/Person/Jack-Hossack), [Walter Little](/Person/Walter-Little), T. Davis Castor, Calvin Jones, Phyllis Cavender, and Mary Kelley.
 
-## [1940](https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1940)
+## [1940]
 
 p. 22
 
@@ -60,7 +60,7 @@ The Committee outlined a trail marking program with the Sahalie and Washington A
 
 MEANY SKI HUT
 
-by [Walter Little](Walter-Little).
+by [Walter Little](/Person/Walter-Little).
 
 After completion of the new addition to Meany Ski Hut last fall, hopes were high for an unusually fine skiing season, whereupon the weatherman served up the worst snow in the history of the hut. Eight inches of snow at New Year's; twenty-four inches of snow in the middle of January; forty inches maximum depth for the season, so ran the dismal events. But it takes more than a little bad weather to dim the skiers' enthusiasm, and so there was better than average attendance and more than average fun. The ski lift hoisted capacity crowds up the hill every weekend as soon as the snow was deep enough, and the ski instruction was well patronized and aided in increasing the general level of skiing ability.
 
@@ -74,7 +74,7 @@ With new lift rope, gasoline, coal and supplies all ready, only snow is needed t
 p. 5
 
 ### Mountaineering on Skis
-[Walter Little](Walter-Little)
+[Walter Little](/Person/Walter-Little)
 
 SKIS are the best instrument yet developed by man for foot travel across snow fields. When a man puts on skis and slides down hill he is a skier; when he uses those skis to travel about near timberline or below he is a ski tourer in the common sense of the word; when he uses those skis to ascend high peaks, glaciers or areas above timberline, he becomes a ski-mountaineer. Practically, however, the moment that a skier leaves the highway or a populated skiing center he becomes a ski-mountaineer, for his enjoyment of his trip and even his survival may be dependent on knowledge of the mountains not required by the skier who stays on the hill. For the purpose of this article, let us say that ski-mountaineering is that branch of the sport involved in all ski trips away from the practice hill; ski-touring is a specialized part of ski-mountaineering confined to trips adjacent to or below timberline; high-level ski-mountaineering is done on the high areas above timberline and on the glaciers.
 
@@ -95,7 +95,7 @@ Subsequent skiing history in this area is unknown to this writer up to about 192
 
 The route selected for the attempted ascent was from Starbo Camp in Glacier Basin on the Northeast side of the mountain up to Steamboat Prow via the Inter Glacier, thence up the Emmons Glacier to the summit. Access to Starbo Camp was one of the difficult parts. At that time the road over Chinook Pass was still under construction and it was necessary to ski in all the way from Silver Springs to Starbo, a distance of sixteen miles. Down trees across the old mining road that led to Starbo did not help matters much.
 
-So, in April, 1927, [Bill Maxwell](Bill-Maxwell), Andy Anderson, Fred DuPuis and Lang Slaussen went to bed at Starbo with a blizzard raging outside, and awoke in the morning to find clear weather and six inches of new powder snow. Even though getting under way as soon as possible and traveling fast, they found when they reached Camp Curtis at elevation 9500 that they would not have time enough to make the ascent and regretfully turned back. Disappointment was slightly allayed by a glorious run down the Inter Glacier.
+So, in April, 1927, [Bill Maxwell](/Person/Bill-Maxwell), Andy Anderson, Fred DuPuis and Lang Slaussen went to bed at Starbo with a blizzard raging outside, and awoke in the morning to find clear weather and six inches of new powder snow. Even though getting under way as soon as possible and traveling fast, they found when they reached Camp Curtis at elevation 9500 that they would not have time enough to make the ascent and regretfully turned back. Disappointment was slightly allayed by a glorious run down the Inter Glacier.
 
 They were back again, with some changes in the party, on May 2. Bill Maxwell, Andy Anderson, and Lester LaVeile left Starbo Camp very early, had good snow and weather conditions, and were well on their way to the summit, when at 12,800 feet just below the saddle between Liberty Cap and Columbia Crest, they were met by a violent wind, which effectively prevented further progress on skis. So they turned back down the Emmons Glacier and again had fine skiing all the way to Starbo Camp. The rope was discarded half way down the Emmons Glacier as an impediment to proper skiing and an unjustified burden to humanity.
 
@@ -298,7 +298,7 @@ The snow falls heavier now, and suddenly the long-awaited Christmas vacation is 
 
 The holiday is over but the season is just beginning. Friday night finds the hardier skiers winding their way across a vast white carpet of glittering snow crystals, the moon light casting shadows of majestic trees across their path. More skiers plod in from the highway Saturday, but the majority come tumbling off the train Saturday morning, having taken over a car with their singing and story-telling during their trip from Seattle or from Kanasket. Many find the 36-mile drive from Seattle to Kanasket on a surfaced, snow free road a truly "safe and sane approach to winter driving in the mountains"-and a money-saver too!
 
-At the first hint of Spring in the air the more ambitious people take to climbers and explore the varied terrain of the Meany Woods and Stampede Pass-Weather Station area. The warm sunny weekends make for lazy relaxed ski days, and as April winds eat the snow away, it is just one last run down the [Lane](Lane). One practically hops from snow patch to snow patch, and it is quite definite to even the most avid skier that another Season is over at Meany.
+At the first hint of Spring in the air the more ambitious people take to climbers and explore the varied terrain of the Meany Woods and Stampede Pass-Weather Station area. The warm sunny weekends make for lazy relaxed ski days, and as April winds eat the snow away, it is just one last run down the [Lane](/Run/Lane). One practically hops from snow patch to snow patch, and it is quite definite to even the most avid skier that another Season is over at Meany.
 
 ## [1952](https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1952)
 
@@ -307,9 +307,9 @@ p. 54
 Meany Ski Hut
 Jo Anne Feringer
 
-Last winter there were many who came to Meany, skiing in the three miles from the highway or driving to Kanasket and connecting with the train to Martin. Dale Turner proved an able hut chairman, and it was a good year. More people found that touring proved the best antidote for too concentrated "tow skiing", and found deep snow skiing a new challenge. A full day took them to Baldy; the Stampede weather station made an easy half-day trip; less than an hour found them at Meany woods for a thrilling series of sweeping turns into the bowl, a bit of traversing, and the final run down the gully and along the ridge to the top of the tow. There the anticipation of a dinner prepared by chef and gourmet supreme, Mrs. [Harry Iverson](Annie-Iverson), made short work of the run down to the Hut. If they could still muster the energy after dinner, [Art Nation](Art-Nation) would be ready with his fine collection of folk dance records and a helping hand for the novices.
+Last winter there were many who came to Meany, skiing in the three miles from the highway or driving to Kanasket and connecting with the train to Martin. Dale Turner proved an able hut chairman, and it was a good year. More people found that touring proved the best antidote for too concentrated "tow skiing", and found deep snow skiing a new challenge. A full day took them to Baldy; the Stampede weather station made an easy half-day trip; less than an hour found them at Meany woods for a thrilling series of sweeping turns into the bowl, a bit of traversing, and the final run down the gully and along the ridge to the top of the tow. There the anticipation of a dinner prepared by chef and gourmet supreme, Mrs. [Harry Iverson](/Person/Annie-Iverson), made short work of the run down to the Hut. If they could still muster the energy after dinner, [Art Nation](/Person/Art-Nation) would be ready with his fine collection of folk dance records and a helping hand for the novices.
 
-[Bill Brockman](Bill-Brockman), assisted by Dick Feringer, has taken over the chairmanship for the coming season, and if the work parties are any criteria, it should be an enthusiastic one. With the combination of ideal weather and large groups of eager workers each weekend, a surprising amount has been accomplished. Members will first notice the kitchen (and shed a sentimental tear for the old coal range). Mr. Morris of the gas company still wonders how, in a few hours of apparently complete disorganization, the new stove and heater were carried in; cylinders brought up and installed; everything put in working order; and his tools all returned to the box. That intangible Mountaineer spirit must be potent! Next will be noticed the work of skilled laborers (those who proved they could hit a nail oftener than their fingers) in the building of the fire wall and doors in the stairway; and that other fire preventative measures have been taken with extra hoses and kick-out doors, and emergency exits and lamps.
+[Bill Brockman](/Person/Bill-Brockman), assisted by Dick Feringer, has taken over the chairmanship for the coming season, and if the work parties are any criteria, it should be an enthusiastic one. With the combination of ideal weather and large groups of eager workers each weekend, a surprising amount has been accomplished. Members will first notice the kitchen (and shed a sentimental tear for the old coal range). Mr. Morris of the gas company still wonders how, in a few hours of apparently complete disorganization, the new stove and heater were carried in; cylinders brought up and installed; everything put in working order; and his tools all returned to the box. That intangible Mountaineer spirit must be potent! Next will be noticed the work of skilled laborers (those who proved they could hit a nail oftener than their fingers) in the building of the fire wall and doors in the stairway; and that other fire preventative measures have been taken with extra hoses and kick-out doors, and emergency exits and lamps.
 
 Out on the Hill skiers will find that the brushing gang has given the Lane a crew cut, and that two days with a chain saw provided a basement full of wood. They will tighten their ski bindings in anticipation when they see the new terrain which has been opened up by the running of the new Bonneville power line parallel to the Lane; a wide lane having been cleared to feed into the bottom of the tow.
 
@@ -341,7 +341,7 @@ p. 57
 
 With the coming of winter the lodge shrank into a roof sitting on the snow and gave the impression of a man who had pulled his hat down over his ears. The familiar inside of the lodge convinced me this was still Meany, and the warm cozy fire and friendly skiers transformed the hut into a comfortable island in the middle of the cold wilderness.
 
-There were still more experiences in store. One was meeting and getting to know Nashie whose superb cooking and personality provide a focal point about which Meany has revolved for many years. The other was skiing on the [Lane](Lane), that patch of hillside which justified the past months of effort. The variety of ski terrain available, both cross country and downhill, more than balanced the anticipation built up during those first work parties.
+There were still more experiences in store. One was meeting and getting to know Nashie whose superb cooking and personality provide a focal point about which Meany has revolved for many years. The other was skiing on the [Lane](/Run/Lane), that patch of hillside which justified the past months of effort. The variety of ski terrain available, both cross country and downhill, more than balanced the anticipation built up during those first work parties.
 
 By this time I had learned that Meany was companionship; it was felling trees, cutting wood, splicing rope, brushing the hill; it was repairing engines, building, painting, cleaning pots and pans; it was touring in powder snow to the lookout, practicing deep snow skiing, setting up a slalom on the lane; it was also dancing, games, parties, memorable conversations, and good food.
 
@@ -357,7 +357,7 @@ p. 81
 MEANY SKI HUT
 by Joan Merritt
 
-[Lower Slobbovia](Lower-Slobbovia) is situated 100 yards south of the [Lane](Lane) and runs roughly parallel to it. The inhabitants are seasonal. During good snow years they may be heard to utter, "Ha! Gung skiink," and during lesser snow years, "Gung skiink? Ha!" Bonneville still considers the area primarily as a power line and is apparently oblivious to the more important resources, the superb ski slopes and an unusual stand of hemlock.
+[Lower Slobbovia](/Run/Lower-Slobbovia) is situated 100 yards south of the [Lane](/Run/Lane) and runs roughly parallel to it. The inhabitants are seasonal. During good snow years they may be heard to utter, "Ha! Gung skiink," and during lesser snow years, "Gung skiink? Ha!" Bonneville still considers the area primarily as a power line and is apparently oblivious to the more important resources, the superb ski slopes and an unusual stand of hemlock.
 
 p. 82
 
@@ -456,7 +456,7 @@ She's going to be around for awhile, we're sure because we're really planning a 
 
 p. 13
 
-Other ski names to be added: [Ernest Harris](Ernest-Harris) was appointed first ski chairman, December 8, 1927. His committee selected the Martin site and he directed the building of Meany Ski Hut. [William J. Maxwell](Bill-Maxwell) helped him throughout and developed ski leadership. Other early leaders were T. Dexter Everts, Norval W. Grigg, Paul Shorrock, Andrew W. Anderson, Herman P . Wunderling, Hans-Otto Giese and Edna F. Walsh, all members of the two ski committees.
+Other ski names to be added: [Ernest Harris](/Person/Ernest-Harris) was appointed first ski chairman, December 8, 1927. His committee selected the Martin site and he directed the building of Meany Ski Hut. [William J. Maxwell](/Person/Bill-Maxwell) helped him throughout and developed ski leadership. Other early leaders were T. Dexter Everts, Norval W. Grigg, Paul Shorrock, Andrew W. Anderson, Herman P . Wunderling, Hans-Otto Giese and Edna F. Walsh, all members of the two ski committees.
 
 p. 16
 
@@ -464,12 +464,12 @@ Parallel in growth with climbing has been the enthusiasm for skiing. In 1932, th
 
 p. 18
 
-Meany Ski Hut also grew in popularity with the skiers, for which it is especially designed. First interest of the country around was due to the vast area of denuded hills on [Meany Hill](Meany-Hill) and around Stampede Pass but as the forest grew these sections became less usable, with the result that in 1938 a ski tow was constructed to take full advantage of the [Lane](Lane). This proved so popular that in 1939 it was necessary to build an addition to the hut, doubling its capacity. During the gas-rationed war years the availability of train service made the Hut a mecca for all who loved to ski. Early in the '50s, the construction of a Bonneville Power Administration power line across the southwest portion of the property provided another exciting ski slope ([Lower Slobbovia](Lower-Slobbovia) for the more expert skier; and in 1956 the ski tow is being remodeled and moved to a location which will take advantage of both the lane and the power hill. Perhaps symbolic of Meany is Annie Iverson, "Nashie" to most of us, who has been cooking and dispensing philosophical advice for over 25 years (see story on page 57).
+Meany Ski Hut also grew in popularity with the skiers, for which it is especially designed. First interest of the country around was due to the vast area of denuded hills on [Meany Hill](Meany-Hill) and around Stampede Pass but as the forest grew these sections became less usable, with the result that in 1938 a ski tow was constructed to take full advantage of the [Lane](/Run/Lane). This proved so popular that in 1939 it was necessary to build an addition to the hut, doubling its capacity. During the gas-rationed war years the availability of train service made the Hut a mecca for all who loved to ski. Early in the '50s, the construction of a Bonneville Power Administration power line across the southwest portion of the property provided another exciting ski slope ([Lower Slobbovia](/Run/Lower-Slobbovia) for the more expert skier; and in 1956 the ski tow is being remodeled and moved to a location which will take advantage of both the lane and the power hill. Perhaps symbolic of Meany is Annie Iverson, "Nashie" to most of us, who has been cooking and dispensing philosophical advice for over 25 years (see story on page 57).
 
 p 55
 
 The Story of Meany Ski Hut
-by [Fred W. Ball](Fred-Ball)
+by [Fred W. Ball](/Person/Fred-Ball)
 
 Probably few of the skiers who use Meany Hut today are aware that the 60-acre site was a gift from our revered president, Dr. Edmond S. Meany. This was in 1928-long before the advent of many of its present devotees.
 
@@ -479,13 +479,13 @@ Special outings at Stampede led some of our early skiers over the pass to the Me
 
 Following the winter of 1927-28 further explorations of the area led to a favorable decision and in June 1928 plans for the building were presented to a special meeting of the Board of Trustees. These plans called for a 20x50 two-story frame building to accommodate 50 people. It was to be a plain ski shelter without luxurious embellishments. (The total absence of these could be verified by any of the early visitors having occasion to arise in the night.) The project was approved and $1,700 appropriated for construction.
 
-Dr. Meany purchased and donated the land, approximately 64 acres. Generous donations were also made by the Everett and Tacoma branches. Materials were shipped by rail to Martin, unloaded by the enthusiastic volunteer workers and carried to the site by hand, some help from the railroad section hands through the skillful cajolery of [W. J. Maxwell](Bill-Maxwell) plus a small cash consideration.
+Dr. Meany purchased and donated the land, approximately 64 acres. Generous donations were also made by the Everett and Tacoma branches. Materials were shipped by rail to Martin, unloaded by the enthusiastic volunteer workers and carried to the site by hand, some help from the railroad section hands through the skillful cajolery of [W. J. Maxwell](/Person/Bill-Maxwell) plus a small cash consideration.
 
 Construction was started in September 1928 and on November 11 the building was dedicated by Dr. Meany with about 100 members and guests present. Much interior work remained to be done but by the time winter arrived the hut was ready for occupancy and was filled to capacity throughout the season. While rough, it was comfortable, with the big hotel range in the kitchen and the potbellied coal stove in the main room giving off a cheery glow; on the wire rack overhead wet socks, mittens and other gear dried or nicely browned, depending on the owner's alertness. Gasoline lanterns furnished light but after a day of climbing up and sliding down the hills, early to bed was the rule, for tomorrow was another day. Those fortunate ones who could come on the Friday evening or Saturday morning train formed a welcoming committee with hot chocolate and doughnuts for the less fortunate arriving Saturday night. A brief visit and exchange of greetings around the big stove and then "lights out!"
 
 The winters of 1928-31 were devoted to touring the surrounding country. Numerous trips were made to [Meany Hill](Meany-Hill), the telephone cabin, Stampede Pass, Baldy, and Stirrup Lake. Snowshoe Butte was claimed but never substantiated.
 
-These winters also saw the beginning of ski races at Meany. The cross-country races for men and women for the University Book Store trophies began in 1929. The slalom and downhill races for men began in 1930, for trophies donated by [Bob Hayes](Robert-Hayes) and [W. J. Maxwell](Bill-Maxwell), respectively. The first patrol race was also run this year, finishing at Meany.
+These winters also saw the beginning of ski races at Meany. The cross-country races for men and women for the University Book Store trophies began in 1929. The slalom and downhill races for men began in 1930, for trophies donated by [Bob Hayes](/Person/Robert-Hayes) and [W. J. Maxwell](/Person/Bill-Maxwell), respectively. The first patrol race was also run this year, finishing at Meany.
 
 This pattern of activity continued for the next several years, the tours expanding until trips from the Lodge to Meany or vice versa became almost commonplace, a party of public-spirited members having marked the route by orange-colored tin shingles high on trees and placed so that one was always in sight ahead.
 
@@ -519,20 +519,20 @@ p. 57
 
 My Years at Meany
 
-by Mrs Harry K. (Nashie) Iverson
+by Mrs Harry K. (/Person/Nashie) Iverson
 
 I REMEMBER the first time I came to Meany - for the New Year's celebration of 1934-5. Never in all my life had I met such a queer lot of people was my first impression. Their garb surely set them apart as being out of the ordinary.
 It didn't take long to figure out that outdoor sports were not their only interest; they had an interest in everything! After my day's work, it was interesting for me to sit in the shadows and see the romantic intrigue among the bachelors and spinsters, for there was plenty of it. No one paid much attention to the fact that they were being spied upon. My favorite vantage point was sitting underneath the dripping socks that were hung over the old coal stove which in those days provided the only drying facilities.
 
 There was never a dull moment and times haven't changed a bit. Come 11 o'clock, games and merriment of the evening were over and time to bed down. In the women's dorm we were nightly entertained by Sally's ballet dance costumed in fancy scanties. After breakfast some of the hardier skiers packed a lunch and took off for Mount Baldi which was an all day trip. The party consisted of Norm Engle, Herman Wunderling and Paul and Gertrude Shorrock. The less eager played around [Hell's Half-acre](Hell's-Half-acre) climbing up under their own steam.
 
-On Washington's birthday, a three-day holiday, the hut was filled to capacity with 60 people. The rain came down in torrents keeping everyone inside, except a few who now and then would venture out for a breath of air and return soaking wet. Even so the roof billowed with hilarity, and chairman [Jack Hassock](Jack-Hossack) said: "Nashie, I bet you have never been housed with so many 'nuts' before!" He was right, but I will say this: they were and still are the greatest in the land.
+On Washington's birthday, a three-day holiday, the hut was filled to capacity with 60 people. The rain came down in torrents keeping everyone inside, except a few who now and then would venture out for a breath of air and return soaking wet. Even so the roof billowed with hilarity, and chairman [Jack Hassock](/Person/Jack-Hossack) said: "Nashie, I bet you have never been housed with so many 'nuts' before!" He was right, but I will say this: they were and still are the greatest in the land.
 
 In 1937 the Juniors began entering the club and life took on added color, which on occasion turned to a dull gray. The Seniors found the Juniors taking over the place. To many of them this meant doom, but surprisingly enough the Juniors became rapidly adjusted and did themselves proud by assuming the necessary responsibilities and adding new and novel entertainment.
 
 Within the next year growing pains overtook the lodge and it was decided to build an addition to the hut. All the skillful eager beavers gathered around and with much toil and perspiration the dream came into being. It came to me as a revelation what ability and cooperation could and did accomplish. Even the artistic touch appeared in Boyd Bucey's scallop trim over the windows.
 
-One of the recent outstanding events was the dedication of [Lower Slobbovia](Lower-Slobbovia) which was described by Ernie as a "masterpiece," Dick Merritt as "Mr. Fog Bound," Joan as a "Bird Watcher" and Roy Snider as "Custodian of All the Out-of-Doors." There were others too, such as [Art Nation](Art-Nation), "genius of music and dance," and [Walter Little](Walter-Little) with "work and wisdom and years of experience." I could go on and on but it all sums up to the fact that the Seniors helped the Juniors and vice versa-and all live at Meany in peace and harmony.
+One of the recent outstanding events was the dedication of [Lower Slobbovia](/Run/Lower-Slobbovia) which was described by Ernie as a "masterpiece," Dick Merritt as "Mr. Fog Bound," Joan as a "Bird Watcher" and Roy Snider as "Custodian of All the Out-of-Doors." There were others too, such as [Art Nation](/Person/Art-Nation), "genius of music and dance," and [Walter Little](/Person/Walter-Little) with "work and wisdom and years of experience." I could go on and on but it all sums up to the fact that the Seniors helped the Juniors and vice versa-and all live at Meany in peace and harmony.
 
 My greatest satisfaction has been to watch the growth of character that has come from this close association. It is not possible for one to weigh or measure the far-reaching influence that these relationships have on the people who meet here, but I feel sure that they carry with them a most pleasant and lasting memory.
 
@@ -541,7 +541,7 @@ My greatest satisfaction has been to watch the growth of character that has come
 
 p. 122
 
-The relocated tow at Meany provided better access to lanes and eliminated the necessity of digging out the upper part of the rope. The big social event of the season was the dedication of the new tow to [Walter Little](Walter-Little).
+The relocated tow at Meany provided better access to lanes and eliminated the necessity of digging out the upper part of the rope. The big social event of the season was the dedication of the new tow to [Walter Little](/Person/Walter-Little).
 
 
 ## [1959](https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1959)
@@ -573,7 +573,7 @@ At Meany Ski Hut the snow-tractor operation proved so successful during the firs
 
 p. 19
 
-MOUNTAINEER SKIING by [Fred Ball](Fred-Ball)
+MOUNTAINEER SKIING by [Fred Ball](/Person/Fred-Ball)
 
 I came to Seattle in November, 1927...During these years members branched out from the Lodge and Meany more and more when snow conditions were good as their proficiency increased. The Rock Slide and [Hell's Half-acre](Hell's-Half-acre) always had their quota of people practicing turns; but trips to Olallie Meadows, Silver Peak, Mirror Lake, Divide and Surveyors Lakes from the Lodge and to Baldy, Stampede Pass, the Power Line Cabin, and Meany Woods from Martin were frequently made by large and small groups. Also during this time the route from the Lodge to Meany was pioneered and then marked by orange tin shingles high on trees. This became a popular, if rugged, trip for the more hardy skiers.
 
@@ -646,7 +646,7 @@ Following a successful ski season, lodge committees turned their attention to bu
 
 p. 53
 
-Another key man was [Jack Hossack](Jack-Hossack)-who in another area of activity designed and built the first ski lift at Meany, against stiff opposition from the Board.
+Another key man was [Jack Hossack](/Person/Jack-Hossack)-who in another area of activity designed and built the first ski lift at Meany, against stiff opposition from the Board.
 
 p. 66
 
@@ -680,9 +680,9 @@ During the war years and gas rationing, trains made Meany the salvation of skier
 
 After hot soup and sandwiches back to the slopes again. And hill packing! "Everyone up as high as you can go, to sidestep the hill" calls the tow chairman over the speaker. To the rousing strains of the Deutschmeister Band, we tramp out long stairstep strips in the broken up hill, with a final sideslip to give a smooth slope.
 
-It's time for a run down [South Slobbovia](South-Slobbovia). From the top of the tow we traverse Green Pastures to Tombstone Canyon, cross to the Bull moose Glacier where some take off for a run down Bullmoose Ridge, but we "druther" cross Druthers Gulch and run Upper South Slobbovia. It's over the edge for a turn in the deep-sheltered powder of Phogbound Gulch, then back into S. Slobbovia for a fast run down the ridge to Brockman's Knob. A hard right turn around [Jacob's Ladder](Jacob's-Ladder) (power-line tower) brings us to wide open skiing over bumps and hollows. We finally cross the bridge over Tombstone Canyon and head back through the woods to the tow.
+It's time for a run down [South Slobbovia](/Run/South-Slobbovia). From the top of the tow we traverse Green Pastures to Tombstone Canyon, cross to the Bull moose Glacier where some take off for a run down Bullmoose Ridge, but we "druther" cross Druthers Gulch and run Upper South Slobbovia. It's over the edge for a turn in the deep-sheltered powder of Phogbound Gulch, then back into S. Slobbovia for a fast run down the ridge to Brockman's Knob. A hard right turn around [Jacob's Ladder](Jacob's-Ladder) (power-line tower) brings us to wide open skiing over bumps and hollows. We finally cross the bridge over Tombstone Canyon and head back through the woods to the tow.
 
-Daylight wanes, lights go on at the bottom of the hill, and [Lower Slobbovia](Lower-Slobbovia) is abandoned for a few last runs down the lower half of the [Lane](Lane) before dinner.
+Daylight wanes, lights go on at the bottom of the hill, and [Lower Slobbovia](/Run/Lower-Slobbovia) is abandoned for a few last runs down the lower half of the [Lane](/Run/Lane) before dinner.
 
 Dinner, then wash up, do a pot, pay the fees, and be ready to shake a leg to folk dance tapes. Beginners and newcomers are urged to join in and with a little instruction are soon womping out a rollicking "9-Pin Reel" or Schottische with the best of them.
 
@@ -694,7 +694,7 @@ Another skiing day comes to an end. The lodge is put to sleep for another week a
 
 Shovels emerge from car trunks and everyone is busy digging out his car and loading gear. It's only 5-1/2 more days till the next trip to Meany.
 
-Sign up with the clubroom secretary (check page 99). Snow tractor for Meany hut leaves parking area 9:30 and 10:30 AM Saturday for lodge; returns to road at 5:30 PM Saturday, and when lodge is closed on Sunday. For details, check with lodge [Chair](Chair).
+Sign up with the clubroom secretary (check page 99). Snow tractor for Meany hut leaves parking area 9:30 and 10:30 AM Saturday for lodge; returns to road at 5:30 PM Saturday, and when lodge is closed on Sunday. For details, check with lodge [Chair](/Person/Chair).
 
 p. 104
 
@@ -780,11 +780,11 @@ The season at Meany Ski Hut started with a washout. The floods before Christmas 
 
 Despite the relatively light snow pack, the skiing was excellent, with only one weekend marred by rain. Every weekend saw capacity crowds, and we welcomed many new skiers to the lodge.
 
-In addition to the excellent skiing and "to the door" service, several other factors helped to bring the crowds and hold them. The new hill packer, christened [Pack Rat](Pack-Rat), turned [Kirkland Park](Kirkland-Park) into a very enjoyable run. The very popular lessons taught by [Patti Polinsky](Patti-Polinsky) and [Dave Claar](Dave-Claar) improved the techniques of beginners and advanced skiers alike. Lessons and "Family Weekend" brought many future juniors. Cross country skiing and snowshoeing were also much in evidence.
+In addition to the excellent skiing and "to the door" service, several other factors helped to bring the crowds and hold them. The new hill packer, christened [Pack Rat](Pack-Rat), turned [Kirkland Park](/Run/Kirkland-Park) into a very enjoyable run. The very popular lessons taught by [Patti Polinsky](/Person/Patti-Polinsky) and [Dave Claar](/Person/Dave-Claar) improved the techniques of beginners and advanced skiers alike. Lessons and "Family Weekend" brought many future juniors. Cross country skiing and snowshoeing were also much in evidence.
 
 A highlight of the season was the Carnival weekend, which featured a "European Feast" complete with bratwurst, German hot potato salad, European pastries and homemade pretzels, in addition to the skiing events-all masterminded by Patti Polinsky. That was the weekend which saw record crowds.
 
-[Ray Nelson](Ray-Nelson) has been Meany chairman for 1O years now and is commencing the first year of what may turn out to be the second decade. The hut operation has prospered under the "Boss's" management and it is very much to the benefit of The Mountaineers, and Meany especially, that Ray is willing to continue.
+[Ray Nelson](/Person/Ray-Nelson) has been Meany chairman for 1O years now and is commencing the first year of what may turn out to be the second decade. The hut operation has prospered under the "Boss's" management and it is very much to the benefit of The Mountaineers, and Meany especially, that Ray is willing to continue.
 
 
 ## [1978](https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1978)
@@ -809,13 +809,13 @@ That's what it has taken to bring Meany through 50 highly successful years!!!
 
 #### Gigantic Birthday Party-Sept 23-24, 1978
 
-On September 23-24, 1978 eight of the original Meany crew and 450 other Mountaineers and guests invaded Meany for a gigantic birthday party to cheer Meany into its next fifty years. The eight early Meanyites were: Gus Hudson, Harriet Taylor Tiedt, Opal Maxwell, Andy and Kay Anderson, Herb and Eugenia Strandberg, and [Fred Ball](Fred-Ball). Highlights of the weekend were the Sunday dedication program and the huge salmon dinner.
+On September 23-24, 1978 eight of the original Meany crew and 450 other Mountaineers and guests invaded Meany for a gigantic birthday party to cheer Meany into its next fifty years. The eight early Meanyites were: Gus Hudson, Harriet Taylor Tiedt, Opal Maxwell, Andy and Kay Anderson, Herb and Eugenia Strandberg, and [Fred Ball](/Person/Fred-Ball). Highlights of the weekend were the Sunday dedication program and the huge salmon dinner.
 
-Bob Cram masterfully and humorously emceed the dedication program. Royce and Rhea Natoli organized the program agenda, contacted the participants, and arranged for this variety show. Virginia Reid did a tremendous job as overall chairperson for the entire birthday weekend. [Patti Polinsky](Patti-Polinsky) took charge of the elaborate, perfectly-prepared, and very efficiently served salmon dinner.
+Bob Cram masterfully and humorously emceed the dedication program. Royce and Rhea Natoli organized the program agenda, contacted the participants, and arranged for this variety show. Virginia Reid did a tremendous job as overall chairperson for the entire birthday weekend. [Patti Polinsky](/Person/Patti-Polinsky) took charge of the elaborate, perfectly-prepared, and very efficiently served salmon dinner.
 
 Wanda Van DeVanter, who supervised registration, reported that Dawn Steere, former Meany woman patrol racer in the 1930's, now living in Orange, California, and Nancy and Trevor Dick and family from Lethbridge, Alberta, Canada, probably came from farthest away.
 
-Other facets of the Birthday Weekend were just as outstanding as the Sunday program and Salmon Feed. There were the tours of Meany grounds and ski runs; Coleman Leuthy's mushroom identification treks and lengthy labeled mushroom displays, films of Meany action shown by Bob Bentler, [Doug Damm](Doug-Damm), and Roger Thayer; album and picture exhibits; a Campfire Songfest led by Nancy Adams; folk dancing organized by Arne Svensson with live music by [Art Nation](Art-Nation) and Richard Svensson, and a misty Sunday morning outdoor worship service led by Cadett Barnes.
+Other facets of the Birthday Weekend were just as outstanding as the Sunday program and Salmon Feed. There were the tours of Meany grounds and ski runs; Coleman Leuthy's mushroom identification treks and lengthy labeled mushroom displays, films of Meany action shown by Bob Bentler, [Doug Damm](/Person/Doug-Damm), and Roger Thayer; album and picture exhibits; a Campfire Songfest led by Nancy Adams; folk dancing organized by Arne Svensson with live music by [Art Nation](/Person/Art-Nation) and Richard Svensson, and a misty Sunday morning outdoor worship service led by Cadett Barnes.
 
 And now more about that Salmon Dinner which was a lavish Indian-style feast. 174 pounds of fish fillets, turned into delicious outdoor barbecued salmon, were served with herbed brown rice, marinated minted peas, cornbread and honey, coleslaw, and vegetable nibbles with edible apple swans. A huge birthday cake was the dessert. Unbelievably, the entire crowd was fed within 45 minutes.
 
@@ -823,17 +823,17 @@ The enormous birthday cake created by Idona Kellogg caused "oohs" and "ahs" as o
 
 For the Sunday Birthday Ceremony, Bob Cram, old-time Meanyite and well-known cartoonist and television personality, hosted a lively hour of laughter and nostalgia as he interviewed past Hut Chairmen about "interesting" events that occurred during their reign.
 
-[Fred Ball](Fred-Ball), an energetic 81-year-old and the 1932 Hut Chairman, entertained the group by singing "Wild Bill Maxwell," a tale written by Art Winder in the 1930's about one of the best-loved and most colorful of Meany's early skiers. Much credit was given to "Max" for organizing the backbreaking labor necessary for building the Hut and clearing the lane. Maxwell's widow, Opal, proudly beamed in the audience as "Max's" story was told in song.
+[Fred Ball](/Person/Fred-Ball), an energetic 81-year-old and the 1932 Hut Chairman, entertained the group by singing "Wild Bill Maxwell," a tale written by Art Winder in the 1930's about one of the best-loved and most colorful of Meany's early skiers. Much credit was given to "Max" for organizing the backbreaking labor necessary for building the Hut and clearing the lane. Maxwell's widow, Opal, proudly beamed in the audience as "Max's" story was told in song.
 
 Bob Gram's imitation of "Charlie's" jungle noises in the men's dorm had the crowd roaring. As Cram said, "He had no rhythm to his snoring."
 
-[Bill Brockman](Bill-Brockman), 1953 Hut Chairman, told of some of the technical problems of getting highly-esteemed, over-weight "Nashie," the cook, up the hill each weekend. She prepared the meals at Meany for twenty nine years, from 1935 to 1964. [Peggy Grass](Peggy-Grass) has been our ingenious cook for the last eleven years.
+[Bill Brockman](/Person/Bill-Brockman), 1953 Hut Chairman, told of some of the technical problems of getting highly-esteemed, over-weight "Nashie," the cook, up the hill each weekend. She prepared the meals at Meany for twenty nine years, from 1935 to 1964. [Peggy Grass](/Person/Peggy-Grass) has been our ingenious cook for the last eleven years.
 
-"Times were really gloomy at Meany in early 1960," [Doug Damm](Doug-Damm), Hut Chairman at that time, recounted. "The trains stopped in March, 1960 and the rest of that season supplies had to be hand-carried all the way from the highway." Doug hilariously told the story of a test run behind Tom Van DeVanter's station wagon to determine how people would react to being towed in by the Cat on ropes. Apparently after a speedy start, a little panic, and a frantic call to "STOP," Tom applied the brakes and the skiers all plowed into his open tailgate.
+"Times were really gloomy at Meany in early 1960," [Doug Damm](/Person/Doug-Damm), Hut Chairman at that time, recounted. "The trains stopped in March, 1960 and the rest of that season supplies had to be hand-carried all the way from the highway." Doug hilariously told the story of a test run behind Tom Van DeVanter's station wagon to determine how people would react to being towed in by the Cat on ropes. Apparently after a speedy start, a little panic, and a frantic call to "STOP," Tom applied the brakes and the skiers all plowed into his open tailgate.
 
 Bob Cram said this of Walter Little, who has skied Meany for forty of its fifty years: " Walt was a pioneer in ski technique. Anything that was crazy Walt had already tried." Besides his many technical contributions Walt concocted many of the names around [Meany Hill](Meany-Hill) like "Psychopath" and "Lower Slobbovia". Walt, with his keen intellect, has helped create the friendly and witty Meany atmosphere.
 
-Mountaineers President Jim Sanford, after giving some warm welcoming remarks, had his turn at story-telling as he introduced present Hut Chairman, [Ray Nelson](Ray-Nelson). Ray has served for twelve years.
+Mountaineers President Jim Sanford, after giving some warm welcoming remarks, had his turn at story-telling as he introduced present Hut Chairman, [Ray Nelson](/Person/Ray-Nelson). Ray has served for twelve years.
 
 Many others contributed to the program. Art Nation fiddled as dancers spun out the nine-pin reel. Steve Stout sang "In the Mountains," a song he'd just written. The "Impoverished Players" portrayed by three skits 1) the Erection of Meany Hut, 2) Life at the present day Hut, and 3) Meany of the year 2023, with skiers arriving by airbus and being served by a robot.
 
@@ -854,9 +854,9 @@ p. 173
 
 It all began at Meany Ski Hut this season with preparation for the Meany 50th Birthday Party, Sept. 23-24. This turned out to be an exceptionally well-organized spectacular event with 450 participants.
 
-A highlight of the ski season was the carnival weekend which featured many corny contests and crazy races, a clowns contest, and a "European Feast" complete with German hot potato salad and homemade European pastries, pretzels, and breadsticks. Many fancy relish trays with elaborate flowered vegetable "nibblies" and apple swans served from an outdoor snow table is an example of how embellished and painstaking the carnival events were. This fantastic weekend was masterminded by [Patti Polinsky](Patti-Polinsky).
+A highlight of the ski season was the carnival weekend which featured many corny contests and crazy races, a clowns contest, and a "European Feast" complete with German hot potato salad and homemade European pastries, pretzels, and breadsticks. Many fancy relish trays with elaborate flowered vegetable "nibblies" and apple swans served from an outdoor snow table is an example of how embellished and painstaking the carnival events were. This fantastic weekend was masterminded by [Patti Polinsky](/Person/Patti-Polinsky).
 
-One extra special Saturday night program was the dedication banquet for [Walter's Woods](Walter's-Woods) with Master of Ceremonies [Lee Helser](Lee-Helser) cleverly spicing the evening and a film on Walter shown by Bob Bentler. A huge cake shaped like a bald head contained a hidden cavity which was opened to reveal Walter's thoughts in the form of sayings on heart-shaped candies.
+One extra special Saturday night program was the dedication banquet for [Walter's Woods](/Run/Walter's-Woods) with Master of Ceremonies [Lee Helser](/Person/Lee-Helser) cleverly spicing the evening and a film on Walter shown by Bob Bentler. A huge cake shaped like a bald head contained a hidden cavity which was opened to reveal Walter's thoughts in the form of sayings on heart-shaped candies.
 
 A very important change to the Meany vicinity was made in the summer of 1978 when the Forest Service logged Section 34 which included "Henrietta's Woods" and "No-Name-Woods." These areas are now known as "Henrietta's Meadow" and "Walter's Woods." The gulley between the two has been christened "RBCSA Gulch" and the cross-country ski trail labeled "Al's Fringe." (RBCSA means Retroactive Birth Control Society of America.)
 
@@ -873,17 +873,17 @@ p. 125
 
 Great things have been happening at Meany Ski Hut. For the first time ever a marriage took place at Meany as Georgean and Dick Curran skied to their wedding at the top of kitchen run. Following the ceremony the minister skied the hill with the rest of the wedding party. A huge seven-part cake made by Idona Kellogg was brought in sections and assembled at the lodge. The reception began with a march of the newly-weds through arched ski poles.
 
-Record crowds were drawn to Meany this season by outstanding live music, vigorous folk dancing, huge home-made ice cream parties, fantastic skiing, terrific ski lessons by Patti and [Dave Claar](Dave-Claar) and Glen Polinsky, entertaining plays and programs, and world encompassing movies and slide shows.
+Record crowds were drawn to Meany this season by outstanding live music, vigorous folk dancing, huge home-made ice cream parties, fantastic skiing, terrific ski lessons by Patti and [Dave Claar](/Person/Dave-Claar) and Glen Polinsky, entertaining plays and programs, and world encompassing movies and slide shows.
 
-Special thanks go to musicians Richard Swensson, [Art Nation](Art-Nation), Lyle Schaefer, Frank Gilbert, Jim Noyes, Roy Wagner, Olemara Peters, and the Speldosan Group. Also the Mountaineer Players presented three delightful performances: The Story Theatre, Who Murdered Who, and a musical review, F.M. at P.M. Thanks also to Jack Reid and Michael Clarke who did great jobs with their slide shows of recent trips.
+Special thanks go to musicians Richard Swensson, [Art Nation](/Person/Art-Nation), Lyle Schaefer, Frank Gilbert, Jim Noyes, Roy Wagner, Olemara Peters, and the Speldosan Group. Also the Mountaineer Players presented three delightful performances: The Story Theatre, Who Murdered Who, and a musical review, F.M. at P.M. Thanks also to Jack Reid and Michael Clarke who did great jobs with their slide shows of recent trips.
 
-Alaska Weekend went over big with a greased pole contest, a gorp presentation, Alaska slides by [Paul Bergman](Paul-Bergman) and movies by [Bob Bentler](Bob-Bentler), a reading by Royce Natoli of Robert Service's <i>Iceworm Cocktail</i>, and refreshments of ice worms and Ghosttown Sourdough Cookies. That's enough to turn anybody into a "blooming bonafide sourdough."
+Alaska Weekend went over big with a greased pole contest, a gorp presentation, Alaska slides by [Paul Bergman](/Person/Paul-Bergman) and movies by [Bob Bentler](/Person/Bob-Bentler), a reading by Royce Natoli of Robert Service's <i>Iceworm Cocktail</i>, and refreshments of ice worms and Ghosttown Sourdough Cookies. That's enough to turn anybody into a "blooming bonafide sourdough."
 
-Another notable weekend was the Leap Day Bonanza where Hilde garde Hamhocker of Tumbleweeds (played by Bob Bentler) and Sadie Hawkins from Dogpatch (portrayed by [Norm Vigus](Norm-Vigus)) invaded Meany to choose a mate from among the many Meany eligibles. Other skit characters were the minister ([Dave Claar](Dave-Claar)) and the victim (Charlie Vail). [Walter Little](Walter-Little) walked away with the Bachelor of the Year Award with Norm Vigus as runner-up. Bob Bentler showed Super 8 movies of Walt and Norm to prove why they should be the winners.
+Another notable weekend was the Leap Day Bonanza where Hilde garde Hamhocker of Tumbleweeds (played by Bob Bentler) and Sadie Hawkins from Dogpatch (portrayed by [Norm Vigus](/Person/Norm-Vigus)) invaded Meany to choose a mate from among the many Meany eligibles. Other skit characters were the minister ([Dave Claar](/Person/Dave-Claar)) and the victim (Charlie Vail). [Walter Little](/Person/Walter-Little) walked away with the Bachelor of the Year Award with Norm Vigus as runner-up. Bob Bentler showed Super 8 movies of Walt and Norm to prove why they should be the winners.
 
-The Annual Spring Carnival was again a superb event as master minded by [Patti Polinsky](Patti-Polinsky). In addition to skiing events there were corny contests and crazy races, a clowns contest, and a "European Feast" complete with German hot potato salad and homemade European pastries, pretzels, and breadsticks.
+The Annual Spring Carnival was again a superb event as master minded by [Patti Polinsky](/Person/Patti-Polinsky). In addition to skiing events there were corny contests and crazy races, a clowns contest, and a "European Feast" complete with German hot potato salad and homemade European pastries, pretzels, and breadsticks.
 
-Meany work parties installed a second hot water tank, painted the "cats," and started the enormous task of clearing [Walter's Woods](Walter's-Woods) and [Henrietta's Meadow](Henrietta's-Meadow), in addition to the usual fall maintenance and upkeep.
+Meany work parties installed a second hot water tank, painted the "cats," and started the enormous task of clearing [Walter's Woods](/Run/Walter's-Woods) and [Henrietta's Meadow](/Run/Henrietta's-Meadow), in addition to the usual fall maintenance and upkeep.
 
 After long negotiations with the railroad we gained final approval and installed a gate below the railroad to help cut down on vandalism.
 
@@ -915,7 +915,7 @@ Winter 1981 ski season was washed away by rain, but Meany Ski Hut did manage to 
 
 Since the 1980 Meany work party season had been so productive (see July, 1981 Mountaineer Annual for accomplishments), the Meany 1981 Fall work party season found much ready and waiting for a good snow. However, the list of 1981 achievements is still impressive.
 
-Crews built a power line from Puget Sound Power line on [Lower Slobbovia](Lower-Slobbovia) to the lodge. This became necessary because last year a tree took out a power line and during the process of repair Burlington-Northern management discovered Meany Ski Hut was still getting power from the railroad. The power permit was cancelled but Burlington-Northern continued to supply power to the lodge during spring and summer of 1981 and until Meany could connect to Puget Sound Power. Thank you, Burlington-Northern! And thanks to Carsten Lien for negotiating this arrangement.
+Crews built a power line from Puget Sound Power line on [Lower Slobbovia](/Run/Lower-Slobbovia) to the lodge. This became necessary because last year a tree took out a power line and during the process of repair Burlington-Northern management discovered Meany Ski Hut was still getting power from the railroad. The power permit was cancelled but Burlington-Northern continued to supply power to the lodge during spring and summer of 1981 and until Meany could connect to Puget Sound Power. Thank you, Burlington-Northern! And thanks to Carsten Lien for negotiating this arrangement.
 
 Also during fall, 1981, the Meany "in-house" telephone system was restored. Bell telephone connections were repaired too. The shed to house tractor parts was completed. Some of the poles for the "mach" and "worm" tows were replaced. The bridge over Stampede Creek was rebuilt where an abutment had washed out. The culvert at Weasel Creek was cleaned out so it is no longer necessary to cover it with a log bridge which always had to be removed after the snows melted.
 
@@ -923,7 +923,7 @@ On the light side, Al Alleman and Kent Nelson, amid great applause, were awarded
 
 Work party-goers were treated to lively evenings at the hut with lots of folk dancing, a Halloween party, a steak feed, and ski movies.
 
-From Christmas, 1981 to New Years, 1982, Meany was well attended and blessed with absolutely super snow. Although the entire week was filled with activities both on the hill and in the hut, the New Year's Eve festivities were notable. It all started when the "Advanced Emissary of the New Year's Baby," [Walter Little](Walter-Little), appeared. This messenger introduced the new year with a "make it-yourself" Pizza Party and a magnificent Torchlight Parade. Creative and unusual pizzas emerged quickly from the dozens of pizza fixings furnished, but the spectacular Torchlight Parade stole the show. Brian Johnson organized this remarkable serpentine of twenty torchbearers and assembled them at the top of the ski hill at 11:55. Slowly the group wound their way to the bottom of the hill and planted the torches in a figure "2" near the bonfire. There amidst jubilation and singing, the new year arrived. All who wished skied the lighted hill from 11 p.m. till 12:30.
+From Christmas, 1981 to New Years, 1982, Meany was well attended and blessed with absolutely super snow. Although the entire week was filled with activities both on the hill and in the hut, the New Year's Eve festivities were notable. It all started when the "Advanced Emissary of the New Year's Baby," [Walter Little](/Person/Walter-Little), appeared. This messenger introduced the new year with a "make it-yourself" Pizza Party and a magnificent Torchlight Parade. Creative and unusual pizzas emerged quickly from the dozens of pizza fixings furnished, but the spectacular Torchlight Parade stole the show. Brian Johnson organized this remarkable serpentine of twenty torchbearers and assembled them at the top of the ski hill at 11:55. Slowly the group wound their way to the bottom of the hill and planted the torches in a figure "2" near the bonfire. There amidst jubilation and singing, the new year arrived. All who wished skied the lighted hill from 11 p.m. till 12:30.
 
 Other 1981 newsworthy events:
 
@@ -935,7 +935,7 @@ Other 1981 newsworthy events:
 
 p. 136
 
-Record crowds were drawn to Meany Ski Hut this season by plentiful snow, fantastic skiing, terrific ski lessons with capacity classes taught by [Patti Polinsky](Patti-Polinsky), Dave Claar and Kim Nelson, vigorous folk dancing, extremely talented musicians, and entertaining skits and programs.
+Record crowds were drawn to Meany Ski Hut this season by plentiful snow, fantastic skiing, terrific ski lessons with capacity classes taught by [Patti Polinsky](/Person/Patti-Polinsky), Dave Claar and Kim Nelson, vigorous folk dancing, extremely talented musicians, and entertaining skits and programs.
 
 One of the biggest 1982 thrills was Dick Curran's 50 ft. aerial ride which was the last leg of an obstacle course he set up for the Spring Carnival. The Spring Carnival had an Austrian flavor as Patti Claar masterminded "zillertal" activities. This enormous undertaking included a hill-wide scavenger hunt, snow golfing, bow and arrow rivalry, a bean carry, slow slalom course, frisbee toss, snake follow, inner tube run, kids' costume parade, an authentic Austrian dinner, a huge "Konditorei" pastry table, a lavish luncheon complete with fancy vegetable nibblies and homemade breadsticks and pretzels, and a "lively" folkdance stimulated by Meany's gifted musicians.
 
@@ -980,3 +980,10 @@ The major project completed was the excavation of about a fourth of the basement
 p. 144
 
 The Singles Committee initiated a number of new activities in 1993 and 1994. These included horseback riding, a sleigh ride, biking in the San Juans, and regular pot luck evenings. Games night, volleyball, tennis and slide shows continued co be very popular. Another Mystery Weekend at Meany Lodge took place, in expanded form.
+
+[1935]: https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1935
+[1937]: https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1937
+[1938]: https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1938
+[1939]: https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1939
+[1940]: https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1940
+

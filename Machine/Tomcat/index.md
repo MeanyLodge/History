@@ -130,7 +130,7 @@ Tom-Cat was refurbished with new paint, new canvas, new upholstery, and gorgeous
 
 #### 1998
 
-The frame was lengthened by about five feet by [Mike Lonergan](Mike-Lonergan). <sup>[75th][]</sup>
+The frame was lengthened by about five feet by [Mike Lonergan](/Person/Mike-Lonergan). <sup>[75th][]</sup>
 
 #### 2003
 
@@ -148,7 +148,7 @@ In May, [Alex de Klerk](/Person/Alex-de-Klerk) shipped the old differential to M
 
 [75th]: /Anniversary#75th
 [htt]: /Skiers-Hit-The-Trail
-[tp]: /Tomcat-Petition "Petition to Get a Snow Cat"
+[tp]: /Machine/Tomcat/Petition "Petition to Get a Snow Cat"
 [hr]: /History-Reports "Meany History Reports, by Idona Kellogg"
 [hw]: /History-Walt "Meany History, by Walt Little"
 [ma60]: /Mountaineer-Annual#1960

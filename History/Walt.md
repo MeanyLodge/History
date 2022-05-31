@@ -4,7 +4,7 @@ category: Document
 ---
 # Meany History
 
-Compiled by Walt Little, addressed to [Ray Nelson](Ray-Nelson) and [Dave Claar](Dave-Claar)
+Compiled by Walt Little, addressed to [Ray Nelson](/Person/Ray-Nelson) and [Dave Claar](/Person/Dave-Claar)
 
 Cover page:
     1. Herewith Meany outline history. It consolidates all my old notes, and I've added some from memory. Probably there are mistakes.
@@ -41,12 +41,12 @@ Dedicated in Edmond Meany's honor on November 11th.
 ### 1930
 
 - Added pantry to West end - 8'X20', one story, lean-to roof.
-- Cleared 2nd growth and brush from [Hell's Half-acre](Hell's-Half-acre), a patch to north of the [Lane](Lane) and at the bottom of slope.
+- Cleared 2nd growth and brush from [Hell's Half-acre](Hell's-Half-acre), a patch to north of the [Lane](/Run/Lane) and at the bottom of slope.
 
 ### 1931
 
 - Two loggers hired with funds donated.
-- Loggers cleared the [Lane](Lane), but left 3'-4' high stumps, and left downed trees all criss-crossed. Unsatisfactory performance.
+- Loggers cleared the [Lane](/Run/Lane), but left 3'-4' high stumps, and left downed trees all criss-crossed. Unsatisfactory performance.
 
 ### 1932
 
@@ -60,7 +60,7 @@ Dedicated in Edmond Meany's honor on November 11th.
 - Powered by gasoline Fordson tractor
 - Maple driving rims bolted on to large rear wheels
 - Tractor propped up clear of floor
-- [Tow Hut](Tow-Hut) made of logs cut from trees which came from [Lane](Lane) widening
+- [Tow Hut](Tow-Hut) made of logs cut from trees which came from [Lane](/Run/Lane) widening
 - Head pulley mounted on tree about 70% uphill.
 - Vertical about 280'
 - No safety gate
@@ -89,7 +89,7 @@ Access to hut continues to be local NPRR passenger trains on NPRR. Some park at 
 ### 1943
 
 - Low snow year, 36" max.
-- [Lane](Lane) skiing poor because of logs and high stumps
+- [Lane](/Run/Lane) skiing poor because of logs and high stumps
 - Extended [Mach](Mach) tow to new head pole at top of the "Lane". Vertical drop now ~340.
 - Install safety gate
 
@@ -101,7 +101,7 @@ Access to hut continues to be local NPRR passenger trains on NPRR. Some park at 
 
 ### 1945
 
-- Continue program to remove logs & stumps from [Lane](Lane)
+- Continue program to remove logs & stumps from [Lane](/Run/Lane)
 - Install headpole on [Mach](Mach) at the top of lane.
 - Vertical now ~380
 - Install safety gate
@@ -136,7 +136,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 
 - BPA constructed transmission line, 287 KV
 - cleared area added much variety to Meany skiing
-- Area christened [Lower Slobbovia](Lower-Slobbovia) because it resembled the mythical country in Al Capp's cartoon strip "L'll Abner"
+- Area christened [Lower Slobbovia](/Run/Lower-Slobbovia) because it resembled the mythical country in Al Capp's cartoon strip "L'll Abner"
 
 ### 1955
 
@@ -147,7 +147,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 ### 1956
 
 - Begin work to relocate and rebuild Mach Tow
-- Purpose to gain better access to [Lower Slobbovia](Lower-Slobbovia) and a better loading area at bottom of [Lane](Lane)
+- Purpose to gain better access to [Lower Slobbovia](/Run/Lower-Slobbovia) and a better loading area at bottom of [Lane](/Run/Lane)
 
 ### 1957
 
@@ -178,8 +178,8 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 
 ### 1962
 
-- Lower [Lane](Lane) bulldozed to improve approach to [Mach](Mach) tow
-- Puget Power constructed power line up [North Slobbovia](North-Slobbovia), under impression  they were on BPA easement, actually they trespassed on Meany property
+- Lower [Lane](/Run/Lane) bulldozed to improve approach to [Mach](Mach) tow
+- Puget Power constructed power line up [North Slobbovia](/Run/North-Slobbovia), under impression  they were on BPA easement, actually they trespassed on Meany property
 - In return for easement, Puget removed pole line, buried 7,000v line, bulldozed and sawed stumps
 - Flood and mud slide wipe out USFS bridge over Stampede Pass.
 - Log bridge, suitable for Meany winter use, built by volunteers in a sunny weekend in fresh powder.
@@ -190,7 +190,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 - 2400v 60hz, single phase, to bring power to Meany
 - Motor gen now on standby.
 - All Martin RR buildings now removed (Martin made automatic)
-- Improved ski return trail from [Lower Slobbovia](Lower-Slobbovia) to [Mach](Mach)
+- Improved ski return trail from [Lower Slobbovia](/Run/Lower-Slobbovia) to [Mach](Mach)
 
 ### 1964
 

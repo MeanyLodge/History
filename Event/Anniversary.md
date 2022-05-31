@@ -240,7 +240,7 @@ It was built in 1980 just south of the Hut and the Industrial Park. It has three
 
 #### [TomCat](Tomcat)
 
-Once there is snow on the ground the Bombardier snow tractor is used to haul everything, including skiers, the three miles from the parking lot up to the lodge. The cat was bought in 1960, when NPRR stopped its passenger train service to Meany. Legendary meanyite [Tom Van DeVanter](Tom-Van-DeVanter) has piloted hte cat from 1960 to 2002 (hence the name "Tomcat"). Tomcat is the most important support animal at Meany. The stories Tom and it have generated over the decards are too numerous to explore here, but compiled in a book they would make very colorful reading of man and machine and volunteers in the backcountry. Snow tractors have notoriously high maintenance requirements, and due to age and heavy use Tomcat is almost always in need of care. Original engine: Chrysler 252, flat head. New engine: Chevyrolet 292, six cylinder, installed in 1971. New transmission: Chevyrolet, installed in 1971. New belts: Meany manufactured, rock conveyor-Dacron, 1969. The frame was lengthened by about five feet in 1998 by Mike Lonergan. Total carrying capacity is about 100 people and their gear towed by ropes and in machine.
+Once there is snow on the ground the Bombardier snow tractor is used to haul everything, including skiers, the three miles from the parking lot up to the lodge. The cat was bought in 1960, when NPRR stopped its passenger train service to Meany. Legendary meanyite [Tom Van DeVanter](/Person/Tom-Van-DeVanter) has piloted hte cat from 1960 to 2002 (hence the name "Tomcat"). Tomcat is the most important support animal at Meany. The stories Tom and it have generated over the decards are too numerous to explore here, but compiled in a book they would make very colorful reading of man and machine and volunteers in the backcountry. Snow tractors have notoriously high maintenance requirements, and due to age and heavy use Tomcat is almost always in need of care. Original engine: Chrysler 252, flat head. New engine: Chevyrolet 292, six cylinder, installed in 1971. New transmission: Chevyrolet, installed in 1971. New belts: Meany manufactured, rock conveyor-Dacron, 1969. The frame was lengthened by about five feet in 1998 by Mike Lonergan. Total carrying capacity is about 100 people and their gear towed by ropes and in machine.
 
 #### [Ox](Ox)
 
@@ -252,7 +252,7 @@ This Thiokol snow tractor was scrounged up cheaply from BPA in 1977 for hill pac
 
 #### Dozer
 
-Owned by Meanyite [Bob Bentler](Bob-Bentler). This International Harvester TD6-61 (Diesel) was used to smooth out ski lesson terrain, prepare ground at Tombstone Canyon for laying culvert pipes and to grade roads.
+Owned by Meanyite [Bob Bentler](/Person/Bob-Bentler). This International Harvester TD6-61 (Diesel) was used to smooth out ski lesson terrain, prepare ground at Tombstone Canyon for laying culvert pipes and to grade roads.
 
 #### [Dino](Dino)
 
@@ -316,7 +316,7 @@ Houses the driving machinery for Meany's "Mach Tow." Build in 1938. Present engi
 
 #### [Mouse](Mouse)
 
-This heavy duty 2-speed snowmobile was bought new by Al Alleman and donated to Meany. It's used for errands, individual transportation to worksites, etc. and thrills and chills. [Dave Claar](Dave-Claar) uses the mouse to tow the track setter for the groomed X-Country trail starting just below the hut. Can't come out now. It hibernates in summer.
+This heavy duty 2-speed snowmobile was bought new by Al Alleman and donated to Meany. It's used for errands, individual transportation to worksites, etc. and thrills and chills. [Dave Claar](/Person/Dave-Claar) uses the mouse to tow the track setter for the groomed X-Country trail starting just below the hut. Can't come out now. It hibernates in summer.
 
 #### [Generator Hut](Generator-Hut)
 
