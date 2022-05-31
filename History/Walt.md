@@ -41,7 +41,7 @@ Dedicated in Edmond Meany's honor on November 11th.
 ### 1930
 
 - Added pantry to West end - 8'X20', one story, lean-to roof.
-- Cleared 2nd growth and brush from [Hell's Half-acre](Hell's-Half-acre), a patch to north of the [Lane](/Run/Lane) and at the bottom of slope.
+- Cleared 2nd growth and brush from [Hell's Half-acre](/Area/Hell's-Half-acre), a patch to north of the [Lane](/Run/Lane) and at the bottom of slope.
 
 ### 1931
 
@@ -60,7 +60,7 @@ Dedicated in Edmond Meany's honor on November 11th.
 - Powered by gasoline Fordson tractor
 - Maple driving rims bolted on to large rear wheels
 - Tractor propped up clear of floor
-- [Tow Hut](Tow-Hut) made of logs cut from trees which came from [Lane](/Run/Lane) widening
+- [Tow Hut](/Building/Tow-Hut) made of logs cut from trees which came from [Lane](/Run/Lane) widening
 - Head pulley mounted on tree about 70% uphill.
 - Vertical about 280'
 - No safety gate
@@ -324,7 +324,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
     - New bill by WA state legislature establishes Sno-Park system
 - Mach Tow
     - Overhaul engine, new camshaft, ground valves
-    - New counter weight located in [Tow Hut](Tow-Hut)
+    - New counter weight located in [Tow Hut](/Building/Tow-Hut)
 - Worm Tow
     - Revise winch and take-up at head pole (tree)
     - Bridge across top of safety gate poles.
@@ -412,7 +412,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 - Transformers to convert supply at 7000v to 2400v.
 - Meter at point of tie to supply line
 - BNRR revised trackage at east end of tunnel to substitute one track for three and lengthen radius of curvate
-- Mach Tow: New mounting for lower pulley at [Tow Hut](Tow-Hut) to control rope twist
+- Mach Tow: New mounting for lower pulley at [Tow Hut](/Building/Tow-Hut) to control rope twist
 
 ### 1982
 
@@ -422,7 +422,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 - Mach
     - Realigned 4" X 4" steel track on front of tow hut
     - Added 7' X 8' lean-to on North corner of tow hut for gas pump station and line hardware storage
-    - Construct wheelways in basement of [Tow Hut](Tow-Hut) for winter storage of [Ox](/Machine/Ox)
+    - Construct wheelways in basement of [Tow Hut](/Building/Tow-Hut) for winter storage of [Ox](/Machine/Ox)
 - [Ox](/Machine/Ox): Repaired brakes
 - [Tom Cat](/Machine/Tomcat)
     - Overhaul engine
@@ -434,7 +434,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 
 - Graded area on north side of hut to get more flat area
 - New picnic area
-- Mach: revise interior of [Tow Hut](Tow-Hut)
+- Mach: revise interior of [Tow Hut](/Building/Tow-Hut)
 - [Pack Rat](/Machine/Pack-Rat): install new radiator
 
 ### 1984
@@ -455,7 +455,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 - Access: Sons of Norway improved grading at parking lot entrance
 - Rewire all basement electric circuits all of which were overloaded
 - Installed new electric control panels and switches in pantry
-- Power supply to [Cat House](Cat-House) put underground
+- Power supply to [Cat House](/Building/Cat-House) put underground
 - Construct new structure on East end, combining fire escape, front entrance, basement entrance, and ski room. Replaces inadequate front porch.
 - Everybody scared by two nearby forest fires
     - Forest fire at south end of Lake Keechelus burns to Meadow Creek (2.5 mi from Meany)
@@ -515,7 +515,7 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 
 - Hut
     - Construct new 4000 gallon septic and 400' of drain pipe
-    - Construct new gasoline storage station near [Cat House](Cat-House)
+    - Construct new gasoline storage station near [Cat House](/Building/Cat-House)
     - See below under [Mach Tow](Mach)
 - Refurbish Telephone cabin
 
@@ -527,6 +527,6 @@ BPA logs off transmission line right-of-way, part on Meany property, part on adj
 - Telephone: Phone Company replaces burned up line and restores service
 - Mach Tow
     - Because of new code restrictions against buried fuel tanks, dug up 2 buried 500 gallon gasoline tanks used by "Mach"
-    - Cleaned, painted and reinstalled in two locations, one near [Cat House](Cat-House), one near [Tow Hut](Tow-Hut)
+    - Cleaned, painted and reinstalled in two locations, one near [Cat House](/Building/Cat-House), one near [Tow Hut](/Building/Tow-Hut)
     - Each station a 10' x 10' concrete block building, complete with wiring, plumbing and pump
 

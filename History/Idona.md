@@ -47,7 +47,7 @@ Note: sections extracted from [Walt's History](/History/Walt) removed.
 
 ### 1977
 
-- Flood washes out the log bridge over [Stampede Creek](Stampede-Creek) (again), filled culvert at [Weasel Creek](Weasel-Creek).
+- Flood washes out the log bridge over [Stampede Creek](/Area/Stampede-Creek) (again), filled culvert at [Weasel Creek](/Area/Weasel-Creek).
 - Work parties on successive weekends, in horrible working conditions, resulted in repairs adequate for winter.
 - Same storm washed out Railroad tracks. Trains did not run until 1978
 
@@ -73,7 +73,7 @@ Note: sections extracted from [Walt's History](/History/Walt) removed.
 ### 1986
 
 - Lodge: Upgraded 5 KVA to 25 KVA transformer
-- Direct dial telephone system connects [lodge](Lodge), [tow hut](Tow-Hut), [cat house](Cat-House) and top of the ski hill
+- Direct dial telephone system connects [lodge](Lodge), [tow hut](/Building/Tow-Hut), [cat house](/Building/Cat-House) and top of the ski hill
 - Ski hill lights rewired
 
 ### 1989
@@ -113,7 +113,7 @@ Note: sections extracted from [Walt's History](/History/Walt) removed.
 
 ##### February 3rd - 4th
 - Repair Work on Tom-cat, Pack-rat, tows
-- Tom fell off road on way to [tow hut](Tow-Hut) - needed help
+- Tom fell off road on way to [tow hut](/Building/Tow-Hut) - needed help
 - XXXXXXXX tow motor needs replacing
 - Loosen Track, took off drive sprocket, removed housings
 - Left side drive axel on Thiokol also broken

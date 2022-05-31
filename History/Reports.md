@@ -13,11 +13,11 @@ Matt's Note: The reports thru 1983 are included in the [Mountaineer Annuals](Mou
 
 It all began at Meany this season with preparation for its 50th Birthday Party, Sept. 23-24. This turned out to be an exceptionally well-organized spectacular event with 450 participants.
 
-A highlight of the ski season was the [carnival](Carnival) weekend which featured many corny contests and crazy races, a clowns contest and a "European Feast" complete with German hot potato salad and homemade European pastries, pretzels and breadsticks. Many fancy relish trays with elaborate flowered vegetable "nibbles" and apple swans served from an outdoor snow table is an example of how embellished and painstaking the carnival events were. This fantastic weekend was masterminded by [Patti Polinsky](/Person/Patti-Polinsky).
+A highlight of the ski season was the [carnival](/Event/Carnival) weekend which featured many corny contests and crazy races, a clowns contest and a "European Feast" complete with German hot potato salad and homemade European pastries, pretzels and breadsticks. Many fancy relish trays with elaborate flowered vegetable "nibbles" and apple swans served from an outdoor snow table is an example of how embellished and painstaking the carnival events were. This fantastic weekend was masterminded by [Patti Polinsky](/Person/Patti-Polinsky).
 
 One extra special Saturday night program was the dedication banquet for [Walt's Woods](/Run/Walter's-Woods) with Master of Ceremonies [Lee Helser](/Person/Lee-Helser) cleverly spicing the evening and a film on Walter shown by [Bob Bentler](/Person/Bob-Bentler). A huge cake shaped like a bald head contained a hidden cavity which was opened to reveal Walter's thoughts in the form of sayings on heart-shaped candies.
 
-A very important change to the Meany vicinity was made in the summer when the US Forest service logged Section 34, which included [Henrietta's Woods](/Run/Henrietta's-Woods) and "No-Name-Woods." These areas are now known as "Henrietta's Meadow and [Walter's Woods](/Run/Walter's-Woods). The gulley between the two has been christened [RBCSA (Retroactive Birth Control Society of America) GULCH](RBCSA-Gulch) and the cross-country ski trail labeled [Al's Fringe](Al\'s-Fringe).
+A very important change to the Meany vicinity was made in the summer when the US Forest service logged Section 34, which included [Henrietta's Woods](/Run/Henrietta's-Woods) and "No-Name-Woods." These areas are now known as "Henrietta's Meadow and [Walter's Woods](/Run/Walter's-Woods). The gulley between the two has been christened [RBCSA (Retroactive Birth Control Society of America) GULCH](/Area/RBCSA-Gulch) and the cross-country ski trail labeled [Al's Fringe](Al\'s-Fringe).
 
 In September, a gigantic Wolf gas kitchen range with two large ovens was somehow hauled into Meany's kitchen.
 
@@ -33,7 +33,7 @@ Alaska Weekend went over big with a greased pole contest, a gorp presentation, A
 
 Another notable weekend was the Leap Day Bonanza where Hildegarde Hamhocker of Tumbleweeds (played by [Bob Bentler](/Person/Bob-Bentler)) and Sadie Hawkins from Dogpatch (portrayed by [Norm Vigus](/Person/Norm-Vigus)) invaded to choose a mate from among the many Meany eligibles. Other skit characters were the minister ([Dave Claar](/Person/Dave-Claar)) and the victim (Charlie Vail). Walter B. Little walked away with the Bachelor of the Year Award with Norm Vigus as runner-up. Bob Bentler showed Super 8 movies of Walt and Norm to prove why they should be winners.
 
-The annual [Carnivale di Meany](Carnival) was again a superb event as master-minded by [Patti Polinsky](/Person/Patti-Polinsky). In addition to skiing events there were corny contests and crazy races, a clowns contest, and a "European Feast" complete with German hot potato salad and homemade European pastries, pretzels and breadsticks.
+The annual [Carnivale di Meany](/Event/Carnival) was again a superb event as master-minded by [Patti Polinsky](/Person/Patti-Polinsky). In addition to skiing events there were corny contests and crazy races, a clowns contest, and a "European Feast" complete with German hot potato salad and homemade European pastries, pretzels and breadsticks.
 
 Fall work parties installed a second hot water tank, painted the "cats" and started the enormous task of cleaning "Walter's Woods" and "Henrietta's Meadow". In addition to the usual fall maintenance and upkeep. After long negotiations with the railroad, we gained final approval installed a gate below the railroad to help cut down on vandalism
 
@@ -55,7 +55,7 @@ Much of the hill was brushed and a new bridge was placed across Tombstone Canyon
 
 ## 1981
 
-Winter 80-81 ski season was washed away by rain, but Meany did manage to open in February and March for a few weekends of skiing on new fallen but sparse snow. The [tow hut](Tow-Hut) logs shows "Mach" tow was operated for only 50 hours in 80-81 ski season. By the time this article was written on Jan 10, 1982, the 81-82 ski season had already used the "Mach" tow for sixty hours.
+Winter 80-81 ski season was washed away by rain, but Meany did manage to open in February and March for a few weekends of skiing on new fallen but sparse snow. The [tow hut](/Building/Tow-Hut) logs shows "Mach" tow was operated for only 50 hours in 80-81 ski season. By the time this article was written on Jan 10, 1982, the 81-82 ski season had already used the "Mach" tow for sixty hours.
 
 In August over a hundred Meanyites met at Gasworks Park in Seattle for an potluck and reunion.
 
@@ -75,7 +75,7 @@ Also during the Christmas week, an Indiana man, Tom McCart, won the "Uno Champio
 
 Record crowds were drawn to Meany this season by plentiful snow, fantastic skiing, terrific ski lessons with capacity classes taught by [Patti Polinsky](/Person/Patti-Polinsky), [Dave Claar](/Person/Dave-Claar) and Kim Nelson, vigorous folk dancing, extremely talented musicians and entertaining skits and programs.
 
-One of the biggest thrills was Dick Curran's 50 ft aerial ride which was the last leg of an obstacle course he set up for the [Carnivale di Meany](Carnival). The Spring Carnival has an Austrian flavor as Patti Polinsky masterminded "zillertal" activities. This enormous undertaking included a hill-wide scavenger hunt, snow golfing, bow and arrow rivalry, a been carry, slow slalom course, Frisbee toss, snake follow, inner-tube run, kids "costume" parade, an authentic Austrian dinner, a huge "Konditorei" pastry table, a lavish luncheon completer with fancy vegetable nibbles and homemade breadsticks and pretzels and a "lively" folk dance stimulated by Meany's gifted Musicians.
+One of the biggest thrills was Dick Curran's 50 ft aerial ride which was the last leg of an obstacle course he set up for the [Carnivale di Meany](/Event/Carnival). The Spring Carnival has an Austrian flavor as Patti Polinsky masterminded "zillertal" activities. This enormous undertaking included a hill-wide scavenger hunt, snow golfing, bow and arrow rivalry, a been carry, slow slalom course, Frisbee toss, snake follow, inner-tube run, kids "costume" parade, an authentic Austrian dinner, a huge "Konditorei" pastry table, a lavish luncheon completer with fancy vegetable nibbles and homemade breadsticks and pretzels and a "lively" folk dance stimulated by Meany's gifted Musicians.
 
 The proportion of cross-country skiers using Meany Lodge continues to increase. Al Alleman graciously donates the time and expertise to show people the fabulous ski trails in Meany vicinity. During work party season Al's crew labors to improve these trails.
 
@@ -83,21 +83,21 @@ During work party season, Meany women took charge of the "Ox" and the two hill "
 
 The new mattresses were hauled in and mattress covers sewn. The study was paneled. [Ray Nelson](/Person/Ray-Nelson) made two wooden couches and a bench for Meany's basement. the entire basement was remodeled adding several new drying areas and a first aid facility. Tom-Cat was refurbished with new paint, new canvas, new upholstery, and gorgeous Scandinavian designs on the ski boxes. In addition to "flowering" the ski boxes, Georgean Curran "rosemaled" the picture boards for Meany walls.
 
-A cross-country ski bridge was built built by the railroad tunnel. The Cat road to the lodge was straightened. A Gas House was added to the [Tow Hut](Tow-Hut). A new communications system was initiated. The Generator Hut received some carpentry. The pantry was rigged with wire mesh. Logs were winched off North. The trail from "Walter's Woods" to "North" was regraded. The bridge at the bottom of Tombstone canyon was improved.
+A cross-country ski bridge was built built by the railroad tunnel. The Cat road to the lodge was straightened. A Gas House was added to the [Tow Hut](/Building/Tow-Hut). A new communications system was initiated. The Generator Hut received some carpentry. The pantry was rigged with wire mesh. Logs were winched off North. The trail from "Walter's Woods" to "North" was regraded. The bridge at the bottom of Tombstone canyon was improved.
 
 ## 1983
 
 - Winter-Spring saw capacity crowds the entire season. Super snow and a large ski school gave Meany a full house and a waiting list every weekend.
 - Meany had super work party turnouts with 50,60, 60, 80, and 90 for each of the 5 weekends.
 - Because of sufficient snow, Meany was able to open the first week in December.
-- During the spring [Carnival](Carnival), the Average Race was both new and unusual. Everyone went through the race course and got a time. the average was figured and the person closets to the average won the race.
+- During the spring [Carnival](/Event/Carnival), the Average Race was both new and unusual. Everyone went through the race course and got a time. the average was figured and the person closets to the average won the race.
 - Meany began using new radio equipment for internal communications and backcountry rescue.
 - Phone Company went beyond the call-of-duty to check equipment and wires so that Meany has Telephone service again.
 - An improved crossing was built at "Tombstone Canyon."
 - Cat road from railroad to lodge was widened, straightened, and graded.
 - A special hill brushing work party cleared tombstone canyon of brush. This had not been done for many years.
 - Tow engine rebuilt.
-- Crews remodeled inside of [Tow Hut](Tow-Hut).
+- Crews remodeled inside of [Tow Hut](/Building/Tow-Hut).
 - A snowmobile is been made available for cross-country ski rescue.
 
 ## 1984
@@ -124,7 +124,7 @@ Dry summer with high fire danger. Fire at the south end of Lake Keechelus burned
 ## 1986
 
 - Clearing and grading was done for the "Turtle" tow. A 45 ft base pole, a head pole, and guy poles were set in place. Plans were made for installation of rope and drive equipment in 87.
-- New elevate "control tower" was built in front of the [tow hut](Tow-Hut), as required by insurance company and lift code. This "operator's hut" is heated and includes emergency shut-off switches.
+- New elevate "control tower" was built in front of the [tow hut](/Building/Tow-Hut), as required by insurance company and lift code. This "operator's hut" is heated and includes emergency shut-off switches.
 - Under the direction of Carsten Lien, internal telephone exchange was upgraded. Now a direct dial system connects the lodge, tow hut, cat house and top of the ski hill.
 - New fire prevention sprinkler heads were installed in the kitchen and at locations near smoke pipe from the furnace.
 - Dangerous trees were removed from the area near lodge. Steps were taken to protect Meany from a ground fire.

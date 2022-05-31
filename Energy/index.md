@@ -139,13 +139,13 @@ Rewire all basement electric circuits all of which were overloaded. Installed ne
 
 #### 1989
 
-Because of new code restrictions against buried fuel tanks, dug up 2 buried 500 gallon gasoline tanks used by "[Mach](/Run/Mach)". Cleaned, painted and reinstalled in two locations, one near [Cat House](Cat-House), one near [Tow Hut](Tow-Hut). Each station a 10' x 10' concrete block building, complete with wiring, plumbing and pump.<sup>[hw][]</sup>
+Because of new code restrictions against buried fuel tanks, dug up 2 buried 500 gallon gasoline tanks used by "[Mach](/Run/Mach)". Cleaned, painted and reinstalled in two locations, one near [Cat House](/Building/Cat-House), one near [Tow Hut](/Building/Tow-Hut). Each station a 10' x 10' concrete block building, complete with wiring, plumbing and pump.<sup>[hw][]</sup>
 
 Two aesthetically attractive concrete block houses were built to encase gas tanks above ground as the risk of rupture of underground tanks was considered too great. <sup>[hr][]</sup>
 
 #### 2001
 
-Constructed the [Propane Hut](Propane-Hut) to enclose a 500-gallon propane tank.<sup>[75th][]</sup>
+Constructed the [Propane Hut](/Building/Propane-Hut) to enclose a 500-gallon propane tank.<sup>[75th][]</sup>
 
 #### 2013
 
@@ -209,21 +209,21 @@ Tow Hut - gasoline - 8 in = 61 gallons
 | 2021-10-06 |   $857 |
 
 
-[75th]: Anniversary#75th
-[hr]: History-Reports "Meany History Reports, by Idona Kellogg"
-[hw]: History-Walt "Meany History, by Walt Little"
-[ma37]: Mountaineer-Annual#1937
-[ma46]: Mountaineer-Annual#1946
-[ma48]: Mountaineer-Annual#1948
-[ma51]: Mountaineer-Annual#1951
-[ma52]: Mountaineer-Annual#1952
-[ma53]: Mountaineer-Annual#1953
-[ma56]: Mountaineer-Annual#1956
-[ma62]: Mountaineer-Annual#1962
-[ma63]: Mountaineer-Annual#1963
-[ma78]: Mountaineer-Annual#1978
-[ma82]: Mountaineer-Annual#1982
-[ma91]: Mountaineer-Annual#1991
-[tp]: /Machine/Tomcat/Petition
-[rn13]: Mach-Tow-Electric-Motor
-[rn19]: Electrical-Power-System
+[75th]: /Event/Anniversary#75th
+[hr]: /History/Reports "Meany History Reports, by Idona Kellogg"
+[hw]: /History/Walt "Meany History, by Walt Little"
+[ma37]: /Mountaineer-Annual#1937
+[ma46]: /Mountaineer-Annual#1946
+[ma48]: /Mountaineer-Annual#1948
+[ma51]: /Mountaineer-Annual#1951
+[ma52]: /Mountaineer-Annual#1952
+[ma53]: /Mountaineer-Annual#1953
+[ma56]: /Mountaineer-Annual#1956
+[ma62]: /Mountaineer-Annual#1962
+[ma63]: /Mountaineer-Annual#1963
+[ma78]: /Mountaineer-Annual#1978
+[ma82]: /Mountaineer-Annual#1982
+[ma91]: /Mountaineer-Annual#1991
+[tp]:   /Machine/Tomcat/Petition
+[rn13]: /Mach-Tow-Electric-Motor
+[rn19]: /Electrical-Power-System

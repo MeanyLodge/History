@@ -12,7 +12,7 @@ Page One - Rough Draft
 
 Named in honor of Prof. Edmond S. Meany of U.W. who was Mountaineer President for 25 years; and who in 1927 bought the Meany property from the NPRR - 54 acres for $125 - and donated same to Mountaineers. He made only one stipulation; the property should not be used on Easter Sunday.
 
-### [Hell's Half-acre](Hell's-Half-acre)
+### [Hell's Half-acre](/Area/Hell's-Half-acre)
 
 This patch of ground is north of the Lane and south of Cognito Wood. At the time of purchase of Meany, there was second growth brush timber on it. All the timber had been logged in 1886 by the NPRR so as to clear the area for "Tunnel City", their campsite. In about 1930, Mountaineers cleared the brush and second growth in order to get some open skiing area near Meany Ski Hut. Because the work was done in some exceptionally hot weather, the area became known as "Hell's Half-acre." The area is again partially regrown, and the name has disappeared from present usage.
 
@@ -32,7 +32,7 @@ One of the things which attracted the Mountaineers to the Meany site was the ope
 
 Ski racing was popular early on, though it has now disappeared. In the early 1940's a downhill race trail was completed from Meany Woods to the present Cornice Area above Lower Slobbovia, thence past the present Headpole, thence to Railroad Curve and down the traverse to Kitchen Run, and thence to finish at the Back Porch. The downhill trail has not been raced for many years and the name has disappeared from modern use. Parts of the trail are now parts of runs with other names.
 
-### [Railroad Curve](Railroad-Curve)
+### [Railroad Curve](/Area/Railroad-Curve)
 
 from this sharp curve to the right on the old downhill trail a skier could stop and look directly down on the old Martin RR station. If you didn't make it around the "curve", you had a good chance of landing on the "railroad."
 
@@ -56,7 +56,7 @@ Lies between Lane and Kitchen Run. Has been considerably thinned and trimmed. St
 
 This trail starts at northeast edge of Lane - straight down a steep slope to northeast of Kitchen Run. Much clearing on this slope was done by Messrs. Doug "Damn" and Art "Nation".
 
-### Railroad Creek/[Stampede Creek](Stampede-Creek)/Meany Creek
+### Railroad Creek/[Stampede Creek](/Area/Stampede-Creek)/Meany Creek
 
 It's all the same creek; the one coming down over the RR tunnel entrance in a spectacular waterfall. The different names have appeared on different old maps. Most Meanyites call it "Railroad Creek." Present U.S. Forest Service has it as "Stampede Creek", and this name will likely prevail.
 
@@ -72,43 +72,43 @@ On the south side - directions in Slobbovia are the same as directions in the U.
 
 On the north side - ditto, ditto, ditto.
 
-### [Tombstone Canyon](Tombstone-Canyon)
+### [Tombstone Canyon](/Area/Tombstone-Canyon)
 
 Runs down the center of Slobbovia - so named because many Slobbovians have dug their own graves in it.
 
-### [Bullmoose Ridge](Bullmoose-Ridge)
+### [Bullmoose Ridge](/Area/Bullmoose-Ridge)
 
 named after General Bullmoose of USA, who always got the worst of his business dealings with the Slobbovians. General Bullmoose was a take-off on "Engine Charley" Wilson, who said, "What's good for General Motors is good for the USA." General Bullmoose said, "What's good for Bullmoose is good for everybody."
 
-### [Druthers Gulch](Druthers-Gulch)
+### [Druthers Gulch](/Area/Druthers-Gulch)
 
 named after the Lower Slobbovian diet. Since there was nothing to eat, Lower Slobbovians always said, "I druther eat this; I druther eat that." This is the short gully between South Slobbovia and Bullmoose Ridge.
 
-### [Phogbound Gulch](Phogbound-Gulch)
+### [Phogbound Gulch](/Area/Phogbound-Gulch)
 
 named in honor of Senator Jack S. Phogbound; Lower Slobbovia's representative to the Senate of the Hew Hess hay. This is the long narrow gully on the south side of South Slobbovia.
 
-### [Lower Slobbovia National Park](Lower-Slobbovia-National-Park)
+### [Lower Slobbovia National Park](/Area/Lower-Slobbovia-National-Park)
 
 This was a small lone hemlock, branches on one side only, that lived for a while in the center of Lower Slobbovia. After Senator Phogbound - at a special hearing - had this declared a national park, it was cherished and guarded. Signs appeared; "Keep Slobbovia Green - bring money." "Keep off." "No dogs allowed." It finally fell down one winter.
 
-### [Iggle's Nest](Iggle's-Nest)
+### [Iggle's Nest](/Area/Iggle's-Nest)
 
 This rocky lump on the side of North Slobbovia was named for the Lower Slobbovian "Iggle", a creature with a large blue head, no feathers, no body, two large clawed feet, that somehow can fly anyway.
 
-### [Green Pastures](Green-Pastures)
+### [Green Pastures](/Area/Green-Pastures)
 
 between North Slobbovia and upper Tombstone. Slobbovians presumably ascend this slope on their way to heaven.
 
-### [Jacob's Ladder](Jacob's-Ladder)
+### [Jacob's Ladder](/Area/Jacob's-Ladder)
 
 Bonneyville Power thinks this is a transmission line tower, but Slobbovians know better. If you climb the rungs and grab one of the big wires at the top, you go to heaven fast.
 
-### [Brockman's Knob](Brockman's-Knob)
+### [Brockman's Knob](/Area/Brockman's-Knob)
 
 High point just above the water supply dam. Bill Brockman came down the upper part of South Slobbovia too fast, attempted to stop on this knob - failed - and when last seen was trying to get his edges to bite on thin air.
 
-### [9-G Pullout](9-G-Pullout)
+### [9-G Pullout](/Area/9-G-Pullout)
 
 This is a very steep slope from Brockman's Knob straight down to the water supply. When snow is deep, the trick is to run this absolutely straight, until at the last minute a turn is made down the canyon. The centrifugal acceleration force in this turn is estimated at 9-G's. Those who fail to turn make a tunnel into the opposite bank, under North Slobbovia.
 
@@ -124,7 +124,7 @@ Just to the south of Henrietta's Meadow.
 
 Patch of woods to southeast of Mach Tow. Skiing in here frequently leads to a split personality; hence schizophrenia; hence ski Soffreenia; hence Soffreenia Wood.
 
-### [Yellow Rock](Yellow-Rock)
+### [Yellow Rock](/Area/Yellow-Rock)
 
 Semi-cliff in Soffreenia Wood. Over steep character of the short pitches off this area are character testing. Frequent refusals to accept this challenge created the name and fame. As Rolf said, "Yellow Rock before you go off, Brown Rock after you go off."
 
@@ -152,7 +152,7 @@ Traverse trail from the outer limits of RR Meadows back to bottom of Mach Tow. S
 
 farthest West (left) trail in RR Meadows.
 
-### [Couloir](Couloir)
+### [Couloir](/Area/Couloir)
 
 shallow gulch running down center of RR Meadows.
 
@@ -160,7 +160,7 @@ shallow gulch running down center of RR Meadows.
 
 Harvey Mahalko was supposed to be grading this area leaving some trees, that is. But Harvey hates trees, so he cut them all, leaving an open slope.
 
-### [Danny's Woods](Danny's-Woods)
+### [Danny's Woods](/Area/Danny's-Woods)
 
 Upper southeast corner of RR Meadows, dedicated to the expertise of Dan Thompson, our only professional logger.
 
@@ -172,7 +172,7 @@ This is the section of the old downhill trail which runs from the headpole to RR
 
 Continuation of the Nose steeply down to Psychopath. A fall here is known as "blowing the Nose."
 
-### [Karen's Corridor](Karen's-Corridor)
+### [Karen's Corridor](/Area/Karen's-Corridor)
 
 Straight down a steep pitch from RR curve. Karen Bergman always fell off the original Psychopath at this corner. Karen's Corner became Karen's Corridor when the run above her corner was cleared.
 
@@ -180,11 +180,11 @@ Straight down a steep pitch from RR curve. Karen Bergman always fell off the ori
 
 a short section of Psychopath along a steep side hill, where the girls dug the trail.
 
-### [Ferguson Pool](Ferguson-Pool)
+### [Ferguson Pool](/Area/Ferguson-Pool)
 
 In Stampede Creek just below Harvey's Slot. It's a pool formed behind an old RR dam built in 1886. Named in honor of Stu Ferguson, who could not resist skiing down into it, thereafter making his way - roped up - all the way down.
 
-### [Richard's Ravine](Richard's-Ravine)
+### [Richard's Ravine](/Area/Richard's-Ravine)
 
 Steep gully just below Liberation Way. Named in honor of Richard Svensson, who, on a day with three feet of new snow, fell off the Psychopath down the ravine and took three hours emerging.
 
@@ -208,19 +208,19 @@ A thiokol snow tractor obtained - a really good scrounge job - in 1977 for the p
 
 A way bulldozed up through Cognito Wood in 1978 to allow the Pack Rat to achieve greater elevation on the Lane - the more the machine packing, the less the foot packing.
 
-### [Weasel Creek](Weasel-Creek)
+### [Weasel Creek](/Area/Weasel-Creek)
 
-Road [212 A](420), on which the Tom Cat tracks its way back and forth, crosses this side creek at about 0.8 miles from Meany. So named because the U.W. "Weasel" fell into it one Sunday night, and the efforts of all the University kids never did extract it. Some did not get home ‘til 6A.M. Monday. The "Weasel" served the UW ski area - long since discontinued.
+Road [212 A](/Area/420), on which the Tom Cat tracks its way back and forth, crosses this side creek at about 0.8 miles from Meany. So named because the U.W. "Weasel" fell into it one Sunday night, and the efforts of all the University kids never did extract it. Some did not get home ‘til 6A.M. Monday. The "Weasel" served the UW ski area - long since discontinued.
 
-### [Two Pipe Creek](Two-Pipe-Creek)
+### [Two Pipe Creek](/Area/Two-Pipe-Creek)
 
 About one-fourth mile west of the point where the Tom Cat road crosses the Milwaukee RR. Two heavy concrete culvert pipes take the creek under the road. Location of frequent floodings.
 
-### [Edifice Wreck](Edifice-Wreck)
+### [Edifice Wreck](/Area/Edifice-Wreck)
 
 Small shack built below RR track to store gasoline for the Tom Cat. Built in 1960 by some students who at the time were working their way through the Greek classic tragedy "Oedipus Rex." Forgive them the pun - even a little humor is better than none...
 
-### [Con-Rod Curve](Con-Rod-Curve)
+### [Con-Rod Curve](/Area/Con-Rod-Curve)
 
 This is on the Tom Cat road - 212 A to you - just east of the Yakima River bridge. It was here on a horrible Sunday night in 1976 that a connecting rod burst through the side of the Tom Cat engine block. It was about eight p.m., raining, dark, sleet crust all over, crying kids, mad parents, the works. Believe it or not, a new engine was in the tractor by Wednesday night, and the hut opened the next weekend as usual.
 
@@ -232,6 +232,6 @@ In the summer of 1978 the Forest Service logged Section 34 which included a patc
 
 A cross-country ski trail designed by Al Alleman that traverses the bottom of "Walter's Woods" and resembles Al's hairline.
 
-### [RBCSA Gulch](RBCSA-Gulch)
+### [RBCSA Gulch](/Area/RBCSA-Gulch)
 
 The steep gully in the newly logged Section 34 between "Henrietta's Meadow" and "Walter's Woods." RBCSA means Retroactive Birth Control Society of America.

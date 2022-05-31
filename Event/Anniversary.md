@@ -3,15 +3,28 @@ title: Anniversary
 category: Event
 ---
 # Anniversary
-## 50th
-- 1978, see [Mountaineer Annual 1978](Mountaineer-Annual#1978)
 
-<img src="/img/1978-Meany-B-day.png" alt="Meany Birthday Party Banner">
+## 100th
 
----
+Coming in 2028!
+
+#### Ideas for Meany 100th Celebration
+
+- Railroad
+    - Railroad train ride to Meany. See [Railroad-Buffs](/Railroad-Buffs)
+    - Hike of old switchback route
+- Where to fit hundreds of people?
+- Write "100 Years of Meany"
+- Campus tour
+    - signage for ski runs
+    - plaques for machines, buildings, ...
+
+
 <img src="/img/2003-75th-Parking.png" alt="Meany 75th parking" align="right" style="width: 50%;">
 ## 75th
 Held in 2003
+
+[PDF Scan of Promo Brochure](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2003-Meany-75th.pdf)
 
 #### Meany's Tom-Cat
 
@@ -186,9 +199,9 @@ Wild Bill Maxwell stopped on purpose,
 Because he didn't want to win his own darn cup.
 ````
 
-#### [Innovative Programs are found at Meany Lodge](Innovative-Programs-are-found-at-Meany-Lodge)
+#### [Innovative Programs are found at Meany Lodge](/Innovative-Programs-are-found-at-Meany-Lodge)
 
-#### [Milestones from 75 years at Meany Lodge](Milestones-from-75-years-at-Meany-Lodge)
+#### [Milestones from 75 years at Meany Lodge](/Milestones-from-75-years-at-Meany-Lodge)
 
 #### Two Boards
 
@@ -230,11 +243,11 @@ Inscribe on my tomb what I sing:
 1st chorus
 ````
 
-#### [Zoo](Zoo)
+#### [Zoo](/Building/Zoo)
 
-A traditional Meany custom is to endearlingly name our mobile machinery after an appropriate animal. The zoo houses some of our animals and any at one time or another when they need some tending to. The zoo can also be used for sheltered activities such as [MOFA](MOFA) and the [Mushroom society's](Mushroom-Weekend) weekend for display tables, etc.
+A traditional Meany custom is to endearlingly name our mobile machinery after an appropriate animal. The zoo houses some of our animals and any at one time or another when they need some tending to. The zoo can also be used for sheltered activities such as [MOFA](MOFA) and the [Mushroom society's](/Event/Mushroom-Weekend) weekend for display tables, etc.
 
-#### [Cat House](Cat-House)
+#### [Cat House](/Building/Cat-House)
 
 It was built in 1980 just south of the Hut and the Industrial Park. It has three levels, the upper two are used for tools and parts storage. The main floor is a shop to support repairs on the Cat, the Rat, Mouse, and all the animals; therefore the name "Cat House". The committee has so far resisted the idea of installing a red light by the entrance. After the day's work was done it became the source of Walt Little's famous boxed "Spring Water", supplied by Franzia, which he supplied with a mischievous grin.
 
@@ -302,15 +315,15 @@ Accessories for climbing trees or wooden poles for limbing or installing stuff.
 
 Built in 2001, it has two rooms, one for a 1500 gallon diesel tank for Dino, the hill grooming machine, and the other houses the gas tank for the tow hut engine.
 
-#### [Gas House](Gas-Hut)
+#### [Gas House](/Building/Gas-Hut)
 
 Gasoline refueling station for all our animals except Dino.
 
-#### [Propane Hut](Propane-Hut)
+#### [Propane Hut](/Building/Propane-Hut)
 
 Built in 2001. Tank capacity is 500 gallons and will last through a season. The tank replaces several smaller tanks, which were kept in the generator hut nearby and did not meet today's safety code requirements.
 
-#### [Tow Hut](Tow-Hut)
+#### [Tow Hut](/Building/Tow-Hut)
 
 Houses the driving machinery for Meany's "Mach Tow." Build in 1938. Present engine: 1960 6 cyl. 292 hp. Chevy. Total length of rope is 2500 feet. Length of uphill trip is about 1000 feet with about 420 feet elevation gain. Presently used top speed is 16 mph, as allowed by state authority. Previously the top speed was 19+ mph, but it could and occasionally was shifted to 30 mph. When propelled up the hill at such speeds it seems as if one was approaching the speed of sound–hence the name "Mach Tow."<sup>[75th][]</sup>
 
@@ -318,7 +331,13 @@ Houses the driving machinery for Meany's "Mach Tow." Build in 1938. Present engi
 
 This heavy duty 2-speed snowmobile was bought new by Al Alleman and donated to Meany. It's used for errands, individual transportation to worksites, etc. and thrills and chills. [Dave Claar](/Person/Dave-Claar) uses the mouse to tow the track setter for the groomed X-Country trail starting just below the hut. Can't come out now. It hibernates in summer.
 
-#### [Generator Hut](Generator-Hut)
+#### [Generator Hut](/Building/Generator-Hut)
 
 This gasoline engine driven 5,000 watt generator is used for emergency power when our normal power fails us due to inclement weather, accident or maintenance problems. This unit does not start automatic but must be started manually.
+
+---
+
+<img src="/img/1978-Meany-B-day.png" alt="Meany Birthday Party Banner">
+## 50th
+- 1978, see [Mountaineer Annual 1978](/Mountaineer-Annual#1978)
 

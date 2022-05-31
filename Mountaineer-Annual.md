@@ -489,7 +489,7 @@ These winters also saw the beginning of ski races at Meany. The cross-country ra
 
 This pattern of activity continued for the next several years, the tours expanding until trips from the Lodge to Meany or vice versa became almost commonplace, a party of public-spirited members having marked the route by orange-colored tin shingles high on trees and placed so that one was always in sight ahead.
 
-The intervening summers were spent in clearing [Hell's Half-acre](Hell's-Half-acre), laying and relaying water lines and other necessary work. In 1931 two loggers from Easton contracted to fall the trees from the cornice down to the clearing for $100 and so the lane was created. Unfortunately the loggers were careless, or the trees perverse, for they fell in a jumble, requiring an outlay of another $100 the following summer to clean up the slash and reduce the fire hazard, which also improved the skiability.
+The intervening summers were spent in clearing [Hell's Half-acre](/Area/Hell's-Half-acre), laying and relaying water lines and other necessary work. In 1931 two loggers from Easton contracted to fall the trees from the cornice down to the clearing for $100 and so the lane was created. Unfortunately the loggers were careless, or the trees perverse, for they fell in a jumble, requiring an outlay of another $100 the following summer to clean up the slash and reduce the fire hazard, which also improved the skiability.
 
 At first the lower lane was used as a practice slope, the remainder being only a convenient means of going to and from the upper slopes of [Meany Hill](Meany-Hill). The more expert used its entire length to some extent but three or four climbs and descents were enough for even the strongest on any one day.
 
@@ -524,7 +524,7 @@ by Mrs Harry K. (/Person/Nashie) Iverson
 I REMEMBER the first time I came to Meany - for the New Year's celebration of 1934-5. Never in all my life had I met such a queer lot of people was my first impression. Their garb surely set them apart as being out of the ordinary.
 It didn't take long to figure out that outdoor sports were not their only interest; they had an interest in everything! After my day's work, it was interesting for me to sit in the shadows and see the romantic intrigue among the bachelors and spinsters, for there was plenty of it. No one paid much attention to the fact that they were being spied upon. My favorite vantage point was sitting underneath the dripping socks that were hung over the old coal stove which in those days provided the only drying facilities.
 
-There was never a dull moment and times haven't changed a bit. Come 11 o'clock, games and merriment of the evening were over and time to bed down. In the women's dorm we were nightly entertained by Sally's ballet dance costumed in fancy scanties. After breakfast some of the hardier skiers packed a lunch and took off for Mount Baldi which was an all day trip. The party consisted of Norm Engle, Herman Wunderling and Paul and Gertrude Shorrock. The less eager played around [Hell's Half-acre](Hell's-Half-acre) climbing up under their own steam.
+There was never a dull moment and times haven't changed a bit. Come 11 o'clock, games and merriment of the evening were over and time to bed down. In the women's dorm we were nightly entertained by Sally's ballet dance costumed in fancy scanties. After breakfast some of the hardier skiers packed a lunch and took off for Mount Baldi which was an all day trip. The party consisted of Norm Engle, Herman Wunderling and Paul and Gertrude Shorrock. The less eager played around [Hell's Half-acre](/Area/Hell's-Half-acre) climbing up under their own steam.
 
 On Washington's birthday, a three-day holiday, the hut was filled to capacity with 60 people. The rain came down in torrents keeping everyone inside, except a few who now and then would venture out for a breath of air and return soaking wet. Even so the roof billowed with hilarity, and chairman [Jack Hassock](/Person/Jack-Hossack) said: "Nashie, I bet you have never been housed with so many 'nuts' before!" He was right, but I will say this: they were and still are the greatest in the land.
 
@@ -575,7 +575,7 @@ p. 19
 
 MOUNTAINEER SKIING by [Fred Ball](/Person/Fred-Ball)
 
-I came to Seattle in November, 1927...During these years members branched out from the Lodge and Meany more and more when snow conditions were good as their proficiency increased. The Rock Slide and [Hell's Half-acre](Hell's-Half-acre) always had their quota of people practicing turns; but trips to Olallie Meadows, Silver Peak, Mirror Lake, Divide and Surveyors Lakes from the Lodge and to Baldy, Stampede Pass, the Power Line Cabin, and Meany Woods from Martin were frequently made by large and small groups. Also during this time the route from the Lodge to Meany was pioneered and then marked by orange tin shingles high on trees. This became a popular, if rugged, trip for the more hardy skiers.
+I came to Seattle in November, 1927...During these years members branched out from the Lodge and Meany more and more when snow conditions were good as their proficiency increased. The Rock Slide and [Hell's Half-acre](/Area/Hell's-Half-acre) always had their quota of people practicing turns; but trips to Olallie Meadows, Silver Peak, Mirror Lake, Divide and Surveyors Lakes from the Lodge and to Baldy, Stampede Pass, the Power Line Cabin, and Meany Woods from Martin were frequently made by large and small groups. Also during this time the route from the Lodge to Meany was pioneered and then marked by orange tin shingles high on trees. This became a popular, if rugged, trip for the more hardy skiers.
 
 Ski Races, 1929-1933
 
@@ -680,7 +680,7 @@ During the war years and gas rationing, trains made Meany the salvation of skier
 
 After hot soup and sandwiches back to the slopes again. And hill packing! "Everyone up as high as you can go, to sidestep the hill" calls the tow chairman over the speaker. To the rousing strains of the Deutschmeister Band, we tramp out long stairstep strips in the broken up hill, with a final sideslip to give a smooth slope.
 
-It's time for a run down [South Slobbovia](/Run/South-Slobbovia). From the top of the tow we traverse Green Pastures to Tombstone Canyon, cross to the Bull moose Glacier where some take off for a run down Bullmoose Ridge, but we "druther" cross Druthers Gulch and run Upper South Slobbovia. It's over the edge for a turn in the deep-sheltered powder of Phogbound Gulch, then back into S. Slobbovia for a fast run down the ridge to Brockman's Knob. A hard right turn around [Jacob's Ladder](Jacob's-Ladder) (power-line tower) brings us to wide open skiing over bumps and hollows. We finally cross the bridge over Tombstone Canyon and head back through the woods to the tow.
+It's time for a run down [South Slobbovia](/Run/South-Slobbovia). From the top of the tow we traverse Green Pastures to Tombstone Canyon, cross to the Bull moose Glacier where some take off for a run down Bullmoose Ridge, but we "druther" cross Druthers Gulch and run Upper South Slobbovia. It's over the edge for a turn in the deep-sheltered powder of Phogbound Gulch, then back into S. Slobbovia for a fast run down the ridge to Brockman's Knob. A hard right turn around [Jacob's Ladder](/Area/Jacob's-Ladder) (power-line tower) brings us to wide open skiing over bumps and hollows. We finally cross the bridge over Tombstone Canyon and head back through the woods to the tow.
 
 Daylight wanes, lights go on at the bottom of the hill, and [Lower Slobbovia](/Run/Lower-Slobbovia) is abandoned for a few last runs down the lower half of the [Lane](/Run/Lane) before dinner.
 
@@ -760,7 +760,7 @@ At Meany Lodge, the exceptional snowfall allowed the ski season to run from Chri
 
 A ski school has been started at Meany and is proving to be popular. With the successful advent of the little tow, the ski school will be expanded to include the beginning skier.
 
-The work parties in September, October and November were well attended and productive. A section of the road used by the sno-cat was relocated. The [tow hut](Tow-Hut) was resided and decorated in a Bavarian style.
+The work parties in September, October and November were well attended and productive. A section of the road used by the sno-cat was relocated. The [tow hut](/Building/Tow-Hut) was resided and decorated in a Bavarian style.
 
 
 ## [1976](https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1976)
@@ -911,7 +911,7 @@ With all ready and waiting, Meany Ski Hut anticipates a super season for the yea
 
 p. 156
 
-Winter 1981 ski season was washed away by rain, but Meany Ski Hut did manage to open in February and March for a few weekends of skiing on new fallen but sparse snow. The Meany [tow hut](Tow-Hut) log shows the "mach" (speed of sound) tow was operated for only fifty hours in 1981. By the time this article was written on Jan. 10, 1982, the 1982 ski season had already used the "mach" tow for sixty hours.
+Winter 1981 ski season was washed away by rain, but Meany Ski Hut did manage to open in February and March for a few weekends of skiing on new fallen but sparse snow. The Meany [tow hut](/Building/Tow-Hut) log shows the "mach" (speed of sound) tow was operated for only fifty hours in 1981. By the time this article was written on Jan. 10, 1982, the 1982 ski season had already used the "mach" tow for sixty hours.
 
 Since the 1980 Meany work party season had been so productive (see July, 1981 Mountaineer Annual for accomplishments), the Meany 1981 Fall work party season found much ready and waiting for a good snow. However, the list of 1981 achievements is still impressive.
 
@@ -945,7 +945,7 @@ During work party season, Meany women took charge of the "Ox" and the two hill "
 
 The list of accomplishments during work party season is impressive. New mattresses were hauled in and mattress covers sewn. The study was paneled. Ray Nelson made two wooden couches and a bench for Meany's basement. The entire Meany basement was remodeled adding several new drying areas and a first aid facility. The Bombardier was refurbished with new paint, new canvas, new upholstery, and gorgeous Scandinavian designs on the ski boxes. In addition to "flowering" the ski boxes, Georgean Curran "rosemaled" the picture boards for Meany walls.
 
-A cross-country ski bridge was built by the railroad tunnel. The Cat road to the lodge was straightened. A Gas House was added to the [Tow Hut](Tow-Hut). A new communications system was initiated. The Generator Hut received some carpentry. The pantry was rigged with wire mesh. Logs were winched off North. The trail from Walter's Woods to North was regraded. The bridge at the bottom of Tombstone Canyon was improved.
+A cross-country ski bridge was built by the railroad tunnel. The Cat road to the lodge was straightened. A Gas House was added to the [Tow Hut](/Building/Tow-Hut). A new communications system was initiated. The Generator Hut received some carpentry. The pantry was rigged with wire mesh. Logs were winched off North. The trail from Walter's Woods to North was regraded. The bridge at the bottom of Tombstone Canyon was improved.
 
 
 ## [1983-1990](https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1983-1990)
@@ -970,7 +970,7 @@ Meany Ski Hut, built on land donated by President Meany at Martin, was dedicated
 
 p. 125
 
-The most isolated of the properties, Meany Lodge increased its service to The Mountaineers by hosting Murder Mystery Weekends (including one for our singles which filled up all 65 of its slots within two hours), [MOFA](MOFA) weekend training sessions, [Mountain Bike Workshops](Mountain-Bike-Workshops), [Rail Road Buff](Railroad-Buffs) gatherings, and the ever-popular [Wild Mushroom Hunt](Mushroom-Weekend). Of course, the [Ski School](Ski-School) and our telemark weekends are as popular as ever.
+The most isolated of the properties, Meany Lodge increased its service to The Mountaineers by hosting Murder Mystery Weekends (including one for our singles which filled up all 65 of its slots within two hours), [MOFA](MOFA) weekend training sessions, [Mountain Bike Workshops](Mountain-Bike-Workshops), [Rail Road Buff](Railroad-Buffs) gatherings, and the ever-popular [Wild Mushroom Hunt](/Event/Mushroom-Weekend). Of course, the [Ski School](Ski-School) and our telemark weekends are as popular as ever.
 
 The major project completed was the excavation of about a fourth of the basement and the construction of a new classroom in its place.
 

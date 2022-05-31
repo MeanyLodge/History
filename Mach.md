@@ -94,7 +94,7 @@ Complete relocation, begun in 1955. Head pole moved south about 200' and 30' hig
 
 #### 1957
 
-Completed relocation of Mach Tow. New [Tow Hut](Tow-Hut) moved 150' north on ground 20' lower. Vertical now 430'. Chev. engine moved from previous tow hut. <sup>[hw][]</sup>
+Completed relocation of Mach Tow. New [Tow Hut](/Building/Tow-Hut) moved 150' north on ground 20' lower. Vertical now 430'. Chev. engine moved from previous tow hut. <sup>[hw][]</sup>
 
 #### 1958
 
@@ -139,7 +139,7 @@ Erect quarter pole halfway between tow hut and midway with halyards and hooks to
 
 #### 1975
 
-Overhaul engine, new camshaft, ground valves. New counter weight located in [Tow Hut](Tow-Hut). <sup>[hw][]</sup>
+Overhaul engine, new camshaft, ground valves. New counter weight located in [Tow Hut](/Building/Tow-Hut). <sup>[hw][]</sup>
 
 #### 1976
 
@@ -166,7 +166,7 @@ Overhaul engine, new camshaft, ground valves. New counter weight located in [Tow
 
 #### 1981
 
-New mounting for lower pulley at [Tow Hut](Tow-Hut) to control rope twist. <sup>[hw][]</sup>
+New mounting for lower pulley at [Tow Hut](/Building/Tow-Hut) to control rope twist. <sup>[hw][]</sup>
 
 #### 1982
 
@@ -174,7 +174,7 @@ Some of the poles for were replaced. <sup>[ma82][]</sup>
 
 - Realigned 4" X 4" steel track on front of tow hut <sup>[hw][]</sup>
 - Added 7' X 8' lean-to on North corner of tow hut for gas station and line hardware
-- Construct wheelways in basement of [Tow Hut](Tow-Hut) for winter storage of [Ox](/Machine/Ox)
+- Construct wheelways in basement of [Tow Hut](/Building/Tow-Hut) for winter storage of [Ox](/Machine/Ox)
 
 ####
 
