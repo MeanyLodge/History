@@ -131,7 +131,7 @@ Dry summer with high fire danger. Fire at the south end of Lake Keechelus burned
 - Power lines were revised to include dead end hardware at all trees. Disconnects were added at the power pole opposite the tow hut. Existing 5 KVA transformer was changed to 25 KVA transformer.
 - Ski hill lights were rewired.
 - A skiers outhouse erected behind tow hut.
-- [Nikki's Trail](/Run/Nikki's-Trail) and [Phil's Shortcut](/Phil's-Shortcut) came into existence.
+- [Nikki's Trail](/Run/Nikki's-Trail) and [Phil's Shortcut](/Run/Phils-Shortcut) came into existence.
 - Meany [Ski School](/Ski-School) enticed a record number of downhill skiers. Classes were filled to capacity. There were two sessions of four weeks each with super 8 movies of class members an important part of the Saturday night chalk-talks.
 - In February Meany held a Tunnel Party and Great Train Hunt. This was to celebrate 100 years since the first crew arrived at Stampede Pass to begin digging a 2 mile tunnel. Meany is built on the townsite established for the tunnel crews.
 - Hosted a successful Telemark clinic in March.
