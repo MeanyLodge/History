@@ -259,11 +259,11 @@ A small building appeared as if my magic at south side of industrial area in abo
 
 ## Other names to be included?
 
-Hand Written Addendum to Walt's list, perhaps by Dave Claar
+Hand Written Addendum to Walt's list, perhaps by [Dave Claar](/Person/Dave-Claar)
 
 * Cross Country trail crossing creek by Tunnel and following old railroad grade.
 * [Nikki's Trail](/Run/Nikki's-Trail)
-* Phil's cutoff
+* [Phil's cutoff](/Run/Phils-Shortcut)
 * Return road from Walt's Woods
 * S. Slobbovia turn pike
 * [Tow Operators Hut](/Building/Tow-Hut)
@@ -271,12 +271,12 @@ Hand Written Addendum to Walt's list, perhaps by Dave Claar
 * New rope tow
 * The Gopher
 * Drag
-* Roller for Packrat
-* the Wart - wood shed
+* Roller for [Packrat](/Machine/Pack-Rat)
+* [the Wart - wood shed](/Lodge/Wood-Room)
 * Telephone shack / [Telephone Cabin](/Building/Telephone-Cabin)
 * Three concrete pads (for Bombardier, Thiokol, and Tools)
 * Dungeon
-* the Tunnel - new ski room
+* the [Tunnel](/Lodge/Tunnel) - new ski room
 * [Generator Hut](/Building/Generator-Hut)
 * Garbage Pit, aka Black Bear Restaurant aka Bear Pit
 * Odie Park - Logged area below BNSF tracks.
