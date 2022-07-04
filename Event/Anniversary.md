@@ -24,7 +24,7 @@ Coming in 2028!
 ## 75th
 Held in 2003
 
-[PDF Scan of Promo Brochure](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/2003-Meany-75th.pdf)
+[PDF Scan of Promo Brochure](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/2003-Meany-75th.pdf)
 
 #### Meany's Tom-Cat
 
