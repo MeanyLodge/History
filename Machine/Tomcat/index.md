@@ -25,7 +25,7 @@ Haul people, gear, and supplies ~3 miles back and forth from the Crystal Springs
 - Capacity: ~100 persons (think: very long tow rope)
 - Acquired: 1961
 - Cost: $4,800
-- Manual: [Manual.pdf](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/tomcat/Manual.pdf)
+- Manual: [Manual.pdf](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/tomcat/Manual.pdf)
 
 ### Mechanics
 

@@ -85,4 +85,4 @@ Meany has been one of the better patronized of all Mountaineer activities; one o
 MEANY SKI HUT COMMITTEE
 [Harvey Mahalko](/Person/Harvey-Mahalko), Chairman
 
-[Original document](https://github.com/MeanyLodge/meanylodge.github.com/blob/master/reference/tomcat/1960%20Tomcat%20Petition.pdf)
+[Original document](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/tomcat/1960%20Tomcat%20Petition.pdf)
