@@ -92,6 +92,8 @@ Complete relocation, begun in 1955. Head pole moved south about 200' and 30' hig
 
 <img src="/Person/Walter-Little/1956-Walter-Little.jpeg" alt="Walter Little Memorial Tow" style="width: 40%;">
 
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/1956-Mach-Tunnel.jpeg" style="width: 60%">
+
 #### 1957
 
 Completed relocation of Mach Tow. New [Tow Hut](/Building/Tow-Hut) moved 150' north on ground 20' lower. Vertical now 430'. Chev. engine moved from previous tow hut. <sup>[hw][]</sup>
@@ -136,6 +138,12 @@ Installed new rope. American mfg Co. SS-R-200 poly dacron. <sup>[hw][]</sup>
 #### 1974
 
 Erect quarter pole halfway between tow hut and midway with halyards and hooks to raise tow ropes high above snow during unused periods. <sup>[hw][]</sup>
+
+#### 197?
+
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/197n-Greasing-Center-Pole.jpeg" style="width: 50%">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/197n-Greasing-Head-Pole.jpeg" style="width: 50%">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/197n-Head-Pole.jpeg" style="width: 50%">
 
 #### 1975
 
