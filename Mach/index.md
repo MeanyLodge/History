@@ -55,7 +55,7 @@ The Beast was propped up clear of the floor and had maple driving rims bolted on
 
 The old ski tow rope lasted the season and is even now waiting to start its fourth year...a new axle was provided for the tractor which we hope will result in a trouble-free season for the coming year. <sup>[ma41][]</sup>
 
-<img src="/img/194n-Head-Pole.jpeg" align="right" style="width: 40%">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/194n-Head-Pole.jpeg" align="right" style="width: 40%">
 #### 1943
 
 The tow tractor was given a thorough overhaul. 300 feet were added to the length, making it 1,100 feet long with a vertical lift of 300 feet. <sup>[ma43][]</sup>

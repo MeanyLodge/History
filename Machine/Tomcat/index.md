@@ -3,8 +3,8 @@ title: Tomcat
 category: Machine
 categories: Machine, Tractor
 ---
-<img src="/img/2020-TomCat-Front-Kate.jpeg" align="right" style="width: 51%;">
-<img src="/img/2020-TomCat-Rear-Kate.jpeg" align="right" style="width: 51%;">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2020-TomCat-Front-Kate.jpeg" align="right" style="width: 51%;">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2020-TomCat-Rear-Kate.jpeg" align="right" style="width: 51%;">
 # Tomcat
 ### Names
 - Snow Tractor <sup>[ma60][]</sup>

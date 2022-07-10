@@ -20,7 +20,7 @@ Coming in 2028!
     - plaques for machines, buildings, ...
 
 
-<img src="/img/2003-75th-Parking.png" alt="Meany 75th parking" align="right" style="width: 50%;">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/2003-75th-Parking.png" alt="Meany 75th parking" align="right" style="width: 50%;">
 ## 75th
 Held in 2003
 
@@ -337,7 +337,7 @@ This gasoline engine driven 5,000 watt generator is used for emergency power whe
 
 ---
 
-<img src="/img/1978-Meany-B-day.png" alt="Meany Birthday Party Banner">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/1978-Meany-B-day.png" alt="Meany Birthday Party Banner">
 ## 50th
 - 1978, see [Mountaineer Annual 1978](/Mountaineer-Annual#1978)
 

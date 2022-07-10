@@ -503,7 +503,7 @@ Almost imperceptibly through these years changes were developing in the pattern 
 
 Also the original conception of the hut as merely a shelter no longer met the popular demand. More active indoor entertainment required more space and so the second major change was made--the hut had its face lifted. In 1939 another concerted effort resulted in a 24x30-foot, three story addition with a basement containing a furnace, drying room, waxing room, washroom, and - at last! - inside plumbing.
 
-<img src="/img/1945-Meany-Ski-Hut.png" style="width: 40%;" align="right" alt="Meany Ski Hut, 1945">
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/1945-Meany-Ski-Hut.png" style="width: 40%;" align="right" alt="Meany Ski Hut, 1945">
 
 The main floor comprised a recreation room, with a ping-pong table, a phonograph and space for dancing or games. The second floor became sleeping quarters for men, the third floor comprising another innovation-married quarters. The addition increased the hut capacity to 75 people. A light plant had previously been installed and so life at Meany had indeed changed considerably.
 
