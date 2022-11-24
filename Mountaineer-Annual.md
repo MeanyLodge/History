@@ -950,6 +950,14 @@ The list of accomplishments during work party season is impressive. New mattress
 A cross-country ski bridge was built by the railroad tunnel. The Cat road to the lodge was straightened. A Gas House was added to the [Tow Hut](/Building/Tow-Hut). A new communications system was initiated. The Generator Hut received some carpentry. The pantry was rigged with wire mesh. Logs were winched off North. The trail from Walter's Woods to North was regraded. The bridge at the bottom of Tombstone Canyon was improved.
 
 
+## 1983
+
+PROPERTY DIVISION
+
+The highlights of 1983 for Meany Ski Hut are: (1) Winter-spring 1983 brought capacity crowds. Super snow and a large ski school gave Meany a full house and a waiting list each weekend. (2) Meany had super work party turnouts with 50, 60, 80, and 90 for the five weekends. (3) Because of sufficient snow, Meany was able
+to open the first week of December for skiing. (4) During the 1983 Spring Carnival the Averages Race was both new and unusual. Everyone went through the race course and got a time. The averages were figured and the person closest to the average won the race. (5) Meany began using new radio equipment for internal communications and backcountry rescue. (6) The telephone company went beyond the call-of-duty to check equipment and wires so that Meany once again has telephone service. (7) An improved crossing was built across Tombstone Canyon. (8) The tow track was improved. (9) The cat road from the railroad to the lodge was widened, straightened, graded. (10) A special hill brushing work party cleared Tombstone Canyon of brush; this had not been done for many years. (11) The tow engine was rebuilt. (12) Crews remodeled the inside of the tow hut. (13). A snowmobile is being made available for cross-country ski rescue.
+
+
 ## [1983-1990](https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1983-1990)
 
 p. 110
@@ -961,6 +969,8 @@ Meany Ski Lodge continues to operate their downhill rope tows, and in fact, has 
 Meany still runs a very busy downhill ski school through January and February and has added a cross country session as well. In addition, they offer clinics for telemarking as often as possible during the season.
 
 Another innovation at Meany has been the introduction of [MOFA](/Event/MOFA) classes. The entire MOFA course, practical exam and CPR are offered during two very full weekends at the lodge. Students have given the class rave reviews and seem to appreciate the chance to have their practicals in such a remote and realistic location.
+
+
 
 ## [1991](https://www.mountaineers.org/about/history/the-mountaineer-annuals/indexes-annuals-maps/the-mountaineer-1991)
 
