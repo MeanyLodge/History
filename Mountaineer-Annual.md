@@ -791,6 +791,8 @@ A highlight of the season was the Carnival weekend, which featured a "European F
 
 p. 80
 
+### Meany Ski Hut Celebrates Fifty Years
+
 Fifty years ago a dream came true-Meany Ski Hut was a reality! On Armstice Day, 1 928, Dr. Edmond S. Meany stood with 100 Mountaineers and guests to dedicate a 2-story shelter that had been built by weekend volunteers in two months of back-breaking labor.
 
 To build the hut, club members became carpenters, masons, and pack-horses hauling supplies by hand uphill 300 yards from the Northern Pacific Railroad at Martin to the Meany site. In addition to erecting a 20 x 50' 2-story frame building large enough for 50 people, they made tables and benches, brought in bed springs, mattresses, and other furniture, and even managed to pull a kitchen range weighing 1,700 pounds up the mountain with block and tackle.
@@ -841,7 +843,7 @@ The technical details were carried out with incredible smoothness. There was not
 
 The Birthday Weekend was another prime example of what can be accomplished by dedicated, hard-working, and determined volunteers. May that caliber of volunteer be with Meany for the next fifty years!
 
-Meany History
+#### Meany History
 
 by Walt Little
 
