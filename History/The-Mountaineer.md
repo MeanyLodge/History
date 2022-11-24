@@ -1,5 +1,37 @@
 
-### The Mountaineer, May 1978
+## The Mountaineer
+
+### Nov 1928
+
+DEDICATION OF OUR NEW SKI HUT, NOVEMBER 11, 1928
+
+At last the dream of The Mountaineers has been realized. The Club possesses a real Ski Hut. The two story building at Martin is finished. Stoves for cooking and heating have been installed. There are dishes on the shelves, tables for meals, benches to sit on, and steel double-tier bunks and new mattresses in the sleeping quarters. Every weekend of the past two months has seen a group of enthusiastic Mountaineers laboring as carpenters, masons, pack-horses, and thanks to their efforts the Hut is now ready for occupancy.
+
+Dedication exercises will be held at the Hut on Sunday, November 11, 1928. Doctor Edmond S. Meany will preside.
+
+Providing 130 sign up, a special train will be chartered, leaving King Street Station at 8 a. m. The Dedication ceremony will take place shortly after lunch, and the special train will not leave Martin until about 4 p. m. It will arrive in Seattle about 7:30 p. m. This will leave free time for everyone to add his bit to the work remaining-so bring along a hand axe for brushing out trails-a hammer or other tool.
+
+Expense on the special train will be $2.85 round trip fare from Seattle and $2.70
+from Tacoma, plus fifty cents for the hot lunch served at the Hut.
+
+About 50 persons can be accommodated for overnight. The total expense for overnight at the Hut will be $1.50. Regular trains leave King Street Station, Saturday, 4 p. m. and arrive at Martin at 7:15 p.m. where a hot dinner will be served on arrival. A fast train leaves King Street Station at 7:15 p. m., arriving at Martin at 10 p. m. We can obtain a special stop order on this train if six or more passengers are ticketed for Martin. Fare on these trains is $3.60 for the round trip from Seattle.
+
+Members of the overnight party bring sleeping equipment and flash or bug.
+
+Other committees have cooperated to keep this date, November 11, free for the Dedication-so all aboard for Martin! Sign up with your nearest Hut representative and make the special train a certainty.
+
+All reservations must be in before 9 p. m., Thursday, November 8.
+
+One feature of the Dedication Ceremonies will be a Potlatch for the infant Hut.
+Cooking utensils and dishes are already provided, also a First Aid Kit. But we crave a gorgeous, generous, comprehensive, presentation of almost any tool you can spare from your basement, garage, or tool-chest. Dig them up, polish and sharpen them if necessary, present them to the Hut and receive the blessings of future ski generations.
+
+Buckles, straps, rivets, shoe nails, shoe last, etc., may be included in this Potlatch.
+
+December 1, 2, 1928.
+
+If snow conditions are favorable, a ski party will be put on at the Hut, with proportionate reservations from Everett, Tacoma, and Seattle. Your Branch Committeemen will have the latest snow "dope", so keep in touch with
+
+### May 1978
 
 by Idona Kellogg
 
