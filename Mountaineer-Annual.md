@@ -519,7 +519,7 @@ p. 57
 
 My Years at Meany
 
-by Mrs Harry K. (/Person/Nashie) Iverson
+by Mrs Harry K. ([Nashie](/Person/Annie-Iverson)) Iverson
 
 I REMEMBER the first time I came to Meany - for the New Year's celebration of 1934-5. Never in all my life had I met such a queer lot of people was my first impression. Their garb surely set them apart as being out of the ordinary.
 It didn't take long to figure out that outdoor sports were not their only interest; they had an interest in everything! After my day's work, it was interesting for me to sit in the shadows and see the romantic intrigue among the bachelors and spinsters, for there was plenty of it. No one paid much attention to the fact that they were being spied upon. My favorite vantage point was sitting underneath the dripping socks that were hung over the old coal stove which in those days provided the only drying facilities.
