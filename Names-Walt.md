@@ -267,7 +267,7 @@ Hand Written Addendum to Walt's list, perhaps by [Dave Claar](/Person/Dave-Claar
 * Return road from Walt's Woods
 * S. Slobbovia turn pike
 * [Tow Operators Hut](/Building/Tow-Hut)
-* Bill Depository
+* Bill's Depository
 * New rope tow
 * The Gopher
 * Drag

@@ -169,3 +169,99 @@ The Hut has an ingenious cook, Peggy Grass, but most of the meal preperation and
 
 Meany's history is not yet complete. Stories of past people and events, names and addresses of Meany Old Timers, photos and other mementos are wanted. Contact Wanda Van DeVanter or Walt Little with such information.
 
+
+### November 1978
+
+Mountaineers to Dedicate New Ski Lodge
+
+by Idona Kellogg
+
+"Built largely by volunteer labor of club members, a new mountain lodge with accommodations for fifty men and women, will be dedicated by Seattle Mountaineers near Stampede Pass.
+
+"Business and professional men of Seattle and neighboring cities have been spending their Sundays for a month or more erecting the building, making tables and benches, hauling in bed springs and mattresses, etc. They even managed to haul in a kitchen range weighing 1,700 pounds by snaking it up the mountain side with block and tackle.
+
+"At the big potlatch following the dedication members are encouraged to present the hut with tools of all sorts and other items such as buckles, straps, rivets, shoe nails, shoe last, etc."
+
+Thus states newspaper clippings of Nov. 1928.
+
+September 23 - 24, 1978
+
+A half-century later, Mountaineers again invaded Martin to cheer Meany Ski Hut into its next fifty years. Five of the original Hut building crew participated in the Birthday ceremonies. They were: Gus Hudson, Harriet Taylor Tiedt, Opal Maxwell, and Andy and Kay Anderson.
+
+Bob Cram, old-time Meanyite and well-know cartoonist and television personality, hosted a lively hour of laughter and nostalgia as he interviewed past Hut Chairmen about "interesting!" events that occurred during their reign. The crowd also learned that Cram met his wife on Meany Hill - about the third tree up and courted her behind the generator eating cornflakes.
+
+Although Bob Cram emceed the program, it was Royce and Rhea Natoli who organized the agenda, contacted the participants, and cooked up musical and dance numbers and skits for the show. Virginia Reid was overall chairperson for the entire birthday
+
+Fred Ball, an energetic 80-year-old and the 1932 Hut Chairman, entertained the group by singing "Wild Bill Maxwell", a tale written by Art Winder in the 1930's about one of the best-loved and most colorful of Meany's early skiers. Much credit was given to "Max" for organizing the backbreaking labor necessary for building the Hut and clearing the lane. Maxwell's widow, Opal, proudly beamed in the audience as "Max's" story was told in song.
+
+1948 Hat Chairman, Malcolm Post, keenly recollected the early-day preparations for the winter - getting in the coal and the gas drums. He jokingly said, "Between a crew of girls moving the coal and another crew upon the hill cutting logs and the fellows pointing out where the logs should be put, we did pretty well."
+
+Bob Cram's imitation of "Charlie's" jungle noises in the men's dorm cracked up the crowd. As Cram said, "He had no rhythm to his snoring."
+
+Hut Chairman of 1955-56, Dick Merritt, with his "monologue," humorously gave his impressions of some of the "people problems" found at Meany.
+
+Bill Brocknan, 1953 Hut Chairman, told of some of the technical problems of getting highly-esteened, over-weight "Nashie", the cook, up the hill each weekend. She prepared the meals at Meany for over twenty years.
+
+"TImes were really gloomy at Meany in early 1960," Doug Damm, Hut Chairman at that time, recounted, "The trains stopped in March, 1960 and the rest of that season supplies had to be hand-carried all the way from the highway." Doug hilariously told the story of a test run behind Tom Van DeVanter's station wagon to determine how people would react to being towed in by the Cat on ropes. Apparently after a speedy start, a little panic, and a frantic call to "STOP Tom slammed on the brakes and the skiers all plowed into his open tailgate. "Out of that little experience came the obvious decision to elect Tom Chairman because he knew how to obey instructions," Doug concluded.
+
+Bob Cram said this of Walt Little, a 40-year veteran of Meany. "Walt was a pioneer in ski technique. Anything that was crazy Walt had already tried." Besides his many other contributions Walt also concocted many of the names around Meany Hill like "Psychopath" and "Lower Slobbovia!
+
+Mountainers President, Jim Sanford, after giving some warm welcoming remarks, had his turn at story-telling as he introduced present Hut Chairman, Ray Nelson. Ray has served for twelve years.
+
+Many, many others contributed to the program. Art Nation fiddled as dancers spun out the nine-pin reel. Steve Stout sang "In the Mountains", a song he'd Just written. The "Impoverished Players" portrayed by three skits 1) the Erection of Meany Hut, 2) Life at the present day Hut, and 3) Meany of the year 2023, with skiers arriving by airbus and being served by a robot.
+
+Other facets of the Birthday Weekend were just as outstanding as the Sunday program. There were the tours of Meany grounds and ski runs; Coleman Leuthy's mushroom identification treks; Films of Meany action shot by Bob Bentler, Doug Damm, and Roger Thayer; Album and picture exhibits; a
+Campfire Songfest led by Nancy Adams; and Folkdancing organized by Arne Svensson.
+
+And then there was the Salmon Dinner - delicious outdoor barbecued Salmon and all the fixins' perfectly prepared by Patti Polinsky-Claar and helpers.
+
+A gigantic birthday cake created by Idona Kellogg caused a few "oohs" and "ahs" as onlookers read the many signs posted near each miniature scene on the cake. The cake was meant to be a visual presentation of Meany history with the ski runs, rope tows, Hut, railroad tracks, etc, all cut out of cake or built with small ceramics and figurines. Thirty-five one pound cake mixes were used to make the monstrous cake. It tasted good too!
+
+435 people signed the guest register during the birthday weekend according to Wanda Van DeVanter in charge of registration.
+
+
+### March 1979
+
+#### Meany Remembrances
+
+by Fred W Ball
+
+I suppose there is some period in everyone's life which represents to them the "Good Old Days". To me this is the period between 1928 & 1935 when I spent almost every holiday and weekend at Meany. It was a wonderful period of companionship with many other congenial companions and friends. I wish it could have been possible for Bill Maxwell to be with us on this 50th birthday celebration for I can think of no one who did more than he to get Meany organized and going although there were many who contributed much to that end. He was indefatigable in recruiting work parties and his enthusiasm made him hard to refuse.
+
+In those days the railroad had a telegraph operator at Martin, which was classed as a "non-revenue station." It served as guardian of the tunnel and the operator passed respirators to the engine crews as they approached the tunnel. He also had a control mechanism which was to prevent more than one train entering at a time. The building of Meany Ski Hut was a benefit to the railroad since it would result in Martin becoming a "revenue station". Accordingly they were quite cooperative for several years and gradually reduced the fare from the original cost of $3.60 per round trip to a final low of $1.80. In addition they provided a special car at the end of the train whenever we had a party of 15 or more and this provided a setting for all kinds of impromptu entertainment usually including Paul Sharrock's rendition of "McNamara's Band" with enthusiastic audience participation. The ride home was actually too short! 
+
+The commissary was ordered each week by mid-week from a grocery and meat market at the Public Market and they delivered it to the baggage room at the depot. The first party then loaded it on the baggage car or if the quantity was small, in their own car and again unloaded it at Martin and packed it to the hut while breaking the trail. They also had to clear paths and get fires going to warm up the place. On those occasions when we did not have a private car on returning we had to get a board the regular cars and find seats as best we could, causing looks of amazement from the other passengers as we clambered aboard with skis, packs and usually covered with snow. In such cases the skis and packs were stowed in the vestibule. Their arrangement caused several amusing (not so amusing then!) incidents. On one occasion while the party was still getting aboard someone caught the bell cord with a ski and gave the engineer the "go" signal. Of course the engine was in the tunnel so he could not see behind him and also the track entered the tunnel on a curve. The ones left behind stared open-mouthed as the train pulled away leaving wives and husbands separated. There was no other train going west until about 2:30 AM and of course the husbands left behind usually had the car keys. I never heard how it all worked out but it was of great concern at the time. One of the wives aboard ask the conductor if they knew about this in Seattle and his reply was "Lady, they know about this in St. Paul".
+
+Quite a few Tacoma members also came up to Meany since they rode one train from Tacoma to Auburn and then transferred to the N.P. train for Martin. On one occasion, a Tacoma weekend, I was sleeping as the return train came into East Auburn and I awoke with a start thinking it was Auburn and all of the Tacoma people should get off. After hurrying them off, too late, I found it was East Auburn and they then had to hike about a mile to Auburn and I heard about it for quite a while and had to assure them that in the future I would leave the train management to the train crew.
+
+The railroad in those days was an integral part of our activities and was always included in any plans. On one occasion, a three day weekend, with the hut full to capacity we ran out of condensed milk, or any other kind, so Russ Nickerson and I walked through the train tunnel with our headlamps burning and bought a case of milk from the café there, and walked back to Meany. Usually helper engines hooked on the eastbound trains at Lester and dropped off at Easton. Telephone contact between the Hut and Martin station was made so we could find out whether the westbound train was on time or not. If not we had a little more time to ski or clean up.
+
+Maxwell and others found a small stream in a gully east of the Lane and enlarged a pool and built a cement dam to form a reservoir. They laid about 1000 feet of 2" galvanized pipe from the screened intake down to a gully behind the hut from which point it ran uphill to the Hut. The pipe was buried lightly or not at all and was supposed to be insulated by snow. However during my term of office an early period of very cold weather occurred with little or no snow. When the hut was opened, Lo! there was no water, but there was snow by that time. So the rest of that winter we melted snow so water conservation was in order. I spent five days between Christmas and New Year's that year digging up the pipe only to find that every joint was split for a foot or so. The following summer, Herb Strandberg laid out a new water line on contour to eliminate the low spot and so far as I know no other interruption has occurred.
+
+Maxwell had a subtle way of getting work parties out of bed in the morning in order to get to work as early as possible. He arose at 5:30 or 6 AM and went downstairs and started sharpening axes and other tools on the grind stone and after that no one could sleep. After construction of the hut the next project was to clear out the thick growth of vine maples between the hut and the lane, piling and burning the slack.
+
+After skiing begin much discussion arose Friday and Saturday night regarding the program for the next day. Some groups elected to go to Baldy, some to the Telephone Cabin, and others to the top of Meany Hill. Snow conditions of course had a bearing on these decisions. Lars Loveseth one time led a party of three to Stirrup Lake and back. Another time Maxwell, myself, Herb Strandberg, and Ben Moores went over the top of Meany Hill and down the other side into Cabin Creek where we found rough going having to follow the creek bed which was full of large boulders. Our plan was to reach the railroad to try and catch a freight train going up the grade to Martin and hopefully having slowed down enough by then so that we could get aboard. However by the time it reached us it was going faster than we could run in the snow and so we had to stand and watch it disappear up the truck leaving us no choice but to put our skis back on and slog up the track, reaching the Hut about midnight. 
+
+Max note: hut register, 2/19/32 "First and Last descent of Cabin Creek - 19 hours"
+
+Quite a lot of time was spent finding a suitable slope and practicing turns. The Telemark was still used in the deep snow. But mostly we were reading ski books and trying to apply what we read. Rudy Amsler was the example and was always ready to help anyone learn. The equipment we had was the best available and new was being imported from Norway at intervals. Our findings were Norwegian Haig or Gresvig with toe irons and a take up heel strap which left the heel free to lift. No down pull was used until the advent of the Armstatz heel spring which had moderate acceptance. I had one of the first Norwegian skis imported by Frederick and Nelson Dash – 7'3" Langloft model which I used for several years. Cost $14.95!
+
+On the occasion of one cross country race one of the contestants, Fred Gleason, twisted his ankle partway around the course and did not finish. Most of the party got on the train for home not knowing what happened to him and somehow the situation reached the newspapers and big headlines appeared "Mountaineers abandon injured companion", causing considerable consternation. Unknown to the people on the train however was the fact that several of the men had remained behind to go and look for Fred and help him down which they did. So no one was abandoned.
+
+Since there was no siding at Martin any material shipped there had to be unloaded and the track cleared before the next train was due so speed was essential. Also at that time there were several houses which were used by the section crew. These were later abandoned and moved out as was the station. In early days we sometimes went to Meany by driving to the east end of the Dam and then skiing across the dam to the Milwaukee tracks and so on to the road crossing at Whittier and up through the stampede Forest camp and too Meany. This was somewhat hazardous since the Milwaukee tracks ran through deep cuts and quite often high banks of snow so we had to be alert for snow plows which did not make much noise.
+
+The first chairman of the Meany Committee was Herman Wunderling, with Maxwell, Mabel McBain and Geo R Rice. They served during the fiscal year ending April 30.
+
+The next chairman was Bill Maxwell, with Edith Scott and Fred Ball, beginning May 1, 1929.
+
+May 1, 1930, saw Arthur Young as chairman with Francis Penrose and Fred Ball.
+
+May 1931 Fred Ball is chairman with Francis Penrose and Rusty Nickerson.
+
+May 1932 Tom Remy was appointed with Gwen Remy but he resigned in January 1933 and Maxwell replaced him and continued as chairman from 5/1/33 with Fred Ball.
+
+May 1, 1934 Russ Nickerson Chairman with Bill Carr
+
+October 1935 Jack Hassack annointed
+
+In February 1935 I moved to Wenatchee to work for the US forest service. I was only at Meany once or twice that winter. In August I moved to Ketchikan, ___ with the Forest Service and did not visit Meany again until 1937, briefly, and on my return to Seattle in 1941 when the ski world had changed completely. There was now a rope tow at Meany, inside plumbing, a furnace, even with "Married Quarters" yet! And by now the train had failed us completely so travel by car was the only way. So the old order changeth!
