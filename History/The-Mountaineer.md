@@ -220,7 +220,7 @@ A gigantic birthday cake created by Idona Kellogg caused a few "oohs" and "ahs" 
 435 people signed the guest register during the birthday weekend according to Wanda Van DeVanter in charge of registration.
 
 
-### March 1979
+### March-1979
 
 #### Meany Remembrances
 
