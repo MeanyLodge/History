@@ -654,6 +654,8 @@ When the Ski Committee was formed in 1927 its function was to assist in the deve
 
 p. 84
 
+<img src="https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/img/1968-Happiness-at-Meany.png">
+
 Happiness is Skiing at Meany-Or Where Else Can You Find a 2-1/2 Mile Long Rope Tow?
 
 It's 7:30 as we leave Seattle. It's cold and crisp with the morning sun shining on new snow in the Cascades. It looks like a great day for the Meanyites as we pass an endless succession of ski-school busses by count, 160, twice the number of people ever seen on [Meany hill](Meany-Hill). With Snoqualmie Pass behind us, it is 12 miles to the Stampede Pass exit road. To the left up Gold Creek are Huckleberry and Chikamin Peaks covered with a dusting of new powder snow.
