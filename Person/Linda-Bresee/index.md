@@ -2,7 +2,7 @@
 title: Linda Bresee
 category: Person
 categories:
-    - Author
+    - Historian
 ---
 <!--img src="/Person/$NAME/20YY.jpeg" style="width: 40%;" align="right"-->
 # Linda Bresee
@@ -320,8 +320,9 @@ Yet another couple, Dick and Georgine, likely met at Meany. The romance certainl
 
 Marriage has united a good many of the couples who met at Meany--but, so far, only Dick and Georgine have gone so far as to have the ceremony performed at the Lodge.
 
+<a name="Walter">
 
-#### Walter<a name="Walter">
+#### Walter
 
 All Mountaineer groups produce characters, and Meany is certainly no exception. Our most beloved character, hands down, was Walter B Little, a veteran of the 10th Mountain Division, a civil engineer who helped design the layout of the Crystal Mt ski resort, a member of the Ancient Skiers, and the self-proclaimed president of the RABCSA (Retro Active Birth Control Society of America). Walt was also one of The Great Teller of Tales.
 
