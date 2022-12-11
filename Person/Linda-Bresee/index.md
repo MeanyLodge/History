@@ -6,18 +6,19 @@ categories:
 ---
 <!--img src="/Person/$NAME/20YY.jpeg" style="width: 40%;" align="right"-->
 # Linda Bresee
-### Names
 ### Events
 - Birth Year:
 - First year at Meany: 1977
 
 
 {% include roles.html %}
+
+<!--
+### Names
 ### Known For
 ### More Info
 ### See Also
-### History
-
+### History-->
 
 ### Meandering through Meany Memories
 
@@ -127,8 +128,7 @@ better...so I thought.
 
 #### Pains and Gains of Ski Lessons
 
-One incident at Meany Lodge that stands out was Steven's first sight of the ski area and the rope tows. Actually, he didn't see the rope tows; all he saw were people zipping up that slope at
-nearly twenty mph.
+One incident at Meany Lodge that stands out was Steven's first sight of the ski area and the rope tows. Actually, he didn't see the rope tows; all he saw were people zipping up that slope at nearly twenty mph.
 
 "Wow! How do they do that, Auntie?"
 
@@ -148,8 +148,7 @@ Alpine footwear and skis have evolved tremendously in the 70's and 80's. Leather
 
 It doesn't do much for one's ego to stand at the age of thirty-nine in a beginning class of five-and six-year-olds, but it helped to have other adults with me. The instructor patiently put up with all the problems and inhibitions we adults were having, always giving encouragement as we struggled to learn how to be 'airplanes,' with arms extended and trying to make turns by digging the metal edges of the skis into the snow and 'dipping our wings.' The little ones, of course, took to the idea immediately. We adults fell, sweated, and swore a lot.
 
-Then we were introduced to the Worm Tow, the 2 mph torture rope that moves the skier uphill so slowly that one's arms are like fo fall right off at the shoulder. We never "got" off; we fell off,
-usually losing a ski in the process. It was never a simple task to replace the ski, because snow became caked to the bottom of the boot as one struggled upright and back into the binding, which had no toleration for caked snow. Nor does a ski docilely remain stationary while the beginner struggles to knock snow off the boot and jam it back into the binding. If nothing else that first day, we did learn the importance of stomping a flat space parallel to the slope, using the ski still attached to us, then seating the unattached ski into that space before trying to click back into the binding. This is truly an exhausting activity, constantly picking oneself up, retrieving the loose ski, and struggling back into the binding, but I worked hard at it, and by the end of the third Sunday of lessons, I could do a passable snowplow, albeit with an 'outhouse' crouch.
+Then we were introduced to the Worm Tow, the 2 mph torture rope that moves the skier uphill so slowly that one's arms are like fo fall right off at the shoulder. We never "got" off; we fell off, usually losing a ski in the process. It was never a simple task to replace the ski, because snow became caked to the bottom of the boot as one struggled upright and back into the binding, which had no toleration for caked snow. Nor does a ski docilely remain stationary while the beginner struggles to knock snow off the boot and jam it back into the binding. If nothing else that first day, we did learn the importance of stomping a flat space parallel to the slope, using the ski still attached to us, then seating the unattached ski into that space before trying to click back into the binding. This is truly an exhausting activity, constantly picking oneself up, retrieving the loose ski, and struggling back into the binding, but I worked hard at it, and by the end of the third Sunday of lessons, I could do a passable snowplow, albeit with an 'outhouse' crouch.
 
 Sadly, none of this was transferrable to cross-country skiing due to the total difference in equipment design. But I was hooked. Cross-country skiing, which I had only moderately enjoyed to begin with, gave way to my determination to learn alpine skiing, simply because I found it so demanding of a talent I seemed not to possess. I signed up for three more lessons, and three more after that.
 
@@ -159,8 +158,7 @@ The solution to the boot pain brought a solution to yet another pain...that of d
 
 Having my own boots and skis did not elevate me to higher levels of skiing, nor did it solve my aching knee, but toes and ankles rejoiced, and I did get better at doing the snowplow turns, although still in my outhouse crouch.
 
-About my third Saturday up there, I decided to take the next big step...to use a tow grip. That is a metal clamp shaped somewhat like a large pair of pliers but with a hooked 'beak' to grip the
-tow rope with greater strength than mere hands could, provide. Actually, on the Worm Tow, this was necessary only because the tow's slowness required so much time gripping that rope that exhaustion set in. And on the nineteen mph Mach Tow, few people had the hand strength required to hang on for the distance and steepness involved. The tow grip had a cord through a hole in the handle attached at the other end to a belt, the idea being not to lose the tow grip when one let go of it to swing off the rope at the desired spot.
+About my third Saturday up there, I decided to take the next big step...to use a tow grip. That is a metal clamp shaped somewhat like a large pair of pliers but with a hooked 'beak' to grip the tow rope with greater strength than mere hands could, provide. Actually, on the Worm Tow, this was necessary only because the tow's slowness required so much time gripping that rope that exhaustion set in. And on the nineteen mph Mach Tow, few people had the hand strength required to hang on for the distance and steepness involved. The tow grip had a cord through a hole in the handle attached at the other end to a belt, the idea being not to lose the tow grip when one let go of it to swing off the rope at the desired spot.
 
 Up to this point, our class merely skied up to the slow-moving rope and grabbed hold. I assumed one did the same with the tow grip. How wrongly I assumed. I very quickly found that this does vile and violent things to one's body. One moment I was happily standing beside the tow rope, all in one piece; the next moment, my arms, gloves and tow grip were inching their way up the hill...without me.
 
@@ -177,7 +175,7 @@ By the next weekend, the arms were better; still sore, but better. And, now, I k
 
 #### Pains and Gains II
 
-Nancy, a four-year adult beginning skier, and I were on the beginner slope trying to learn to switch from snowplow to paraltel skiing, without much progress being noted. To get me into faster turns, which can't be done in the snowplow position, Nancy stood at the bottom of the Bunny Hill, telling me when to turn, calling "Turn! Turn! Turn!" at a faster pace than I, still in my outhouse crouch, could handle. I think my tips crossed. Suddenly I was catapulting head over heels, more or less. The heels didn't follow through, perhaps, due to the angle that my head and right shoulder plowed into the snow. Three rapid pops from the shoulder echoed in my ears, no small feat, considering that the right ear was solidly packed with snow. I had no doubt whatever that I had broken a clavicle.
+Nancy, a four-year adult beginning skier, and I were on the beginner slope trying to learn to switch from snowplow to parallel skiing, without much progress being noted. To get me into faster turns, which can't be done in the snowplow position, Nancy stood at the bottom of the Bunny Hill, telling me when to turn, calling "Turn! Turn! Turn!" at a faster pace than I, still in my outhouse crouch, could handle. I think my tips crossed. Suddenly I was catapulting head over heels, more or less. The heels didn't follow through, perhaps, due to the angle that my head and right shoulder plowed into the snow. Three rapid pops from the shoulder echoed in my ears, no small feat, considering that the right ear was solidly packed with snow. I had no doubt whatever that I had broken a clavicle.
 
 Cautiously, ever...ever so cautiously, I sat up. First I cleared the snow from my ear because I was in no hurry to confirm my collarbone fracture. Gingerly, I began to probe for the tenderness and swelling that are supposed to accompany a fracture. Neither was evident! I couldn't believe it. No tenderness anywhere. I moved my arm. No problem. I whirled it in a circular motion. No pain. I was puzzled but relieved. I pulled the rest of the snow out of my ear, got back to my feet, and glided back to the tow rope to go up again. Everything was just super-rosy...until I grabbed the rope. OH-MY-GAWD-OOOH and OUCH! Wow! Did that hurt! I let go, and I was just fine again. Not being too bright, or I would never have gotten into skiing in the first place, I grabbed the moving rope again. Again the pain. I tried to go up gripping with my left hand only, but I wasn't strong enough. Reluctantly, I chose to call it a day.
 
@@ -196,6 +194,7 @@ Even with my arm in a sling, I could carry a big pack since the weight, via the 
 Betty was not a backpacker. She was carrying only a small daypack, which is not attached to a frame with a waist belt. All the weight hangs directly from the shoulder straps. She couldn't grasp the idea that, even with my heavier load, the frame and waist belt left me in complete comfort. She nattered and nattered that we should exchange packs, leaving me with the smaller pack to carry. To make her happy, we made the swap, but that didn't last long. Her pack was too painful for me to deal with. I insisted on getting mine back so I could shift the weight back to my hips.
 
 By summer, my arm was fine, and I introduced Betty to the subtleties of backpacking in the greater comfort of using a pack with a frame. Summer and fall work parties to prepare the lodge for a second winter of my ski lessons also helped fill the time until enough snow once again fell and I once again began a season of lessons...and, of course, more pain.
+
 
 #### Pains and Gains III
 
@@ -223,8 +222,7 @@ Smoke rose from my gloves. I leaned back. I shot forward and upward, my desperat
 
 I did not do much right on this descent. In fact, much of the descent was done on my back, collecting quantities of snow under my shirt and pants, or, more often, I was plowing furrows with my nose. Then the instructor thought we should do South Slobovia, traversing once more the scene of my earlier terror. The old adage about familiarity breeding contempt was very slow to develop in me. In this case, familiarity made me all too aware of all the pitfalls that traverse possesses. Once again I somehow made it across safely, as terrified as the first time, but at least this time I began to descend South Stobovia more on my skis than on body parts, still in my outhouse crouch, but more or less upright.
 
-For the season's final lesson, the instructor had what at first seemed good news: no trips to either North or South Slobovia; no need to sweat that traverse again. Instead, he said, ever so
-sweetly, we will just go to the top of the Mach Tow, turn around right there, and ski down. That is the steepest slope on the property!! From the top, one can look down and not even see the side! Terror almost undid me, but, bit by quaking bit, with only two slips doing dire things to my hip joints, I did get down without having to resort to sideslipping. I did not go back up. Some things are best saved for other times...or even other people.
+For the season's final lesson, the instructor had what at first seemed good news: no trips to either North or South Slobovia; no need to sweat that traverse again. Instead, he said, ever so sweetly, we will just go to the top of the Mach Tow, turn around right there, and ski down. That is the steepest slope on the property!! From the top, one can look down and not even see the side! Terror almost undid me, but, bit by quaking bit, with only two slips doing dire things to my hip joints, I did get down without having to resort to sideslipping. I did not go back up. Some things are best saved for other times...or even other people.
 
 
 #### New Year's Eve at Meany Ski Hut
@@ -237,15 +235,11 @@ We left early the next morning to catch the 'cat' to Meany by 9. It was so cold.
 
 At 4 pm, I was at SeaTac to meet my friend, Ingrid. She had an eight-hour layover on her way from Alaska to South Africa, where she had been born and raised. We dined in Mukilteo, then whiled away the remaining time just visiting until she had to board her plane.
 
-The next day would wisely have been a day of rest, but wisdom is not one of my strong points. A friend called to ask me to join her in a cross-country ski outing. Still in 8 degree weather, we met
-at Silverton on the Mt Loop Hwy and cross-country skied some distance on the closed road alongside the Stillaguamish River. One of my toes apparently froze. After the trip, it hurt, turned dark, and eventually lost a nail.
+The next day would wisely have been a day of rest, but wisdom is not one of my strong points. A friend called to ask me to join her in a cross-country ski outing. Still in 8 degree weather, we met at Silverton on the Mt Loop Hwy and cross-country skied some distance on the closed road alongside the Stillaguamish River. One of my toes apparently froze. After the trip, it hurt, turned dark, and eventually lost a nail.
 
-Again, resting the following day would have made the utmost sense, but I had a reservation to spend the night again at Meany, and off I went again, to catch the early 'cat.' The frigid
-temperature likely had frozen what few active brain cells still left to me. I was still very much a novice downhill skier, still using only the Worm Tow to be dragged almost half-way up the slope
-at 2 mph. Such a maddeningly slow speed! It was time for me to bite the bullet and learn to use the Mach Tow. Trepidation had my heart pounding wildly as I gingerly sidled up alongside the fast-moving rope. I touched. I grasped. I gasped. Smoke rose from my leather-protected gloves. I tightened my grip. Suddenly I was on my way, flying faster than a speeding bullet, unable to leap tall buildings or anything at all...just desperately hanging on. My face disappeared as my eyes widened to the size of dessert plates. Would I be able to let go in time? Could I? Not to do so meant flying ever upward at 19 mph at an impossibly steep angle to an area no beginning skier should ever be near. What a TRIP! I did let go in time. I did survive. Then it became fun, more or less, although it sure chewed the hell out of my gloves.
+Again, resting the following day would have made the utmost sense, but I had a reservation to spend the night again at Meany, and off I went again, to catch the early 'cat.' The frigid temperature likely had frozen what few active brain cells still left to me. I was still very much a novice downhill skier, still using only the Worm Tow to be dragged almost half-way up the slope at 2 mph. Such a maddeningly slow speed! It was time for me to bite the bullet and learn to use the Mach Tow. Trepidation had my heart pounding wildly as I gingerly sidled up alongside the fast-moving rope. I touched. I grasped. I gasped. Smoke rose from my leather-protected gloves. I tightened my grip. Suddenly I was on my way, flying faster than a speeding bullet, unable to leap tall buildings or anything at all...just desperately hanging on. My face disappeared as my eyes widened to the size of dessert plates. Would I be able to let go in time? Could I? Not to do so meant flying ever upward at 19 mph at an impossibly steep angle to an area no beginning skier should ever be near. What a TRIP! I did let go in time. I did survive. Then it became fun, more or less, although it sure chewed the hell out of my gloves.
 
-I enjoyed myself hugely that day, probably the more so after successfully staring death in the face. I was really looking forward to bringing my-Alaskan friends wintering in Pt Townsend to
-enjoy a day at Meany. They were due that night. Leaving my skis at the lodge, I hopped the 4:45 'cat' back to the parking lot, then made the eighty-mile trip home to finish dinner preparations. I had already cooked beans for chili. Since my friends were not due until 7:30, there was plenty of time to have it ready for them when they walked through the door.
+I enjoyed myself hugely that day, probably the more so after successfully staring death in the face. I was really looking forward to bringing my-Alaskan friends wintering in Pt Townsend to enjoy a day at Meany. They were due that night. Leaving my skis at the lodge, I hopped the 4:45 'cat' back to the parking lot, then made the eighty-mile trip home to finish dinner preparations. I had already cooked beans for chili. Since my friends were not due until 7:30, there was plenty of time to have it ready for them when they walked through the door.
 
 At 7:30, the chili was burbling merrily on the stove. I had a fire in the fireplace, and all was ready for my guests. At 7:30, the phone rang. It was Gail. They were still in Pt Townsend. The prospect of facing drunk drivers on New Year's Eve had unnerved Paul. They decided not to come. They were sorry.
 
@@ -276,8 +270,7 @@ Hail and snow greeted me as I neared the summit of Snoqualmie. It continued to s
 
 It was 10 pm when we finally reached the lodge. The music was still playing, but most people had gone to bed. There were no empty bunks in the dorm, so I plopped my gear in the dungeon, an area in the basement behind the big furnace, surrounded by hanging, drying clothing, but equipped with a sofa...of sorts. The basement also holds the wood supply, the bathrooms, the washbasins, and the ski racks. Benches are available to use while struggling into or out of boots. It is also the area where the teenagers hung out before a special rec room was built for them. Tired as I was, I stayed up until the last of the dancers quit at 11 and the musicians put away their instruments. By time all had finished their bedtime preparations downstairs in the basement, it was 11:30 and I could finally lie down. Of course, I hadn't counted on the teenagers. They were not at all ready to call it a night, and here I was, in what they considered their area, wanting to sleep. They were not happy, but they knew a crabby schoolteacher when they saw one and hastily headed back to the dining area.
 
-Tired as I was, I couldn't sleep. I could still hear the giggling from the dining area, and so could the people in the dorms above. About 12:15, someone chased the kids to bed. Another hour passed before I drifted off, only to hear the furnace door clang as the fire was stoked. Then the bladder parade began, a steady patronization of the johns about 10-12' from me. It was a short night of sleep. At 6:30 I gave up and went up to the dining room to help set up for breakfast. The skiing was good that day, the food was wonderful, and the music was outstanding, well worth all the hassles of getting there late and losing a fair amount of sleep. At home that evening I was in bed very early, for I
-had more teenagers to face the next morning at school.
+Tired as I was, I couldn't sleep. I could still hear the giggling from the dining area, and so could the people in the dorms above. About 12:15, someone chased the kids to bed. Another hour passed before I drifted off, only to hear the furnace door clang as the fire was stoked. Then the bladder parade began, a steady patronization of the johns about 10-12' from me. It was a short night of sleep. At 6:30 I gave up and went up to the dining room to help set up for breakfast. The skiing was good that day, the food was wonderful, and the music was outstanding, well worth all the hassles of getting there late and losing a fair amount of sleep. At home that evening I was in bed very early, for I had more teenagers to face the next morning at school.
 
 
 #### Follow-up to the Meany New Year Follow-up
@@ -290,8 +283,7 @@ There was plenty to do indoors to entertain children. Board games and card games
 
 Except for toddlers, each child was expected to pitch in with clean-up at the end of the weekend. Nor were children exempt from washing their own dishes after a meal. A chair was provided for small ones to be able to reach the sink. Parents who wished to spare their children these little inconveniences of life soon decided it was better to follow lodge rules than be nattered at by the regulars who could not abide pampered children.
 
-Sometimes parents were simply oblivious to their children's actions. Two young girls, pre-teen or just barely into their teens, had a tough time adjusting to Meany expectations. They had led a
-privileged life of servants performing every little chore as their father was a math teacher at a school in Saudi Arabia. There, servants were an accepted part of life, likely barely noticed. The girls had no idea what it was to look after themselves. At Meany, they continued to think menial chores were for others to do, not for them. After a meal, at first they'd just get up and leave the table. Angry yells brought them back to pick up their dishes, which were then just dumped off at the sink for some one else to wash. That didn't go over very well, either. Resentfully, they would stomp back to do the minimum washing and drying expected of everybody. A trail of their belongings made it obvious where they had been. And their rather haughty air of importance endeared them to no age group. Their appearance each weekend was not greeted with joy. I'm sure that being there was not of their choice, either.
+Sometimes parents were simply oblivious to their children's actions. Two young girls, pre-teen or just barely into their teens, had a tough time adjusting to Meany expectations. They had led a privileged life of servants performing every little chore as their father was a math teacher at a school in Saudi Arabia. There, servants were an accepted part of life, likely barely noticed. The girls had no idea what it was to look after themselves. At Meany, they continued to think menial chores were for others to do, not for them. After a meal, at first they'd just get up and leave the table. Angry yells brought them back to pick up their dishes, which were then just dumped off at the sink for some one else to wash. That didn't go over very well, either. Resentfully, they would stomp back to do the minimum washing and drying expected of everybody. A trail of their belongings made it obvious where they had been. And their rather haughty air of importance endeared them to no age group. Their appearance each weekend was not greeted with joy. I'm sure that being there was not of their choice, either.
 
 I never did know what happened to their mother or how long they had been motherless. Their dad, Pete, was on vacation from his Saudi Arabian job, using his time to find a replacement for their mother.
 
@@ -320,8 +312,7 @@ Of the two, Ed was the superior skier. He always went up to the more difficult s
 
 Lunch and other meals were always brought in a multitude of tupperware containers. It was not unusual to see one offering the other a dainty morsel on the tip of a fork, with love. Theirs is a love sure to endure.
 
-Occasionally Nancy's parents would come to the lodge, also bringing their own food supply. One day they arrived too late to catch the snow cat ride in and decided to walk the three miles to the
-lodge through rather deep snow. They left before noon, quite heavily burdened. The snowcat driver saw them near the turn-off from Stampede Pass Road to the lodge, about four hours later, as he came out for the evening run. They weren't making very fast progress. When he returned to the lodge some time later, the couple still had not arrived, and the driver had not seen them on the road. Quickly a search party was formed, and the couple was soon found. They had tried to take a shortcut through the woods and had become bogged down in the deep snow. Had the snowcat driver not seen them earlier, no one would have known they were out there.
+Occasionally Nancy's parents would come to the lodge, also bringing their own food supply. One day they arrived too late to catch the snow cat ride in and decided to walk the three miles to the lodge through rather deep snow. They left before noon, quite heavily burdened. The snowcat driver saw them near the turn-off from Stampede Pass Road to the lodge, about four hours later, as he came out for the evening run. They weren't making very fast progress. When he returned to the lodge some time later, the couple still had not arrived, and the driver had not seen them on the road. Quickly a search party was formed, and the couple was soon found. They had tried to take a shortcut through the woods and had become bogged down in the deep snow. Had the snowcat driver not seen them earlier, no one would have known they were out there.
 
 The search party put the couple's gear aboard the snowcat, then set about the job of getting the wife unstuck from hip-high snow. This was no small job; she was not tall, but she was quite rotund. Then came the task of getting her aboard the snowcat; she was too exhausted to offer much help. One person pushed from behind and another inside the snowcat pulled mightily. Success at last, and, long overdue, the weary couple were brought to the warm welcome of Meany Ski Lodge.
 
@@ -330,7 +321,7 @@ Yet another couple, Dick and Georgine, likely met at Meany. The romance certainl
 Marriage has united a good many of the couples who met at Meany--but, so far, only Dick and Georgine have gone so far as to have the ceremony performed at the Lodge.
 
 
-#### Walter
+#### Walter<a name="Walter">
 
 All Mountaineer groups produce characters, and Meany is certainly no exception. Our most beloved character, hands down, was Walter B Little, a veteran of the 10th Mountain Division, a civil engineer who helped design the layout of the Crystal Mt ski resort, a member of the Ancient Skiers, and the self-proclaimed president of the RABCSA (Retro Active Birth Control Society of America). Walt was also one of The Great Teller of Tales.
 
