@@ -142,9 +142,14 @@ When it arrives, two long ropes are tossed off the back of the covered tractor w
 
 #### 2020
 
-In January, at a special mid-week work party, the following persons trekked up to Meany Lodge to put new tracks on Tomcat: [Chuck Welter](/Person/Chuck-Welter), [Matt Simerson](/Person/Matt-Simerson), [Dan Nord](/Person/Dan-Nord), [James Kotlik](/Person/James-Kotlik), [Norm Vigus](/Person/Norm-Vigus), [Michael Froebe](/Person/Michael-Froebe), [Rick Ingham](/Person/Rick-Ingham)
+In January, at a special mid-week work party, the following persons trekked up to Meany Lodge to put new tracks on Tomcat: [Chuck Welter](/Person/Chuck-Welter), [Matt Simerson](/Person/Matt-Simerson), [Dan Nord](/Person/Dan-Nord), [James Kotlik](/Person/James-Kotlik), [Norm Vigus](/Person/Norm-Vigus), [Michael Froebe](/Person/Michael-Froebe), [Rick Ingham](/Person/Rick-Ingham). Nuts & Bolts from Tacoma Screw: $1,100. Belts cost: ??
 
-In May, [Alex de Klerk](/Person/Alex-de-Klerk) shipped the old differential to Minnesota Outdoors to get rebuilt.
+In May, [Alex de Klerk](/Person/Alex-de-Klerk) shipped the old differential to Minnesota Outdoors to get rebuilt. Cost $6,700.
+
+#### 2022
+
+Replaced 20 tires for $6,600 and replaced 20 bearing sets for $1,800.
+
 
 [75th]: /Event/Anniversary#75th
 [htt]: /Skiers-Hit-The-Trail
