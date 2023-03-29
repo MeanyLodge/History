@@ -14,10 +14,15 @@ tags: founder
 {% include roles.html %}
 
 ## Known For
-- Professor at University of Washington
+- Professor of Botony and History at University of Washington
+- [Mount Meany](https://en.wikipedia.org/wiki/Mount_Meany) in the Olympic Mountains
+- Moving the UW to its current campus
+- Meany Middle School (on Capital Hill in Seattle)
+- Meany Hall / [Meany Center for the Performing Arts](https://meany.org/)
 - Buying the land for Meany Lodge and donating it to the Mountaineers
 
 ### See Also
+- 1894 - [Edmond S. Meany US Biography](meany-papers)
 - 1907 - [The Mountaineers, A History](mountaineers-history)
 - 1936 - [Creating Meany's Painting](1936-Anna-Rogers-Painting-Of-Meany.pdf)
 - 1956 - [A Word Portrait of Edmond S. Meany](/Person/Edmond-Meany/Word-Portrait)
@@ -77,6 +82,7 @@ All of this was socially acceptable among most club members at the time, and it 
 
 During the 1960s and 1970s, as awareness of civil rights grew, the membership procedure was changed to welcome anyone fourteen years of age or older who agreed with the purposes of The Mountaineers and was willing to pay a small initiation fee and annual dues.
 
+---
 
 ## Portrait
 
