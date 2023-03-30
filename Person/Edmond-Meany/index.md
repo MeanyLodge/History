@@ -11,10 +11,16 @@ tags: founder
 - Edmond Meany
 - Edmond S. Meany
 
+### Events
+- Birth Year: 1862
+- First year at Meany Lodge: 1928
+- Death Year: 1935
+
 {% include roles.html %}
 
 ## Known For
 - Professor of Botony and History at University of Washington
+- Author of <i>History of the State of Washington</i>, <i>Mount Rainier, A Record of Explorations</i>, and more.
 - [Mount Meany](https://en.wikipedia.org/wiki/Mount_Meany) in the Olympic Mountains
 - Moving the UW to its current campus
 - Meany Middle School (on Capital Hill in Seattle)
@@ -22,12 +28,14 @@ tags: founder
 - Buying the land for Meany Lodge and donating it to the Mountaineers
 
 ### See Also
-- 1894 - [Edmond S. Meany US Biography](meany-papers)
+- 1894 - [Edmond S. Meany UW Biography](meany-papers)
 - 1907 - [The Mountaineers, A History](mountaineers-history)
+- 1935 - [Throngs File By Bier of Meany](throngs-bier)
 - 1936 - [Creating Meany's Painting](1936-Anna-Rogers-Painting-Of-Meany.pdf)
 - 1956 - [A Word Portrait of Edmond S. Meany](/Person/Edmond-Meany/Word-Portrait)
 - 1998 - [A brief Biography of Professor Meany](https://www.mountaineers.org/locations-lodges/meany-lodge/history/edmond-s-meany)
 - [Wikipedia Article](https://en.wikipedia.org/wiki/Edmond_S._Meany)
+
 
 ---
 
