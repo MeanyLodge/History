@@ -150,6 +150,27 @@ In May, [Alex de Klerk](/Person/Alex-de-Klerk) shipped the old differential to M
 
 Replaced 20 tires for $6,600 and replaced 20 bearing sets for $1,800.
 
+Rick Ingham update:
+
+1-24 weekend:
+Went to start Tomcat Saturday morning at the lodge and batteries were dead.  Humm... hint?  Charged him up and all well rest of weekend.
+Started him up after charging and exhaust had come loose.  Drove him up on to the railroad ties in Zoo.  Teens and I removed and replaced one of the flex pipes that had come loose.  Seemed awful short, not much overlap with steel pipes, so we cut a new piece a little longer to have good clamping overlap and reassembled.  All good.
+
+2-4 weekend:
+Batteries died Friday night in parking lot.  Batteries pulled and replaced Saturday morning.  Date code on batteries indicated they were 10-11 years old, so they were tired.
+Noticed at the lodge after refueling and turning Tomcat around staging for Sunday afternoon, that engine was abnormally hot, 220 degrees instead of usual 170-180.  Had only turned TC around, so shouldn't have been hot at all.  realized fans weren't running.  Checked circuit breaker.  Wiggled wires, and fans kicked on, so thought it was a connection at the breaker.  Since fans worked again, diagnosed further following weekend.
+
+2-11 weekend:
+Found corroded connection on engine fans ground wire near circuit breaker.  Fixed intermittent fan issue.
+Fixed loose ground connection causing intermittent failure of forward dome light.
+Installed LED lights replacing two side floods, rear "backup" floods, and two spot "high beam" lights.  This should remove over 10 amps of draw when sitting in the parking lot engine off with the lights on.
+Adjusted brakes.  We have reached the limit on the threads of the right hand brake.  I think we will have to start shimming with washers to bet any more brake adjustment on that one.  I suspect left hand is near its limit as well.
+Brakes:  Is there more adjustability from inside the differential cover?  Seems like we have reached the adjustability limit far too early.  Maybe the fixed side of the brake band has adjustment inside?
+
+Nothing major, just little fixed each of the last few weeks.
+
+Next weekend I'm going to put a relay in between the fuse box and the fuel pump triggered of the IGN post on the ignition switch so the fuel pump doesn't run when the key is in the ACC position running the lights in the parking lot with the engine off.  Not a big deal, but the chattering of the fuel pump bugs me when we are not running the engine.  Looked at the wiring Sunday and will be real easy and space for it available.
+
 
 [75th]: /Event/Anniversary#75th
 [htt]: /Skiers-Hit-The-Trail
