@@ -43,11 +43,11 @@ For the Sunday Birthday Ceremony, Bob Cram, old-time Meanyite and well-known car
 
 [Fred Ball](/Person/Fred-Ball), an energetic 81-year-old and the 1932 Hut Chairman, entertained the group by singing "Wild Bill Maxwell," a tale written by Art Winder in the 1930's about one of the best-loved and most colorful of Meany's early skiers. Much credit was given to "Max" for organizing the backbreaking labor necessary for building the Hut and clearing the lane. Maxwell's widow, Opal, proudly beamed in the audience as "Max's" story was told in song.
 
-1948 Hut Chairman, Malcolm Post, keenly recollected the early-day preparations for the winter - getting in the coal and the gas drums. He jokingly said, "Between a crew of girls moving the coal and anotehr crew upon the hill cutting logs and hte fellows pointing out where the logs should be put, we did pretty well."
+1948 Hut Chairman, Malcolm Post, keenly recollected the early-day preparations for the winter - getting in the coal and the gas drums. He jokingly said, "Between a crew of girls moving the coal and another crew upon the hill cutting logs and the fellows pointing out where the logs should be put, we did pretty well."
 
 Bob Gram's imitation of "Charlie's" jungle noises in the men's dorm had the crowd roaring. As Cram said, "He had no rhythm to his snoring."
 
-Hut Chairman of 1955-56, Dick Merritt, with his "monologue", humorously gave his impressions of some of hte "people problems" found at Meany. What was going to happen if "juniors" took over the Lodge?
+Hut Chairman of 1955-56, Dick Merritt, with his "monologue", humorously gave his impressions of some of the "people problems" found at Meany. What was going to happen if "juniors" took over the Lodge?
 
 [Bill Brockman](/Person/Bill-Brockman), 1953 Hut Chairman, told of some of the technical problems of getting highly-esteemed, over-weight "Nashie," the cook, up the hill each weekend. She prepared the meals at Meany for twenty nine years, from 1935 to 1964. [Peggy Grass](/Person/Peggy-Grass) has been our ingenious cook for the last eleven years.
 
