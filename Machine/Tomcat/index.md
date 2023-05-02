@@ -19,10 +19,12 @@ categories: Machine, Tractor
 Haul people, gear, and supplies ~3 miles back and forth from the Crystal Springs Sno-Park to Meany. Bought in 1960 after the NPRR discontinued passenger train service to Martin.
 
 ### Specifications
-- Model: 1956 Bombardier Muskeg
+- Year: 1956
+- Manufacturer: Bombardier
+- Model: Muskeg M
 - Engine: Chevrolet 292ci 6-cylinder, 147 HP
 - Fuel: gasoline
-- Capacity: ~100 persons (think: very long tow rope)
+- Capacity: ~90 persons (think: very long tow rope)
 - Acquired: 1961
 - Cost: $4,800
 - Manual: [Manual.pdf](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/tomcat/Manual.pdf)
