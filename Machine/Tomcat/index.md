@@ -23,11 +23,14 @@ Haul people, gear, and supplies ~3 miles back and forth from the Crystal Springs
 - Manufacturer: Bombardier
 - Model: Muskeg M
 - Engine: Chevrolet 292ci 6-cylinder, 147 HP
-- Fuel: gasoline
+- Fuel: gasoline, 1-2 mpg.
 - Capacity: ~90 persons (think: very long tow rope)
 - Acquired: 1961
 - Cost: $4,800
 - Manual: [Manual.pdf](https://raw.githubusercontent.com/MeanyLodge/meanylodge.github.com/assets/reference/tomcat/Manual.pdf)
+- Snow pressure: 1.17 PSI empty, 2 PSI gross
+- Track width: 28"
+- Weight: 8,850# empty, 16,000# gross
 
 ### Mechanics
 
