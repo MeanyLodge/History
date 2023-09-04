@@ -216,6 +216,9 @@ The current motor systems on the small and medium tows were installed several ye
 
 Replaced the Mach rope. Rope is <a href="https://www.samsonrope.com/product/ssr-1200-3">Samson SSR-1200-3</a> 1". It's a Polyolefin - Polyester Blend, 3 strand class I rope with 1.2 Specific Gravity and average strength of 25,400 pounds. 
 
+#### 2023
+
+That differential housing has two fill plugs.  One above and one below the center line.  The axle can be inverted in the original military application.  The correct oil level is to the top fill plug so the oil gets out and lubricates the wheel bearings.  Last time I changed the oil is 15+ years ago and I used Amsoil 75W-90 marine gear lube.  I have no idea how much the system takes.  If the oil gets low, the wheel bearings and seals will fail.  I guarantee they are no longer available as I had trouble finding a set for repairs back in the 1960's.  -- [Mike Lonergan](/Person/Mike-Lonergan)
 
 [75th]: /Event/Anniversary#75th
 [dc87]: /Person/Dave-Claar#1987
